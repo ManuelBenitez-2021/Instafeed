@@ -1,0 +1,203 @@
+
+/* Class = "UIButton"; normalTitle = "New"; ObjectID = "1Hu-KZ-vrJ"; */
+"1Hu-KZ-vrJ.normalTitle" = "नया";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "1Il-1g-cdw"; */
+"1Il-1g-cdw.normalTitle" = "सभी देखें";
+
+/* Class = "UILabel"; text = "comment comment comment comment commentcomment comment commentcomment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment "; ObjectID = "1bu-vo-Cpf"; */
+"1bu-vo-Cpf.text" = " ";
+
+/* Class = "UILabel"; text = "25 july,2019"; ObjectID = "1cY-1d-nlM"; */
+"1cY-1d-nlM.text" = "25 july,2019";
+
+/* Class = "UILabel"; text = "detailed text detailed text detailed text detailed text detailed text detailed text detailed text detailed text detailed text detailed text detailed text detailed text"; ObjectID = "2I5-bc-qET"; */
+"2I5-bc-qET.text" = "";
+
+/* Class = "UILabel"; text = "23"; ObjectID = "3A5-ZE-hv4"; */
+"3A5-ZE-hv4.text" = "23";
+
+/* Class = "UIButton"; normalTitle = "Liked"; ObjectID = "3Fp-1v-bTe"; */
+"3Fp-1v-bTe.normalTitle" = "पसंद किया";
+
+/* Class = "UILabel"; text = "Superstar"; ObjectID = "5to-5Y-QNH"; */
+"5to-5Y-QNH.text" = "सुपरस्टार";
+
+/* Class = "UILabel"; text = "The Times of India"; ObjectID = "6Gl-tP-0kG"; */
+"6Gl-tP-0kG.text" = "द टाइम्स ऑफ़ इण्डिया";
+
+/* Class = "UILabel"; text = "Times of India"; ObjectID = "6va-i2-wQe"; */
+"6va-i2-wQe.text" = "टाइम्स ऑफ़ इण्डिया";
+
+/* Class = "UIButton"; normalTitle = "Posts"; ObjectID = "7XK-tk-DNL"; */
+"7XK-tk-DNL.normalTitle" = "पोस्ट";
+
+/* Class = "UILabel"; text = "Klaus Mikelson"; ObjectID = "9Hh-wb-Dkf"; */
+"9Hh-wb-Dkf.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "9qP-jS-xcU"; */
+"9qP-jS-xcU.normalTitle" = "फॉलो";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "A1i-G1-xDU"; */
+"A1i-G1-xDU.text" = "लेबल";
+
+/* Class = "UIButton"; normalTitle = "Post"; ObjectID = "Dgs-UB-Unz"; */
+"Dgs-UB-Unz.normalTitle" = " पोस्ट";
+
+/* Class = "UILabel"; text = "Citizen"; ObjectID = "FcQ-Xd-J8V"; */
+"FcQ-Xd-J8V.text" = "नागरिक";
+
+/* Class = "UILabel"; text = "32"; ObjectID = "Fed-b9-XiI"; */
+"Fed-b9-XiI.text" = "32";
+
+/* Class = "UILabel"; text = "Followers"; ObjectID = "GFm-iW-E5v"; */
+"GFm-iW-E5v.text" = "फॉलोवर्स";
+
+/* Class = "UITextView"; text = "dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Hem-AS-C5H"; */
+"Hem-AS-C5H.text" = "";
+
+/* Class = "UILabel"; text = "Recommended Sources"; ObjectID = "J2d-rJ-An7"; */
+"J2d-rJ-An7.text" = "अनुशंसित स्रोत";
+
+/* Class = "UITextField"; placeholder = "Search sources/channel/superstars"; ObjectID = "J9u-Yg-Q7g"; */
+"J9u-Yg-Q7g.placeholder" = "खोज स्रोत / चैनल / सुपरस्टार";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "L3p-X7-CdA"; */
+"L3p-X7-CdA.title" = "घर";
+
+/* Class = "UILabel"; text = "Commented on your post"; ObjectID = "MPA-lE-gXI"; */
+"MPA-lE-gXI.text" = "आपकी पोस्ट पर टिप्पणी की";
+
+/* Class = "UILabel"; text = "2.5K"; ObjectID = "NHN-fY-9xa"; */
+"NHN-fY-9xa.text" = "2.5K";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "NoD-lI-jTb"; */
+"NoD-lI-jTb.text" = "";
+
+/* Class = "UILabel"; text = "15june,2019 11:05"; ObjectID = "Nsw-Ht-VjW"; */
+"Nsw-Ht-VjW.text" = "15 june,2019 11:05";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "OUP-kr-26i"; */
+"OUP-kr-26i.text" = "100";
+
+/* Class = "UILabel"; text = "Mason Moreno"; ObjectID = "Ob3-92-le8"; */
+"Ob3-92-le8.text" = "मेसन मोरेनो";
+
+/* Class = "UILabel"; text = "Feeds"; ObjectID = "ObU-J5-nBU"; */
+"ObU-J5-nBU.text" = "फीड";
+
+/* Class = "UILabel"; text = "Comments"; ObjectID = "PjB-AK-Ubb"; */
+"PjB-AK-Ubb.text" = "टिप्पणियाँ";
+
+/* Class = "UILabel"; text = "10K Followers"; ObjectID = "S0J-pE-17k"; */
+"S0J-pE-17k.text" = "10K फॉलोवर्स";
+
+/* Class = "UILabel"; text = "Brand"; ObjectID = "SAS-sN-tHn"; */
+"SAS-sN-tHn.text" = "ब्रांड";
+
+/* Class = "UILabel"; text = "34K"; ObjectID = "Ses-ud-Xpp"; */
+"Ses-ud-Xpp.text" = "34K";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "U4l-Er-lfZ"; */
+"U4l-Er-lfZ.text" = "लेबल";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Wup-gP-Pqe"; */
+"Wup-gP-Pqe.text" = "शीर्षक";
+
+/* Class = "UILabel"; text = "Donald trump has won the US election,Meanwhile Obama congratulated him"; ObjectID = "Xvi-Lp-RCw"; */
+"Xvi-Lp-RCw.text" = "";
+
+/* Class = "UILabel"; text = "Delhi govt bans the use of plastic bags now on"; ObjectID = "aed-re-3Vf"; */
+"aed-re-3Vf.text" = "";
+
+/* Class = "UILabel"; text = "567"; ObjectID = "alV-Dy-41s"; */
+"alV-Dy-41s.text" = "567";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bQ9-qY-Bsg"; */
+"bQ9-qY-Bsg.text" = "लेबल";
+
+/* Class = "UILabel"; text = "534 Stories"; ObjectID = "cEa-1k-11h"; */
+"cEa-1k-11h.text" = " कहानियों";
+
+/* Class = "UILabel"; text = "Bookmarks"; ObjectID = "cPJ-LW-Fp7"; */
+"cPJ-LW-Fp7.text" = "बुकमार्क";
+
+/* Class = "UIButton"; normalTitle = "Add a comment"; ObjectID = "eGS-Sw-bBV"; */
+"eGS-Sw-bBV.normalTitle" = "एक टिप्पणी जोड़े";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fS2-Or-g6B"; */
+"fS2-Or-g6B.normalTitle" = "बटन";
+
+/* Class = "UILabel"; text = "New Delhi,India"; ObjectID = "g0D-sH-kqd"; */
+"g0D-sH-kqd.text" = "";
+
+/* Class = "UITextField"; placeholder = "Search for your local language"; ObjectID = "hCU-37-KSm"; */
+"hCU-37-KSm.placeholder" = "अपनी स्थानीय भाषा खोजें";
+
+/* Class = "UILabel"; text = "981"; ObjectID = "hnX-tI-vcu"; */
+"hnX-tI-vcu.text" = "981";
+
+/* Class = "UILabel"; text = "Recents"; ObjectID = "jZI-Tb-GGB"; */
+"jZI-Tb-GGB.text" = "रीसेंट";
+
+/* Class = "UILabel"; text = "2.5K"; ObjectID = "kh5-kL-VvE"; */
+"kh5-kL-VvE.text" = "2.5K";
+
+/* Class = "UILabel"; text = "45"; ObjectID = "mpm-MM-Yvw"; */
+"mpm-MM-Yvw.text" = "45";
+
+/* Class = "UILabel"; text = "Following"; ObjectID = "n5C-8V-q7H"; */
+"n5C-8V-q7H.text" = "फॉलोइंग";
+
+/* Class = "UILabel"; text = "Sports"; ObjectID = "nXH-6C-28c"; */
+"nXH-6C-28c.text" = "खेल";
+
+/* Class = "UILabel"; text = "text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text "; ObjectID = "njc-pQ-vsx"; */
+"njc-pQ-vsx.text" = "";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oWN-k5-3Pd"; */
+"oWN-k5-3Pd.text" = "लेबल";
+
+/* Class = "UILabel"; text = "Follow your intrest below to have a personalised experience"; ObjectID = "omz-L8-ufI"; */
+"omz-L8-ufI.text" = "व्यक्तिगत अनुभव रखने के लिए नीचे अपनी रुचि का पालन करें";
+
+/* Class = "UILabel"; text = "Europe has six of the ten healthiest nation on earth Europe has six of the ten healthiest nation on earth "; ObjectID = "pFi-Mw-aMl"; */
+"pFi-Mw-aMl.text" = "";
+
+/* Class = "UILabel"; text = "The Times of India"; ObjectID = "prn-AB-rP2"; */
+"prn-AB-rP2.text" = "";
+
+/* Class = "UINavigationItem"; title = "Notifications"; ObjectID = "rDI-mR-yHi"; */
+"rDI-mR-yHi.title" = "सूचनाएं ";
+
+/* Class = "UILabel"; text = "5 min"; ObjectID = "sMq-cH-nop"; */
+"sMq-cH-nop.text" = "5 min";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "syX-mZ-QVH"; */
+"syX-mZ-QVH.text" = "लेबल";
+
+/* Class = "UILabel"; text = "571K Followers"; ObjectID = "tRT-oG-bte"; */
+"tRT-oG-bte.text" = "571K Followers";
+
+/* Class = "UILabel"; text = "Headline Headline Headline HeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadline"; ObjectID = "tTF-x4-Xhr"; */
+"tTF-x4-Xhr.text" = "";
+
+/* Class = "UILabel"; text = "Delhi Govt bans the use of plastic bags, usage will cause a penalty"; ObjectID = "txC-7d-9w9"; */
+"txC-7d-9w9.text" = "";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "uZZ-md-RPH"; */
+"uZZ-md-RPH.text" = "10";
+
+/* Class = "UILabel"; text = "Politics"; ObjectID = "w7O-Ta-Mal"; */
+"w7O-Ta-Mal.text" = "राजनीति";
+
+/* Class = "UILabel"; text = "82"; ObjectID = "yhU-ym-uQh"; */
+"yhU-ym-uQh.text" = "82";
+
+/* Class = "UINavigationItem"; title = "Categories"; ObjectID = "zUc-M3-r1x"; */
+"zUc-M3-r1x.title" = "श्रेणियाँ";
+
+/* Class = "UITextField"; placeholder = "Search News, Video & More..."; ObjectID = "zmt-s3-4FM"; */
+"zmt-s3-4FM.placeholder" = "खोज समाचार, वीडियो और अधिक ...";
+
+"API_CANCEL_TITLE" = "रद्द करें";

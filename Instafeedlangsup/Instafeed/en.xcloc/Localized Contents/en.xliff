@@ -1,0 +1,1778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Instafeed/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.3" build-num="10G8"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>instafeed</source>
+        <target>instafeed</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>Instafeed</source>
+        <target>Instafeed</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription">
+        <source>instafeed would lime to acess camera to assist you better</source>
+        <target>instafeed would lime to acess camera to assist you better</target>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationAlwaysUsageDescription">
+        <source>Instafeed need your location permission to assist you better</source>
+        <target>Instafeed need your location permission to assist you better</target>
+        <note>Privacy - Location Always Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription">
+        <source>Instafeed need your location permission to assist you better</source>
+        <target>Instafeed need your location permission to assist you better</target>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSMicrophoneUsageDescription">
+        <source>Instafeed need your microphone permission to assist you better</source>
+        <target>Instafeed need your microphone permission to assist you better</target>
+        <note>Privacy - Microphone Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription">
+        <source>Instafeed need your photo usage permission to serve you better</source>
+        <target>Instafeed need your photo usage permission to serve you better</target>
+        <note>Privacy - Photo Library Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Instafeed/Storyboards/Base.lproj/categoryStoryboard.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.3" build-num="10G8"/>
+    </header>
+    <body>
+      <trans-unit id="1Hu-KZ-vrJ.normalTitle">
+        <source>New</source>
+        <target>New</target>
+        <note>Class = "UIButton"; normalTitle = "New"; ObjectID = "1Hu-KZ-vrJ";</note>
+      </trans-unit>
+      <trans-unit id="1Il-1g-cdw.normalTitle">
+        <source>See all</source>
+        <target>See all</target>
+        <note>Class = "UIButton"; normalTitle = "See all"; ObjectID = "1Il-1g-cdw";</note>
+      </trans-unit>
+      <trans-unit id="1bu-vo-Cpf.text">
+        <source>comment comment comment comment commentcomment comment commentcomment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment </source>
+        <target>comment comment comment comment commentcomment comment commentcomment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment </target>
+        <note>Class = "UILabel"; text = "comment comment comment comment commentcomment comment commentcomment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment "; ObjectID = "1bu-vo-Cpf";</note>
+      </trans-unit>
+      <trans-unit id="1cY-1d-nlM.text">
+        <source>25 july,2019</source>
+        <target>25 july,2019</target>
+        <note>Class = "UILabel"; text = "25 july,2019"; ObjectID = "1cY-1d-nlM";</note>
+      </trans-unit>
+      <trans-unit id="2I5-bc-qET.text">
+        <source>detailed text detailed text detailed text detailed text detailed text detailed text detailed text detailed text detailed text detailed text detailed text detailed text</source>
+        <target>detailed text detailed text detailed text detailed text detailed text detailed text detailed text detailed text detailed text detailed text detailed text detailed text</target>
+        <note>Class = "UILabel"; text = "detailed text detailed text detailed text detailed text detailed text detailed text detailed text detailed text detailed text detailed text detailed text detailed text"; ObjectID = "2I5-bc-qET";</note>
+      </trans-unit>
+      <trans-unit id="3A5-ZE-hv4.text">
+        <source>23</source>
+        <target>23</target>
+        <note>Class = "UILabel"; text = "23"; ObjectID = "3A5-ZE-hv4";</note>
+      </trans-unit>
+      <trans-unit id="3Fp-1v-bTe.normalTitle">
+        <source>Liked</source>
+        <target>Liked</target>
+        <note>Class = "UIButton"; normalTitle = "Liked"; ObjectID = "3Fp-1v-bTe";</note>
+      </trans-unit>
+      <trans-unit id="5to-5Y-QNH.text">
+        <source>Superstar</source>
+        <target>Superstar</target>
+        <note>Class = "UILabel"; text = "Superstar"; ObjectID = "5to-5Y-QNH";</note>
+      </trans-unit>
+      <trans-unit id="6Gl-tP-0kG.text">
+        <source>The Times of India</source>
+        <target>The Times of India</target>
+        <note>Class = "UILabel"; text = "The Times of India"; ObjectID = "6Gl-tP-0kG";</note>
+      </trans-unit>
+      <trans-unit id="6va-i2-wQe.text">
+        <source>Times of India</source>
+        <target>Times of India</target>
+        <note>Class = "UILabel"; text = "Times of India"; ObjectID = "6va-i2-wQe";</note>
+      </trans-unit>
+      <trans-unit id="7XK-tk-DNL.normalTitle">
+        <source>Posts</source>
+        <target>Posts</target>
+        <note>Class = "UIButton"; normalTitle = "Posts"; ObjectID = "7XK-tk-DNL";</note>
+      </trans-unit>
+      <trans-unit id="9Hh-wb-Dkf.text">
+        <source>Klaus Mikelson</source>
+        <target>Klaus Mikelson</target>
+        <note>Class = "UILabel"; text = "Klaus Mikelson"; ObjectID = "9Hh-wb-Dkf";</note>
+      </trans-unit>
+      <trans-unit id="9qP-jS-xcU.normalTitle">
+        <source>Follow</source>
+        <target>Follow</target>
+        <note>Class = "UIButton"; normalTitle = "Follow"; ObjectID = "9qP-jS-xcU";</note>
+      </trans-unit>
+      <trans-unit id="A1i-G1-xDU.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "A1i-G1-xDU";</note>
+      </trans-unit>
+      <trans-unit id="Dgs-UB-Unz.normalTitle">
+        <source>Post</source>
+        <target>Post</target>
+        <note>Class = "UIButton"; normalTitle = "Post"; ObjectID = "Dgs-UB-Unz";</note>
+      </trans-unit>
+      <trans-unit id="FcQ-Xd-J8V.text">
+        <source>Citizen</source>
+        <target>Citizen</target>
+        <note>Class = "UILabel"; text = "Citizen"; ObjectID = "FcQ-Xd-J8V";</note>
+      </trans-unit>
+      <trans-unit id="Fed-b9-XiI.text">
+        <source>32</source>
+        <target>32</target>
+        <note>Class = "UILabel"; text = "32"; ObjectID = "Fed-b9-XiI";</note>
+      </trans-unit>
+      <trans-unit id="GFm-iW-E5v.text">
+        <source>Followers</source>
+        <target>Followers</target>
+        <note>Class = "UILabel"; text = "Followers"; ObjectID = "GFm-iW-E5v";</note>
+      </trans-unit>
+      <trans-unit id="Hem-AS-C5H.text">
+        <source>dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</source>
+        <target>dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</target>
+        <note>Class = "UITextView"; text = "dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Hem-AS-C5H";</note>
+      </trans-unit>
+      <trans-unit id="J2d-rJ-An7.text">
+        <source>Recommended Sources</source>
+        <target>Recommended Sources</target>
+        <note>Class = "UILabel"; text = "Recommended Sources"; ObjectID = "J2d-rJ-An7";</note>
+      </trans-unit>
+      <trans-unit id="J9u-Yg-Q7g.placeholder">
+        <source>Search sources/channel/superstars</source>
+        <target>Search sources/channel/superstars</target>
+        <note>Class = "UITextField"; placeholder = "Search sources/channel/superstars"; ObjectID = "J9u-Yg-Q7g";</note>
+      </trans-unit>
+      <trans-unit id="L3p-X7-CdA.title">
+        <source>Home</source>
+        <target>Home</target>
+        <note>Class = "UINavigationItem"; title = "Home"; ObjectID = "L3p-X7-CdA";</note>
+      </trans-unit>
+      <trans-unit id="MPA-lE-gXI.text">
+        <source>Commented on your post</source>
+        <target>Commented on your post</target>
+        <note>Class = "UILabel"; text = "Commented on your post"; ObjectID = "MPA-lE-gXI";</note>
+      </trans-unit>
+      <trans-unit id="NHN-fY-9xa.text">
+        <source>2.5K</source>
+        <target>2.5K</target>
+        <note>Class = "UILabel"; text = "2.5K"; ObjectID = "NHN-fY-9xa";</note>
+      </trans-unit>
+      <trans-unit id="NoD-lI-jTb.text">
+        <source>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</source>
+        <target>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</target>
+        <note>Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "NoD-lI-jTb";</note>
+      </trans-unit>
+      <trans-unit id="Nsw-Ht-VjW.text">
+        <source>15june,2019 11:05</source>
+        <target>15june,2019 11:05</target>
+        <note>Class = "UILabel"; text = "15june,2019 11:05"; ObjectID = "Nsw-Ht-VjW";</note>
+      </trans-unit>
+      <trans-unit id="OUP-kr-26i.text">
+        <source>100</source>
+        <target>100</target>
+        <note>Class = "UILabel"; text = "100"; ObjectID = "OUP-kr-26i";</note>
+      </trans-unit>
+      <trans-unit id="Ob3-92-le8.text">
+        <source>Mason Moreno</source>
+        <target>Mason Moreno</target>
+        <note>Class = "UILabel"; text = "Mason Moreno"; ObjectID = "Ob3-92-le8";</note>
+      </trans-unit>
+      <trans-unit id="ObU-J5-nBU.text">
+        <source>Feeds</source>
+        <target>Feeds</target>
+        <note>Class = "UILabel"; text = "Feeds"; ObjectID = "ObU-J5-nBU";</note>
+      </trans-unit>
+      <trans-unit id="PjB-AK-Ubb.text">
+        <source>Comments</source>
+        <target>Comments</target>
+        <note>Class = "UILabel"; text = "Comments"; ObjectID = "PjB-AK-Ubb";</note>
+      </trans-unit>
+      <trans-unit id="S0J-pE-17k.text">
+        <source>10K Followers</source>
+        <target>10K Followers</target>
+        <note>Class = "UILabel"; text = "10K Followers"; ObjectID = "S0J-pE-17k";</note>
+      </trans-unit>
+      <trans-unit id="SAS-sN-tHn.text">
+        <source>Brand</source>
+        <target>Brand</target>
+        <note>Class = "UILabel"; text = "Brand"; ObjectID = "SAS-sN-tHn";</note>
+      </trans-unit>
+      <trans-unit id="Ses-ud-Xpp.text">
+        <source>34K</source>
+        <target>34K</target>
+        <note>Class = "UILabel"; text = "34K"; ObjectID = "Ses-ud-Xpp";</note>
+      </trans-unit>
+      <trans-unit id="U4l-Er-lfZ.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "U4l-Er-lfZ";</note>
+      </trans-unit>
+      <trans-unit id="Wup-gP-Pqe.text">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "Wup-gP-Pqe";</note>
+      </trans-unit>
+      <trans-unit id="Xvi-Lp-RCw.text">
+        <source>Donald trump has won the US election,Meanwhile Obama congratulated him</source>
+        <target>Donald trump has won the US election,Meanwhile Obama congratulated him</target>
+        <note>Class = "UILabel"; text = "Donald trump has won the US election,Meanwhile Obama congratulated him"; ObjectID = "Xvi-Lp-RCw";</note>
+      </trans-unit>
+      <trans-unit id="aed-re-3Vf.text">
+        <source>Delhi govt bans the use of plastic bags now on</source>
+        <target>Delhi govt bans the use of plastic bags now on</target>
+        <note>Class = "UILabel"; text = "Delhi govt bans the use of plastic bags now on"; ObjectID = "aed-re-3Vf";</note>
+      </trans-unit>
+      <trans-unit id="alV-Dy-41s.text">
+        <source>567</source>
+        <target>567</target>
+        <note>Class = "UILabel"; text = "567"; ObjectID = "alV-Dy-41s";</note>
+      </trans-unit>
+      <trans-unit id="bQ9-qY-Bsg.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "bQ9-qY-Bsg";</note>
+      </trans-unit>
+      <trans-unit id="cEa-1k-11h.text">
+        <source>534 Stories</source>
+        <target>534 Stories</target>
+        <note>Class = "UILabel"; text = "534 Stories"; ObjectID = "cEa-1k-11h";</note>
+      </trans-unit>
+      <trans-unit id="cPJ-LW-Fp7.text">
+        <source>Bookmarks</source>
+        <target>Bookmarks</target>
+        <note>Class = "UILabel"; text = "Bookmarks"; ObjectID = "cPJ-LW-Fp7";</note>
+      </trans-unit>
+      <trans-unit id="eGS-Sw-bBV.normalTitle">
+        <source>Add a comment</source>
+        <target>Add a comment</target>
+        <note>Class = "UIButton"; normalTitle = "Add a comment"; ObjectID = "eGS-Sw-bBV";</note>
+      </trans-unit>
+      <trans-unit id="fS2-Or-g6B.normalTitle">
+        <source>Button</source>
+        <target>Button</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "fS2-Or-g6B";</note>
+      </trans-unit>
+      <trans-unit id="g0D-sH-kqd.text">
+        <source>New Delhi,India</source>
+        <target>New Delhi,India</target>
+        <note>Class = "UILabel"; text = "New Delhi,India"; ObjectID = "g0D-sH-kqd";</note>
+      </trans-unit>
+      <trans-unit id="hCU-37-KSm.placeholder">
+        <source>Search for your local language</source>
+        <target>Search for your local language</target>
+        <note>Class = "UITextField"; placeholder = "Search for your local language"; ObjectID = "hCU-37-KSm";</note>
+      </trans-unit>
+      <trans-unit id="hnX-tI-vcu.text">
+        <source>981</source>
+        <target>981</target>
+        <note>Class = "UILabel"; text = "981"; ObjectID = "hnX-tI-vcu";</note>
+      </trans-unit>
+      <trans-unit id="jZI-Tb-GGB.text">
+        <source>Recents</source>
+        <target>Recents</target>
+        <note>Class = "UILabel"; text = "Recents"; ObjectID = "jZI-Tb-GGB";</note>
+      </trans-unit>
+      <trans-unit id="kh5-kL-VvE.text">
+        <source>2.5K</source>
+        <target>2.5K</target>
+        <note>Class = "UILabel"; text = "2.5K"; ObjectID = "kh5-kL-VvE";</note>
+      </trans-unit>
+      <trans-unit id="mpm-MM-Yvw.text">
+        <source>45</source>
+        <target>45</target>
+        <note>Class = "UILabel"; text = "45"; ObjectID = "mpm-MM-Yvw";</note>
+      </trans-unit>
+      <trans-unit id="n5C-8V-q7H.text">
+        <source>Following</source>
+        <target>Following</target>
+        <note>Class = "UILabel"; text = "Following"; ObjectID = "n5C-8V-q7H";</note>
+      </trans-unit>
+      <trans-unit id="nXH-6C-28c.text">
+        <source>Sports</source>
+        <target>Sports</target>
+        <note>Class = "UILabel"; text = "Sports"; ObjectID = "nXH-6C-28c";</note>
+      </trans-unit>
+      <trans-unit id="njc-pQ-vsx.text">
+        <source>text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text </source>
+        <target>text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text </target>
+        <note>Class = "UILabel"; text = "text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text "; ObjectID = "njc-pQ-vsx";</note>
+      </trans-unit>
+      <trans-unit id="oWN-k5-3Pd.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "oWN-k5-3Pd";</note>
+      </trans-unit>
+      <trans-unit id="omz-L8-ufI.text">
+        <source>Follow your intrest below to have a personalised experience</source>
+        <target>Follow your intrest below to have a personalised experience</target>
+        <note>Class = "UILabel"; text = "Follow your intrest below to have a personalised experience"; ObjectID = "omz-L8-ufI";</note>
+      </trans-unit>
+      <trans-unit id="pFi-Mw-aMl.text">
+        <source>Europe has six of the ten healthiest nation on earth Europe has six of the ten healthiest nation on earth </source>
+        <target>Europe has six of the ten healthiest nation on earth Europe has six of the ten healthiest nation on earth </target>
+        <note>Class = "UILabel"; text = "Europe has six of the ten healthiest nation on earth Europe has six of the ten healthiest nation on earth "; ObjectID = "pFi-Mw-aMl";</note>
+      </trans-unit>
+      <trans-unit id="prn-AB-rP2.text">
+        <source>The Times of India</source>
+        <target>The Times of India</target>
+        <note>Class = "UILabel"; text = "The Times of India"; ObjectID = "prn-AB-rP2";</note>
+      </trans-unit>
+      <trans-unit id="rDI-mR-yHi.title">
+        <source>Notifications</source>
+        <target>Notifications</target>
+        <note>Class = "UINavigationItem"; title = "Notifications"; ObjectID = "rDI-mR-yHi";</note>
+      </trans-unit>
+      <trans-unit id="sMq-cH-nop.text">
+        <source>5 min</source>
+        <target>5 min</target>
+        <note>Class = "UILabel"; text = "5 min"; ObjectID = "sMq-cH-nop";</note>
+      </trans-unit>
+      <trans-unit id="syX-mZ-QVH.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "syX-mZ-QVH";</note>
+      </trans-unit>
+      <trans-unit id="tRT-oG-bte.text">
+        <source>571K Followers</source>
+        <target>571K Followers</target>
+        <note>Class = "UILabel"; text = "571K Followers"; ObjectID = "tRT-oG-bte";</note>
+      </trans-unit>
+      <trans-unit id="tTF-x4-Xhr.text">
+        <source>Headline Headline Headline HeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadline</source>
+        <target>Headline Headline Headline HeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadline</target>
+        <note>Class = "UILabel"; text = "Headline Headline Headline HeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadline"; ObjectID = "tTF-x4-Xhr";</note>
+      </trans-unit>
+      <trans-unit id="txC-7d-9w9.text">
+        <source>Delhi Govt bans the use of plastic bags, usage will cause a penalty</source>
+        <target>Delhi Govt bans the use of plastic bags, usage will cause a penalty</target>
+        <note>Class = "UILabel"; text = "Delhi Govt bans the use of plastic bags, usage will cause a penalty"; ObjectID = "txC-7d-9w9";</note>
+      </trans-unit>
+      <trans-unit id="uZZ-md-RPH.text">
+        <source>10</source>
+        <target>10</target>
+        <note>Class = "UILabel"; text = "10"; ObjectID = "uZZ-md-RPH";</note>
+      </trans-unit>
+      <trans-unit id="w7O-Ta-Mal.text">
+        <source>Politics</source>
+        <target>Politics</target>
+        <note>Class = "UILabel"; text = "Politics"; ObjectID = "w7O-Ta-Mal";</note>
+      </trans-unit>
+      <trans-unit id="yhU-ym-uQh.text">
+        <source>82</source>
+        <target>82</target>
+        <note>Class = "UILabel"; text = "82"; ObjectID = "yhU-ym-uQh";</note>
+      </trans-unit>
+      <trans-unit id="zUc-M3-r1x.title">
+        <source>Categories</source>
+        <target>Categories</target>
+        <note>Class = "UINavigationItem"; title = "Categories"; ObjectID = "zUc-M3-r1x";</note>
+      </trans-unit>
+      <trans-unit id="zmt-s3-4FM.placeholder">
+        <source>Search News, Video &amp; More...</source>
+        <target>Search News, Video &amp; More...</target>
+        <note>Class = "UITextField"; placeholder = "Search News, Video &amp; More..."; ObjectID = "zmt-s3-4FM";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Instafeed/Storyboards/Base.lproj/Feeds.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.3" build-num="10G8"/>
+    </header>
+    <body>
+      <trans-unit id="0R3-Yn-FR4.normalTitle">
+        <source>Feed Privacy</source>
+        <target>Feed Privacy</target>
+        <note>Class = "UIButton"; normalTitle = "Feed Privacy"; ObjectID = "0R3-Yn-FR4";</note>
+      </trans-unit>
+      <trans-unit id="1qY-Jm-zSR.text">
+        <source>Recording</source>
+        <target>Recording</target>
+        <note>Class = "UILabel"; text = "Recording"; ObjectID = "1qY-Jm-zSR";</note>
+      </trans-unit>
+      <trans-unit id="8Iy-iK-RGL.text">
+        <source>Followers</source>
+        <target>Followers</target>
+        <note>Class = "UILabel"; text = "Followers"; ObjectID = "8Iy-iK-RGL";</note>
+      </trans-unit>
+      <trans-unit id="8TP-ku-epx.text">
+        <source>REC</source>
+        <target>REC</target>
+        <note>Class = "UILabel"; text = "REC"; ObjectID = "8TP-ku-epx";</note>
+      </trans-unit>
+      <trans-unit id="8n9-lB-fmT.text">
+        <source>Joseph Mourino</source>
+        <target>Joseph Mourino</target>
+        <note>Class = "UILabel"; text = "Joseph Mourino"; ObjectID = "8n9-lB-fmT";</note>
+      </trans-unit>
+      <trans-unit id="49E-O8-Pki.text">
+        <source>NOW SELL YOUR NEWS INSTANTLY!</source>
+        <target>NOW SELL YOUR NEWS INSTANTLY!</target>
+        <note>Class = "UILabel"; text = "NOW SELL YOUR NEWS INSTANTLY!"; ObjectID = "49E-O8-Pki";</note>
+      </trans-unit>
+      <trans-unit id="BoJ-zM-wE7.normalTitle">
+        <source>SELL NOW!</source>
+        <target>SELL NOW!</target>
+        <note>Class = "UIButton"; normalTitle = "SELL NOW!"; ObjectID = "BoJ-zM-wE7";</note>
+      </trans-unit>
+      <trans-unit id="DR1-Qz-rmg.text">
+        <source>Select Privacy</source>
+        <target>Select Privacy</target>
+        <note>Class = "UILabel"; text = "Select Privacy"; ObjectID = "DR1-Qz-rmg";</note>
+      </trans-unit>
+      <trans-unit id="DmQ-5d-gHY.text">
+        <source>NOW SELL YOUR NEWS INSTANTLY!</source>
+        <target>NOW SELL YOUR NEWS INSTANTLY!</target>
+        <note>Class = "UILabel"; text = "NOW SELL YOUR NEWS INSTANTLY!"; ObjectID = "DmQ-5d-gHY";</note>
+      </trans-unit>
+      <trans-unit id="EMk-SQ-Ihj.text">
+        <source>NOW SELL YOUR NEWS INSTANTLY!</source>
+        <target>NOW SELL YOUR NEWS INSTANTLY!</target>
+        <note>Class = "UILabel"; text = "NOW SELL YOUR NEWS INSTANTLY!"; ObjectID = "EMk-SQ-Ihj";</note>
+      </trans-unit>
+      <trans-unit id="Esg-uS-Dpp.text">
+        <source>Only you can see the feed</source>
+        <target>Only you can see the feed</target>
+        <note>Class = "UILabel"; text = "Only you can see the feed"; ObjectID = "Esg-uS-Dpp";</note>
+      </trans-unit>
+      <trans-unit id="GrB-8f-V6x.text">
+        <source>Learn more about</source>
+        <target>Learn more about</target>
+        <note>Class = "UILabel"; text = "Learn more about"; ObjectID = "GrB-8f-V6x";</note>
+      </trans-unit>
+      <trans-unit id="Gtq-uF-qYw.text">
+        <source>Post as Anonymus</source>
+        <target>Post as Anonymus</target>
+        <note>Class = "UILabel"; text = "Post as Anonymus"; ObjectID = "Gtq-uF-qYw";</note>
+      </trans-unit>
+      <trans-unit id="HKH-Ht-J09.placeholder">
+        <source>Find a location...</source>
+        <target>Find a location...</target>
+        <note>Class = "UITextField"; placeholder = "Find a location..."; ObjectID = "HKH-Ht-J09";</note>
+      </trans-unit>
+      <trans-unit id="I9w-YS-T0f.text">
+        <source>I AGREE WITH THE</source>
+        <target>I AGREE WITH THE</target>
+        <note>Class = "UILabel"; text = "I AGREE WITH THE"; ObjectID = "I9w-YS-T0f";</note>
+      </trans-unit>
+      <trans-unit id="KDi-KP-R7A.normalTitle">
+        <source>Feed</source>
+        <target>Feed</target>
+        <note>Class = "UIButton"; normalTitle = "Feed"; ObjectID = "KDi-KP-R7A";</note>
+      </trans-unit>
+      <trans-unit id="Nj8-ct-tUR.text">
+        <source>Your feed will appear on your profile and in search results</source>
+        <target>Your feed will appear on your profile and in search results</target>
+        <note>Class = "UILabel"; text = "Your feed will appear on your profile and in search results"; ObjectID = "Nj8-ct-tUR";</note>
+      </trans-unit>
+      <trans-unit id="PjT-AR-dH5.text">
+        <source>Who can see your post?</source>
+        <target>Who can see your post?</target>
+        <note>Class = "UILabel"; text = "Who can see your post?"; ObjectID = "PjT-AR-dH5";</note>
+      </trans-unit>
+      <trans-unit id="RnA-x9-S6H.text">
+        <source>TERMS &amp; CONDITIONS</source>
+        <target>TERMS &amp; CONDITIONS</target>
+        <note>Class = "UILabel"; text = "TERMS &amp; CONDITIONS"; ObjectID = "RnA-x9-S6H";</note>
+      </trans-unit>
+      <trans-unit id="SRe-GI-t2f.normalTitle">
+        <source>UNLOCK FREE SUBSCRIPTION</source>
+        <target>UNLOCK FREE SUBSCRIPTION</target>
+        <note>Class = "UIButton"; normalTitle = "UNLOCK FREE SUBSCRIPTION"; ObjectID = "SRe-GI-t2f";</note>
+      </trans-unit>
+      <trans-unit id="VPk-km-Iyw.normalTitle">
+        <source>UNLOCK FREE SUBSCRIPTION</source>
+        <target>UNLOCK FREE SUBSCRIPTION</target>
+        <note>Class = "UIButton"; normalTitle = "UNLOCK FREE SUBSCRIPTION"; ObjectID = "VPk-km-Iyw";</note>
+      </trans-unit>
+      <trans-unit id="Vij-YV-jNb.text">
+        <source>Location</source>
+        <target>Location</target>
+        <note>Class = "UILabel"; text = "Location"; ObjectID = "Vij-YV-jNb";</note>
+      </trans-unit>
+      <trans-unit id="WlN-GH-Zzb.text">
+        <source>Public</source>
+        <target>Public</target>
+        <note>Class = "UILabel"; text = "Public"; ObjectID = "WlN-GH-Zzb";</note>
+      </trans-unit>
+      <trans-unit id="aBT-Gf-zVH.text">
+        <source>Anyone on or off instafeed</source>
+        <target>Anyone on or off instafeed</target>
+        <note>Class = "UILabel"; text = "Anyone on or off instafeed"; ObjectID = "aBT-Gf-zVH";</note>
+      </trans-unit>
+      <trans-unit id="d8F-Ze-84M.text">
+        <source>Choose a background</source>
+        <target>Choose a background</target>
+        <note>Class = "UILabel"; text = "Choose a background"; ObjectID = "d8F-Ze-84M";</note>
+      </trans-unit>
+      <trans-unit id="dMx-7n-vYk.text">
+        <source>00:00:00</source>
+        <target>00:00:00</target>
+        <note>Class = "UILabel"; text = "00:00:00"; ObjectID = "dMx-7n-vYk";</note>
+      </trans-unit>
+      <trans-unit id="dcK-wV-LqS.text">
+        <source>SET YOUR PRICE BID</source>
+        <target>SET YOUR PRICE BID</target>
+        <note>Class = "UILabel"; text = "SET YOUR PRICE BID"; ObjectID = "dcK-wV-LqS";</note>
+      </trans-unit>
+      <trans-unit id="fOX-Nb-bFm.text">
+        <source>Your followers on instafeed</source>
+        <target>Your followers on instafeed</target>
+        <note>Class = "UILabel"; text = "Your followers on instafeed"; ObjectID = "fOX-Nb-bFm";</note>
+      </trans-unit>
+      <trans-unit id="gXU-F6-Reg.text">
+        <source>Select a location</source>
+        <target>Select a location</target>
+        <note>Class = "UILabel"; text = "Select a location"; ObjectID = "gXU-F6-Reg";</note>
+      </trans-unit>
+      <trans-unit id="jSt-xt-dd7.text">
+        <source>Sell My News</source>
+        <target>Sell My News</target>
+        <note>Class = "UILabel"; text = "Sell My News"; ObjectID = "jSt-xt-dd7";</note>
+      </trans-unit>
+      <trans-unit id="mJp-9E-0JU.text">
+        <source>NEWS MANDI SUBSCRIPTION</source>
+        <target>NEWS MANDI SUBSCRIPTION</target>
+        <note>Class = "UILabel"; text = "NEWS MANDI SUBSCRIPTION"; ObjectID = "mJp-9E-0JU";</note>
+      </trans-unit>
+      <trans-unit id="maC-1L-FFA.normalTitle">
+        <source>Drafts</source>
+        <target>Drafts</target>
+        <note>Class = "UIButton"; normalTitle = "Drafts"; ObjectID = "maC-1L-FFA";</note>
+      </trans-unit>
+      <trans-unit id="o0G-RK-oLf.text">
+        <source>Only me</source>
+        <target>Only me</target>
+        <note>Class = "UILabel"; text = "Only me"; ObjectID = "o0G-RK-oLf";</note>
+      </trans-unit>
+      <trans-unit id="rXL-s4-kft.text">
+        <source>NEWS MANDI SUBSCRIPTION</source>
+        <target>NEWS MANDI SUBSCRIPTION</target>
+        <note>Class = "UILabel"; text = "NEWS MANDI SUBSCRIPTION"; ObjectID = "rXL-s4-kft";</note>
+      </trans-unit>
+      <trans-unit id="taG-4C-b9S.text">
+        <source>Public</source>
+        <target>Public</target>
+        <note>Class = "UILabel"; text = "Public"; ObjectID = "taG-4C-b9S";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Instafeed/Storyboards/Base.lproj/Main.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.3" build-num="10G8"/>
+    </header>
+    <body>
+      <trans-unit id="0Au-1P-Nxq.text">
+        <source>Enter your mobile number</source>
+        <target>Enter your mobile number</target>
+        <note>Class = "UILabel"; text = "Enter your mobile number"; ObjectID = "0Au-1P-Nxq";</note>
+      </trans-unit>
+      <trans-unit id="0HZ-kj-V0X.text">
+        <source>JOURNALISM</source>
+        <target>JOURNALISM</target>
+        <note>Class = "UILabel"; text = "JOURNALISM"; ObjectID = "0HZ-kj-V0X";</note>
+      </trans-unit>
+      <trans-unit id="6xW-uT-nVK.placeholder">
+        <source>Password</source>
+        <target>Password</target>
+        <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "6xW-uT-nVK";</note>
+      </trans-unit>
+      <trans-unit id="8KM-zY-Iyg.normalTitle">
+        <source>+91</source>
+        <target>+91</target>
+        <note>Class = "UIButton"; normalTitle = "+91"; ObjectID = "8KM-zY-Iyg";</note>
+      </trans-unit>
+      <trans-unit id="8KN-0p-4yG.text">
+        <source>SignIn</source>
+        <target>SignIn</target>
+        <note>Class = "UILabel"; text = "SignIn"; ObjectID = "8KN-0p-4yG";</note>
+      </trans-unit>
+      <trans-unit id="24M-gf-QRN.placeholder">
+        <source>Full name</source>
+        <target>Full name</target>
+        <note>Class = "UITextField"; placeholder = "Full name"; ObjectID = "24M-gf-QRN";</note>
+      </trans-unit>
+      <trans-unit id="AsH-CP-NSZ.placeholder">
+        <source>Password</source>
+        <target>Password</target>
+        <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "AsH-CP-NSZ";</note>
+      </trans-unit>
+      <trans-unit id="BNJ-Bs-6YC.placeholder">
+        <source>Insert the 6 digit code</source>
+        <target>Insert the 6 digit code</target>
+        <note>Class = "UITextField"; placeholder = "Insert the 6 digit code"; ObjectID = "BNJ-Bs-6YC";</note>
+      </trans-unit>
+      <trans-unit id="CyM-nK-K6C.text">
+        <source>JOURNALISM</source>
+        <target>JOURNALISM</target>
+        <note>Class = "UILabel"; text = "JOURNALISM"; ObjectID = "CyM-nK-K6C";</note>
+      </trans-unit>
+      <trans-unit id="Cz0-PP-2Vs.text">
+        <source>SignUp</source>
+        <target>SignUp</target>
+        <note>Class = "UILabel"; text = "SignUp"; ObjectID = "Cz0-PP-2Vs";</note>
+      </trans-unit>
+      <trans-unit id="Eib-Or-QRt.text">
+        <source>CITIZEN</source>
+        <target>CITIZEN</target>
+        <note>Class = "UILabel"; text = "CITIZEN"; ObjectID = "Eib-Or-QRt";</note>
+      </trans-unit>
+      <trans-unit id="F7d-me-6bH.normalTitle">
+        <source>FACEBOOK</source>
+        <target>FACEBOOK</target>
+        <note>Class = "UIButton"; normalTitle = "FACEBOOK"; ObjectID = "F7d-me-6bH";</note>
+      </trans-unit>
+      <trans-unit id="JeV-hC-CdP.normalTitle">
+        <source>FACEBOOK</source>
+        <target>FACEBOOK</target>
+        <note>Class = "UIButton"; normalTitle = "FACEBOOK"; ObjectID = "JeV-hC-CdP";</note>
+      </trans-unit>
+      <trans-unit id="Mhl-sY-AA6.text">
+        <source>BRAND</source>
+        <target>BRAND</target>
+        <note>Class = "UILabel"; text = "BRAND"; ObjectID = "Mhl-sY-AA6";</note>
+      </trans-unit>
+      <trans-unit id="Nxw-bX-4SM.normalTitle">
+        <source>Next</source>
+        <target>Next</target>
+        <note>Class = "UIButton"; normalTitle = "Next"; ObjectID = "Nxw-bX-4SM";</note>
+      </trans-unit>
+      <trans-unit id="Omp-oT-PpD.text">
+        <source>You can use any below methods to grant access to the app</source>
+        <target>You can use any below methods to grant access to the app</target>
+        <note>Class = "UILabel"; text = "You can use any below methods to grant access to the app"; ObjectID = "Omp-oT-PpD";</note>
+      </trans-unit>
+      <trans-unit id="PSQ-b1-ktu.normalTitle">
+        <source>LOGIN</source>
+        <target>LOGIN</target>
+        <note>Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "PSQ-b1-ktu";</note>
+      </trans-unit>
+      <trans-unit id="QOn-3L-i6Q.text">
+        <source>SUPERSTAR</source>
+        <target>SUPERSTAR</target>
+        <note>Class = "UILabel"; text = "SUPERSTAR"; ObjectID = "QOn-3L-i6Q";</note>
+      </trans-unit>
+      <trans-unit id="ROx-wD-uYz.normalTitle">
+        <source>Still without account? Create One</source>
+        <target>Still without account? Create One</target>
+        <note>Class = "UIButton"; normalTitle = "Still without account? Create One"; ObjectID = "ROx-wD-uYz";</note>
+      </trans-unit>
+      <trans-unit id="TKH-Em-LMr.placeholder">
+        <source>Email address</source>
+        <target>Email address</target>
+        <note>Class = "UITextField"; placeholder = "Email address"; ObjectID = "TKH-Em-LMr";</note>
+      </trans-unit>
+      <trans-unit id="TPy-B6-LpD.text">
+        <source>0.00</source>
+        <target>0.00</target>
+        <note>Class = "UILabel"; text = "0.00"; ObjectID = "TPy-B6-LpD";</note>
+      </trans-unit>
+      <trans-unit id="WbU-dl-sEs.normalTitle">
+        <source>+91</source>
+        <target>+91</target>
+        <note>Class = "UIButton"; normalTitle = "+91"; ObjectID = "WbU-dl-sEs";</note>
+      </trans-unit>
+      <trans-unit id="ZHn-bD-9oO.normalTitle">
+        <source>VERIFY NOW</source>
+        <target>VERIFY NOW</target>
+        <note>Class = "UIButton"; normalTitle = "VERIFY NOW"; ObjectID = "ZHn-bD-9oO";</note>
+      </trans-unit>
+      <trans-unit id="ZHq-bH-sYZ.placeholder">
+        <source>Email address/Username</source>
+        <target>Email address/Username</target>
+        <note>Class = "UITextField"; placeholder = "Email address/Username"; ObjectID = "ZHq-bH-sYZ";</note>
+      </trans-unit>
+      <trans-unit id="fLk-1a-eWg.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "fLk-1a-eWg";</note>
+      </trans-unit>
+      <trans-unit id="gMz-aD-Wtc.normalTitle">
+        <source>Back</source>
+        <target>Back</target>
+        <note>Class = "UIButton"; normalTitle = "Back"; ObjectID = "gMz-aD-Wtc";</note>
+      </trans-unit>
+      <trans-unit id="i7a-sP-kcI.normalTitle">
+        <source>GMAIL</source>
+        <target>GMAIL</target>
+        <note>Class = "UIButton"; normalTitle = "GMAIL"; ObjectID = "i7a-sP-kcI";</note>
+      </trans-unit>
+      <trans-unit id="iza-dB-fpy.normalTitle">
+        <source>I already have an account  LOGIN</source>
+        <target>I already have an account  LOGIN</target>
+        <note>Class = "UIButton"; normalTitle = "I already have an account  LOGIN"; ObjectID = "iza-dB-fpy";</note>
+      </trans-unit>
+      <trans-unit id="nGt-o9-Dfo.normalTitle">
+        <source>GMAIL</source>
+        <target>GMAIL</target>
+        <note>Class = "UIButton"; normalTitle = "GMAIL"; ObjectID = "nGt-o9-Dfo";</note>
+      </trans-unit>
+      <trans-unit id="oBc-3r-QPt.segmentTitles[0]">
+        <source>EMAIL</source>
+        <target>EMAIL</target>
+        <note>Class = "UISegmentedControl"; oBc-3r-QPt.segmentTitles[0] = "EMAIL"; ObjectID = "oBc-3r-QPt";</note>
+      </trans-unit>
+      <trans-unit id="oBc-3r-QPt.segmentTitles[1]">
+        <source>OTHERS</source>
+        <target>OTHERS</target>
+        <note>Class = "UISegmentedControl"; oBc-3r-QPt.segmentTitles[1] = "OTHERS"; ObjectID = "oBc-3r-QPt";</note>
+      </trans-unit>
+      <trans-unit id="pRb-sS-Y9f.placeholder">
+        <source>95604*****</source>
+        <target>95604*****</target>
+        <note>Class = "UITextField"; placeholder = "95604*****"; ObjectID = "pRb-sS-Y9f";</note>
+      </trans-unit>
+      <trans-unit id="pb0-mQ-ROV.normalTitle">
+        <source>PLEASE AGAIN</source>
+        <target>PLEASE AGAIN</target>
+        <note>Class = "UIButton"; normalTitle = "PLEASE AGAIN"; ObjectID = "pb0-mQ-ROV";</note>
+      </trans-unit>
+      <trans-unit id="s4j-DX-9m0.text">
+        <source>Select Type</source>
+        <target>Select Type</target>
+        <note>Class = "UILabel"; text = "Select Type"; ObjectID = "s4j-DX-9m0";</note>
+      </trans-unit>
+      <trans-unit id="tZh-us-L0x.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "tZh-us-L0x";</note>
+      </trans-unit>
+      <trans-unit id="u8T-s9-VRZ.placeholder">
+        <source>96504****</source>
+        <target>96504****</target>
+        <note>Class = "UITextField"; placeholder = "96504****"; ObjectID = "u8T-s9-VRZ";</note>
+      </trans-unit>
+      <trans-unit id="xdn-ov-0gJ.text">
+        <source>It ends in</source>
+        <target>It ends in</target>
+        <note>Class = "UILabel"; text = "It ends in"; ObjectID = "xdn-ov-0gJ";</note>
+      </trans-unit>
+      <trans-unit id="y7L-Hs-gab.normalTitle">
+        <source>YOUR PHONE</source>
+        <target>YOUR PHONE</target>
+        <note>Class = "UIButton"; normalTitle = "YOUR PHONE"; ObjectID = "y7L-Hs-gab";</note>
+      </trans-unit>
+      <trans-unit id="yWh-Dx-Fen.text">
+        <source>JOURNALISM</source>
+        <target>JOURNALISM</target>
+        <note>Class = "UILabel"; text = "JOURNALISM"; ObjectID = "yWh-Dx-Fen";</note>
+      </trans-unit>
+      <trans-unit id="yqc-N7-RWK.normalTitle">
+        <source>Forgot Password ?</source>
+        <target>Forgot Password ?</target>
+        <note>Class = "UIButton"; normalTitle = "Forgot Password ?"; ObjectID = "yqc-N7-RWK";</note>
+      </trans-unit>
+      <trans-unit id="zq6-ST-7Ng.segmentTitles[0]">
+        <source>EMAIL</source>
+        <target>EMAIL</target>
+        <note>Class = "UISegmentedControl"; zq6-ST-7Ng.segmentTitles[0] = "EMAIL"; ObjectID = "zq6-ST-7Ng";</note>
+      </trans-unit>
+      <trans-unit id="zq6-ST-7Ng.segmentTitles[1]">
+        <source>OTHERS</source>
+        <target>OTHERS</target>
+        <note>Class = "UISegmentedControl"; zq6-ST-7Ng.segmentTitles[1] = "OTHERS"; ObjectID = "zq6-ST-7Ng";</note>
+      </trans-unit>
+      <trans-unit id="zsQ-9P-Tyr.normalTitle">
+        <source>SignUp</source>
+        <target>SignUp</target>
+        <note>Class = "UIButton"; normalTitle = "SignUp"; ObjectID = "zsQ-9P-Tyr";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Instafeed/Storyboards/Base.lproj/sidemenu.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.3" build-num="10G8"/>
+    </header>
+    <body>
+      <trans-unit id="0gc-HJ-CiH.text">
+        <source>Account Type</source>
+        <target>Account Type</target>
+        <note>Class = "UILabel"; text = "Account Type"; ObjectID = "0gc-HJ-CiH";</note>
+      </trans-unit>
+      <trans-unit id="1CX-Lc-tDZ.normalTitle">
+        <source>FAQ's</source>
+        <target>FAQ's</target>
+        <note>Class = "UIButton"; normalTitle = "FAQ's"; ObjectID = "1CX-Lc-tDZ";</note>
+      </trans-unit>
+      <trans-unit id="1iY-fi-2Ch.text">
+        <source>Settings</source>
+        <target>Settings</target>
+        <note>Class = "UILabel"; text = "Settings"; ObjectID = "1iY-fi-2Ch";</note>
+      </trans-unit>
+      <trans-unit id="1ur-Ze-Zfx.text">
+        <source>Full Name</source>
+        <target>Full Name</target>
+        <note>Class = "UILabel"; text = "Full Name"; ObjectID = "1ur-Ze-Zfx";</note>
+      </trans-unit>
+      <trans-unit id="3LU-2r-TqL.text">
+        <source>New Delhi,India</source>
+        <target>New Delhi,India</target>
+        <note>Class = "UILabel"; text = "New Delhi,India"; ObjectID = "3LU-2r-TqL";</note>
+      </trans-unit>
+      <trans-unit id="3eS-ya-HPd.normalTitle">
+        <source>Deals &amp; Offers</source>
+        <target>Deals &amp; Offers</target>
+        <note>Class = "UIButton"; normalTitle = "Deals &amp; Offers"; ObjectID = "3eS-ya-HPd";</note>
+      </trans-unit>
+      <trans-unit id="3yG-Fh-fns.text">
+        <source>Feedback Emails</source>
+        <target>Feedback Emails</target>
+        <note>Class = "UILabel"; text = "Feedback Emails"; ObjectID = "3yG-Fh-fns";</note>
+      </trans-unit>
+      <trans-unit id="4Ww-7X-SVI.text">
+        <source>About</source>
+        <target>About</target>
+        <note>Class = "UILabel"; text = "About"; ObjectID = "4Ww-7X-SVI";</note>
+      </trans-unit>
+      <trans-unit id="4iM-m2-HMj.normalTitle">
+        <source>Collect Rewards &amp; Points</source>
+        <target>Collect Rewards &amp; Points</target>
+        <note>Class = "UIButton"; normalTitle = "Collect Rewards &amp; Points"; ObjectID = "4iM-m2-HMj";</note>
+      </trans-unit>
+      <trans-unit id="4xe-gQ-QgG.normalTitle">
+        <source>Additional option in system settings</source>
+        <target>Additional option in system settings</target>
+        <note>Class = "UIButton"; normalTitle = "Additional option in system settings"; ObjectID = "4xe-gQ-QgG";</note>
+      </trans-unit>
+      <trans-unit id="4zH-aL-OVw.text">
+        <source>Total Points Earned</source>
+        <target>Total Points Earned</target>
+        <note>Class = "UILabel"; text = "Total Points Earned"; ObjectID = "4zH-aL-OVw";</note>
+      </trans-unit>
+      <trans-unit id="5yx-YT-9Qi.text">
+        <source>Valid upto 31st Aug</source>
+        <target>Valid upto 31st Aug</target>
+        <note>Class = "UILabel"; text = "Valid upto 31st Aug"; ObjectID = "5yx-YT-9Qi";</note>
+      </trans-unit>
+      <trans-unit id="6Cu-Jc-Hss.text">
+        <source>Full Name</source>
+        <target>Full Name</target>
+        <note>Class = "UILabel"; text = "Full Name"; ObjectID = "6Cu-Jc-Hss";</note>
+      </trans-unit>
+      <trans-unit id="6Tb-Ru-Ai2.text">
+        <source>When Data Server is terned on, videos won't losed in advanced to help you use less data</source>
+        <target>When Data Server is terned on, videos won't losed in advanced to help you use less data</target>
+        <note>Class = "UILabel"; text = "When Data Server is terned on, videos won't losed in advanced to help you use less data"; ObjectID = "6Tb-Ru-Ai2";</note>
+      </trans-unit>
+      <trans-unit id="7BK-QX-q1s.text">
+        <source>Contacts Syncing</source>
+        <target>Contacts Syncing</target>
+        <note>Class = "UILabel"; text = "Contacts Syncing"; ObjectID = "7BK-QX-q1s";</note>
+      </trans-unit>
+      <trans-unit id="7Un-tr-uwm.text">
+        <source>Deals and Offers</source>
+        <target>Deals and Offers</target>
+        <note>Class = "UILabel"; text = "Deals and Offers"; ObjectID = "7Un-tr-uwm";</note>
+      </trans-unit>
+      <trans-unit id="8vu-Kr-iQw.text">
+        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</source>
+        <target>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</target>
+        <note>Class = "UILabel"; text = "Lorem Ipsum is simply dummy text of the printing and typesetting industry."; ObjectID = "8vu-Kr-iQw";</note>
+      </trans-unit>
+      <trans-unit id="8yP-yc-fwV.text">
+        <source>FOLLOWING</source>
+        <target>FOLLOWING</target>
+        <note>Class = "UILabel"; text = "FOLLOWING"; ObjectID = "8yP-yc-fwV";</note>
+      </trans-unit>
+      <trans-unit id="9Bb-5d-WWV.normalTitle">
+        <source>Additional option in system settings</source>
+        <target>Additional option in system settings</target>
+        <note>Class = "UIButton"; normalTitle = "Additional option in system settings"; ObjectID = "9Bb-5d-WWV";</note>
+      </trans-unit>
+      <trans-unit id="9Mq-OU-eaP.normalTitle">
+        <source>On</source>
+        <target>On</target>
+        <note>Class = "UIButton"; normalTitle = "On"; ObjectID = "9Mq-OU-eaP";</note>
+      </trans-unit>
+      <trans-unit id="9eB-wr-Tz7.text">
+        <source>Valid upto 31st Aug</source>
+        <target>Valid upto 31st Aug</target>
+        <note>Class = "UILabel"; text = "Valid upto 31st Aug"; ObjectID = "9eB-wr-Tz7";</note>
+      </trans-unit>
+      <trans-unit id="9f2-PJ-4IN.text">
+        <source>Feedback Emails</source>
+        <target>Feedback Emails</target>
+        <note>Class = "UILabel"; text = "Feedback Emails"; ObjectID = "9f2-PJ-4IN";</note>
+      </trans-unit>
+      <trans-unit id="37y-Qj-d5z.text">
+        <source>Get tips about instafeed's tool</source>
+        <target>Get tips about instafeed's tool</target>
+        <note>Class = "UILabel"; text = "Get tips about instafeed's tool"; ObjectID = "37y-Qj-d5z";</note>
+      </trans-unit>
+      <trans-unit id="71x-fx-apm.normalTitle">
+        <source>Additional options in system settings</source>
+        <target>Additional options in system settings</target>
+        <note>Class = "UIButton"; normalTitle = "Additional options in system settings"; ObjectID = "71x-fx-apm";</note>
+      </trans-unit>
+      <trans-unit id="77u-Wa-PLE.text">
+        <source>Following and Followers</source>
+        <target>Following and Followers</target>
+        <note>Class = "UILabel"; text = "Following and Followers"; ObjectID = "77u-Wa-PLE";</note>
+      </trans-unit>
+      <trans-unit id="88m-eM-fj1.text">
+        <source>Use less data</source>
+        <target>Use less data</target>
+        <note>Class = "UILabel"; text = "Use less data"; ObjectID = "88m-eM-fj1";</note>
+      </trans-unit>
+      <trans-unit id="96S-8e-pI7.text">
+        <source>INR</source>
+        <target>INR</target>
+        <note>Class = "UILabel"; text = "INR"; ObjectID = "96S-8e-pI7";</note>
+      </trans-unit>
+      <trans-unit id="A1t-HY-Gcn.text">
+        <source>Oops.. No Offers Available</source>
+        <target>Oops.. No Offers Available</target>
+        <note>Class = "UILabel"; text = "Oops.. No Offers Available"; ObjectID = "A1t-HY-Gcn";</note>
+      </trans-unit>
+      <trans-unit id="A4r-X8-LMQ.text">
+        <source>Feeds From Superstar</source>
+        <target>Feeds From Superstar</target>
+        <note>Class = "UILabel"; text = "Feeds From Superstar"; ObjectID = "A4r-X8-LMQ";</note>
+      </trans-unit>
+      <trans-unit id="A7z-sv-txQ.text">
+        <source>username</source>
+        <target>username</target>
+        <note>Class = "UILabel"; text = "username"; ObjectID = "A7z-sv-txQ";</note>
+      </trans-unit>
+      <trans-unit id="AdM-iC-pre.text">
+        <source>Your activity</source>
+        <target>Your activity</target>
+        <note>Class = "UILabel"; text = "Your activity"; ObjectID = "AdM-iC-pre";</note>
+      </trans-unit>
+      <trans-unit id="AuQ-gg-7l7.text">
+        <source>You have unseen notifications, and other notifications</source>
+        <target>You have unseen notifications, and other notifications</target>
+        <note>Class = "UILabel"; text = "You have unseen notifications, and other notifications"; ObjectID = "AuQ-gg-7l7";</note>
+      </trans-unit>
+      <trans-unit id="AzA-SV-7M6.normalTitle">
+        <source>Log out as Klaus Mikelson</source>
+        <target>Log out as Klaus Mikelson</target>
+        <note>Class = "UIButton"; normalTitle = "Log out as Klaus Mikelson"; ObjectID = "AzA-SV-7M6";</note>
+      </trans-unit>
+      <trans-unit id="BAN-ke-X47.text">
+        <source>Find People</source>
+        <target>Find People</target>
+        <note>Class = "UILabel"; text = "Find People"; ObjectID = "BAN-ke-X47";</note>
+      </trans-unit>
+      <trans-unit id="BLW-Rg-vfk.text">
+        <source>Report a problem</source>
+        <target>Report a problem</target>
+        <note>Class = "UILabel"; text = "Report a problem"; ObjectID = "BLW-Rg-vfk";</note>
+      </trans-unit>
+      <trans-unit id="BX7-69-kPS.text">
+        <source>Subtitle</source>
+        <target>Subtitle</target>
+        <note>Class = "UILabel"; text = "Subtitle"; ObjectID = "BX7-69-kPS";</note>
+      </trans-unit>
+      <trans-unit id="BaS-bw-y1o.text">
+        <source>From Superstar | Follow</source>
+        <target>From Superstar | Follow</target>
+        <note>Class = "UILabel"; text = "From Superstar | Follow"; ObjectID = "BaS-bw-y1o";</note>
+      </trans-unit>
+      <trans-unit id="CPJ-To-qmy.text">
+        <source>Reminders</source>
+        <target>Reminders</target>
+        <note>Class = "UILabel"; text = "Reminders"; ObjectID = "CPJ-To-qmy";</note>
+      </trans-unit>
+      <trans-unit id="CSg-sC-NuB.text">
+        <source>Notifications</source>
+        <target>Notifications</target>
+        <note>Class = "UILabel"; text = "Notifications"; ObjectID = "CSg-sC-NuB";</note>
+      </trans-unit>
+      <trans-unit id="CxH-Zz-yxd.text">
+        <source>Terms of Use</source>
+        <target>Terms of Use</target>
+        <note>Class = "UILabel"; text = "Terms of Use"; ObjectID = "CxH-Zz-yxd";</note>
+      </trans-unit>
+      <trans-unit id="DP2-mX-IfP.text">
+        <source>500</source>
+        <target>500</target>
+        <note>Class = "UILabel"; text = "500"; ObjectID = "DP2-mX-IfP";</note>
+      </trans-unit>
+      <trans-unit id="DYf-Pl-WCK.text">
+        <source>Settings</source>
+        <target>Settings</target>
+        <note>Class = "UILabel"; text = "Settings"; ObjectID = "DYf-Pl-WCK";</note>
+      </trans-unit>
+      <trans-unit id="Da1-W4-2px.text">
+        <source>My Rewards</source>
+        <target>My Rewards</target>
+        <note>Class = "UILabel"; text = "My Rewards"; ObjectID = "Da1-W4-2px";</note>
+      </trans-unit>
+      <trans-unit id="DhE-La-ucK.normalTitle">
+        <source>On</source>
+        <target>On</target>
+        <note>Class = "UIButton"; normalTitle = "On"; ObjectID = "DhE-La-ucK";</note>
+      </trans-unit>
+      <trans-unit id="FLW-uT-mNI.text">
+        <source>Gender</source>
+        <target>Gender</target>
+        <note>Class = "UILabel"; text = "Gender"; ObjectID = "FLW-uT-mNI";</note>
+      </trans-unit>
+      <trans-unit id="FkC-7U-3pg.text">
+        <source>Home</source>
+        <target>Home</target>
+        <note>Class = "UILabel"; text = "Home"; ObjectID = "FkC-7U-3pg";</note>
+      </trans-unit>
+      <trans-unit id="Fs9-0u-md4.text">
+        <source>Following and Followers</source>
+        <target>Following and Followers</target>
+        <note>Class = "UILabel"; text = "Following and Followers"; ObjectID = "Fs9-0u-md4";</note>
+      </trans-unit>
+      <trans-unit id="G7i-uR-SfT.normalTitle">
+        <source>Follow</source>
+        <target>Follow</target>
+        <note>Class = "UIButton"; normalTitle = "Follow"; ObjectID = "G7i-uR-SfT";</note>
+      </trans-unit>
+      <trans-unit id="Gvw-Ef-ACp.text">
+        <source>Open-source libraries</source>
+        <target>Open-source libraries</target>
+        <note>Class = "UILabel"; text = "Open-source libraries"; ObjectID = "Gvw-Ef-ACp";</note>
+      </trans-unit>
+      <trans-unit id="Gxv-6L-7OF.text">
+        <source>Follow them to see their feeds,Photos &amp; viddeos</source>
+        <target>Follow them to see their feeds,Photos &amp; viddeos</target>
+        <note>Class = "UILabel"; text = "Follow them to see their feeds,Photos &amp; viddeos"; ObjectID = "Gxv-6L-7OF";</note>
+      </trans-unit>
+      <trans-unit id="H1g-Fs-j7t.text">
+        <source>Off</source>
+        <target>Off</target>
+        <note>Class = "UILabel"; text = "Off"; ObjectID = "H1g-Fs-j7t";</note>
+      </trans-unit>
+      <trans-unit id="H4x-OD-cnZ.text">
+        <source>Total Points Earned</source>
+        <target>Total Points Earned</target>
+        <note>Class = "UILabel"; text = "Total Points Earned"; ObjectID = "H4x-OD-cnZ";</note>
+      </trans-unit>
+      <trans-unit id="HGa-Dm-N91.text">
+        <source>Language</source>
+        <target>Language</target>
+        <note>Class = "UILabel"; text = "Language"; ObjectID = "HGa-Dm-N91";</note>
+      </trans-unit>
+      <trans-unit id="HX4-3q-p1V.normalTitle">
+        <source>Collect Rewards &amp; Points</source>
+        <target>Collect Rewards &amp; Points</target>
+        <note>Class = "UIButton"; normalTitle = "Collect Rewards &amp; Points"; ObjectID = "HX4-3q-p1V";</note>
+      </trans-unit>
+      <trans-unit id="IFw-QP-xZk.text">
+        <source>Rewards and Offers</source>
+        <target>Rewards and Offers</target>
+        <note>Class = "UILabel"; text = "Rewards and Offers"; ObjectID = "IFw-QP-xZk";</note>
+      </trans-unit>
+      <trans-unit id="ILb-5K-fCS.text">
+        <source>5000pts</source>
+        <target>5000pts</target>
+        <note>Class = "UILabel"; text = "5000pts"; ObjectID = "ILb-5K-fCS";</note>
+      </trans-unit>
+      <trans-unit id="IS9-sK-mvC.text">
+        <source>These settings affects instaffed account logged into this device</source>
+        <target>These settings affects instaffed account logged into this device</target>
+        <note>Class = "UILabel"; text = "These settings affects instaffed account logged into this device"; ObjectID = "IS9-sK-mvC";</note>
+      </trans-unit>
+      <trans-unit id="JBm-rL-PVW.text">
+        <source>Klaus Mikelson</source>
+        <target>Klaus Mikelson</target>
+        <note>Class = "UILabel"; text = "Klaus Mikelson"; ObjectID = "JBm-rL-PVW";</note>
+      </trans-unit>
+      <trans-unit id="K1o-Xn-ghv.normalTitle">
+        <source>Current</source>
+        <target>Current</target>
+        <note>Class = "UIButton"; normalTitle = "Current"; ObjectID = "K1o-Xn-ghv";</note>
+      </trans-unit>
+      <trans-unit id="K3S-dt-3yy.normalTitle">
+        <source>button</source>
+        <target>button</target>
+        <note>Class = "UIButton"; normalTitle = "button"; ObjectID = "K3S-dt-3yy";</note>
+      </trans-unit>
+      <trans-unit id="KE8-7N-xeR.text">
+        <source>Data Saver</source>
+        <target>Data Saver</target>
+        <note>Class = "UILabel"; text = "Data Saver"; ObjectID = "KE8-7N-xeR";</note>
+      </trans-unit>
+      <trans-unit id="Lxg-st-tvk.text">
+        <source>Learn about new instafeed features</source>
+        <target>Learn about new instafeed features</target>
+        <note>Class = "UILabel"; text = "Learn about new instafeed features"; ObjectID = "Lxg-st-tvk";</note>
+      </trans-unit>
+      <trans-unit id="MJ3-pF-pEL.text">
+        <source>New Emails</source>
+        <target>New Emails</target>
+        <note>Class = "UILabel"; text = "New Emails"; ObjectID = "MJ3-pF-pEL";</note>
+      </trans-unit>
+      <trans-unit id="MWm-KC-DWz.text">
+        <source>Superstar and Brand Feeds</source>
+        <target>Superstar and Brand Feeds</target>
+        <note>Class = "UILabel"; text = "Superstar and Brand Feeds"; ObjectID = "MWm-KC-DWz";</note>
+      </trans-unit>
+      <trans-unit id="Mh7-kD-2Pc.text">
+        <source>Give Feedback on Instafeed</source>
+        <target>Give Feedback on Instafeed</target>
+        <note>Class = "UILabel"; text = "Give Feedback on Instafeed"; ObjectID = "Mh7-kD-2Pc";</note>
+      </trans-unit>
+      <trans-unit id="N9r-11-hXb.text">
+        <source>FOLLOWERS</source>
+        <target>FOLLOWERS</target>
+        <note>Class = "UILabel"; text = "FOLLOWERS"; ObjectID = "N9r-11-hXb";</note>
+      </trans-unit>
+      <trans-unit id="NCQ-fc-BU8.text">
+        <source>Follow contacts</source>
+        <target>Follow contacts</target>
+        <note>Class = "UILabel"; text = "Follow contacts"; ObjectID = "NCQ-fc-BU8";</note>
+      </trans-unit>
+      <trans-unit id="Nfm-m4-nlU.text">
+        <source>Get notifications by text message</source>
+        <target>Get notifications by text message</target>
+        <note>Class = "UILabel"; text = "Get notifications by text message"; ObjectID = "Nfm-m4-nlU";</note>
+      </trans-unit>
+      <trans-unit id="O41-B9-D15.text">
+        <source>Yesterday at 23:00</source>
+        <target>Yesterday at 23:00</target>
+        <note>Class = "UILabel"; text = "Yesterday at 23:00"; ObjectID = "O41-B9-D15";</note>
+      </trans-unit>
+      <trans-unit id="OQd-pv-agh.text">
+        <source>Bookmarks</source>
+        <target>Bookmarks</target>
+        <note>Class = "UILabel"; text = "Bookmarks"; ObjectID = "OQd-pv-agh";</note>
+      </trans-unit>
+      <trans-unit id="OVT-64-cnt.normalTitle">
+        <source>Deals &amp; Offers</source>
+        <target>Deals &amp; Offers</target>
+        <note>Class = "UIButton"; normalTitle = "Deals &amp; Offers"; ObjectID = "OVT-64-cnt";</note>
+      </trans-unit>
+      <trans-unit id="Oud-Ep-UqC.text">
+        <source>Europe Has Six of the 10 Healthiest Nations on Earth</source>
+        <target>Europe Has Six of the 10 Healthiest Nations on Earth</target>
+        <note>Class = "UILabel"; text = "Europe Has Six of the 10 Healthiest Nations on Earth"; ObjectID = "Oud-Ep-UqC";</note>
+      </trans-unit>
+      <trans-unit id="PAR-SL-kYu.text">
+        <source>Follow and Invite friends</source>
+        <target>Follow and Invite friends</target>
+        <note>Class = "UILabel"; text = "Follow and Invite friends"; ObjectID = "PAR-SL-kYu";</note>
+      </trans-unit>
+      <trans-unit id="PHO-eG-0Oq.text">
+        <source>Off</source>
+        <target>Off</target>
+        <note>Class = "UILabel"; text = "Off"; ObjectID = "PHO-eG-0Oq";</note>
+      </trans-unit>
+      <trans-unit id="PP3-HN-asw.text">
+        <source>5000pts</source>
+        <target>5000pts</target>
+        <note>Class = "UILabel"; text = "5000pts"; ObjectID = "PP3-HN-asw";</note>
+      </trans-unit>
+      <trans-unit id="PQ4-9r-dxw.text">
+        <source>Accounts You Follow</source>
+        <target>Accounts You Follow</target>
+        <note>Class = "UILabel"; text = "Accounts You Follow"; ObjectID = "PQ4-9r-dxw";</note>
+      </trans-unit>
+      <trans-unit id="Prs-2j-fWR.text">
+        <source>Privacy and security help</source>
+        <target>Privacy and security help</target>
+        <note>Class = "UILabel"; text = "Privacy and security help"; ObjectID = "Prs-2j-fWR";</note>
+      </trans-unit>
+      <trans-unit id="RWC-oW-zJx.placeholder">
+        <source>Search following</source>
+        <target>Search following</target>
+        <note>Class = "UITextField"; placeholder = "Search following"; ObjectID = "RWC-oW-zJx";</note>
+      </trans-unit>
+      <trans-unit id="S5H-7z-W1R.text">
+        <source>Deals and Offers</source>
+        <target>Deals and Offers</target>
+        <note>Class = "UILabel"; text = "Deals and Offers"; ObjectID = "S5H-7z-W1R";</note>
+      </trans-unit>
+      <trans-unit id="T2d-Ob-KrJ.text">
+        <source>#instafeed</source>
+        <target>#instafeed</target>
+        <note>Class = "UILabel"; text = "#instafeed"; ObjectID = "T2d-Ob-KrJ";</note>
+      </trans-unit>
+      <trans-unit id="Tmf-c7-oSq.text">
+        <source>Help Centre</source>
+        <target>Help Centre</target>
+        <note>Class = "UILabel"; text = "Help Centre"; ObjectID = "Tmf-c7-oSq";</note>
+      </trans-unit>
+      <trans-unit id="UAv-WI-jYE.normalTitle">
+        <source>Button</source>
+        <target>Button</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "UAv-WI-jYE";</note>
+      </trans-unit>
+      <trans-unit id="UBN-Fa-rIk.text">
+        <source>From Instafeed</source>
+        <target>From Instafeed</target>
+        <note>Class = "UILabel"; text = "From Instafeed"; ObjectID = "UBN-Fa-rIk";</note>
+      </trans-unit>
+      <trans-unit id="UNv-6P-SFJ.normalTitle">
+        <source>On</source>
+        <target>On</target>
+        <note>Class = "UIButton"; normalTitle = "On"; ObjectID = "UNv-6P-SFJ";</note>
+      </trans-unit>
+      <trans-unit id="UdQ-eT-xqh.text">
+        <source>Email and SMS</source>
+        <target>Email and SMS</target>
+        <note>Class = "UILabel"; text = "Email and SMS"; ObjectID = "UdQ-eT-xqh";</note>
+      </trans-unit>
+      <trans-unit id="Usd-hf-9SJ.text">
+        <source>Account</source>
+        <target>Account</target>
+        <note>Class = "UILabel"; text = "Account"; ObjectID = "Usd-hf-9SJ";</note>
+      </trans-unit>
+      <trans-unit id="UzY-px-hU2.text">
+        <source>500</source>
+        <target>500</target>
+        <note>Class = "UILabel"; text = "500"; ObjectID = "UzY-px-hU2";</note>
+      </trans-unit>
+      <trans-unit id="VEH-Yx-JNF.normalTitle">
+        <source>Male</source>
+        <target>Male</target>
+        <note>Class = "UIButton"; normalTitle = "Male"; ObjectID = "VEH-Yx-JNF";</note>
+      </trans-unit>
+      <trans-unit id="Vpr-ga-tFS.text">
+        <source>Joseph Murinoh</source>
+        <target>Joseph Murinoh</target>
+        <note>Class = "UILabel"; text = "Joseph Murinoh"; ObjectID = "Vpr-ga-tFS";</note>
+      </trans-unit>
+      <trans-unit id="Vwz-TX-bmy.text">
+        <source>Mobile data use</source>
+        <target>Mobile data use</target>
+        <note>Class = "UILabel"; text = "Mobile data use"; ObjectID = "Vwz-TX-bmy";</note>
+      </trans-unit>
+      <trans-unit id="WMV-rp-SMl.text">
+        <source>Report Spam or Abuse</source>
+        <target>Report Spam or Abuse</target>
+        <note>Class = "UILabel"; text = "Report Spam or Abuse"; ObjectID = "WMV-rp-SMl";</note>
+      </trans-unit>
+      <trans-unit id="WRA-Zd-MOk.text">
+        <source>Mobile Data Settings</source>
+        <target>Mobile Data Settings</target>
+        <note>Class = "UILabel"; text = "Mobile Data Settings"; ObjectID = "WRA-Zd-MOk";</note>
+      </trans-unit>
+      <trans-unit id="WUb-eb-0sF.text">
+        <source>To help people connect on instafeed, your contacts are synced and stored on our servers. You can choose which ones to follow</source>
+        <target>To help people connect on instafeed, your contacts are synced and stored on our servers. You can choose which ones to follow</target>
+        <note>Class = "UILabel"; text = "To help people connect on instafeed, your contacts are synced and stored on our servers. You can choose which ones to follow"; ObjectID = "WUb-eb-0sF";</note>
+      </trans-unit>
+      <trans-unit id="X2c-XL-zdy.text">
+        <source>Product Emails</source>
+        <target>Product Emails</target>
+        <note>Class = "UILabel"; text = "Product Emails"; ObjectID = "X2c-XL-zdy";</note>
+      </trans-unit>
+      <trans-unit id="XjP-Pb-Ce6.text">
+        <source>Saved Feeds</source>
+        <target>Saved Feeds</target>
+        <note>Class = "UILabel"; text = "Saved Feeds"; ObjectID = "XjP-Pb-Ce6";</note>
+      </trans-unit>
+      <trans-unit id="Xqh-Xq-qCx.text">
+        <source>Instafeed update available</source>
+        <target>Instafeed update available</target>
+        <note>Class = "UILabel"; text = "Instafeed update available"; ObjectID = "Xqh-Xq-qCx";</note>
+      </trans-unit>
+      <trans-unit id="Xqm-Ov-S2u.text">
+        <source>Other Notification Types</source>
+        <target>Other Notification Types</target>
+        <note>Class = "UILabel"; text = "Other Notification Types"; ObjectID = "Xqm-Ov-S2u";</note>
+      </trans-unit>
+      <trans-unit id="YCx-7j-hBJ.text">
+        <source>Superstar and Brand Feeds</source>
+        <target>Superstar and Brand Feeds</target>
+        <note>Class = "UILabel"; text = "Superstar and Brand Feeds"; ObjectID = "YCx-7j-hBJ";</note>
+      </trans-unit>
+      <trans-unit id="YDb-0w-GkD.normalTitle">
+        <source>Female</source>
+        <target>Female</target>
+        <note>Class = "UIButton"; normalTitle = "Female"; ObjectID = "YDb-0w-GkD";</note>
+      </trans-unit>
+      <trans-unit id="Ycb-aa-FoH.text">
+        <source>Personal info</source>
+        <target>Personal info</target>
+        <note>Class = "UILabel"; text = "Personal info"; ObjectID = "Ycb-aa-FoH";</note>
+      </trans-unit>
+      <trans-unit id="YdF-wf-QyD.normalTitle">
+        <source>Button</source>
+        <target>Button</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "YdF-wf-QyD";</note>
+      </trans-unit>
+      <trans-unit id="YmQ-dZ-Mt0.text">
+        <source>Enter your bank account details</source>
+        <target>Enter your bank account details</target>
+        <note>Class = "UILabel"; text = "Enter your bank account details"; ObjectID = "YmQ-dZ-Mt0";</note>
+      </trans-unit>
+      <trans-unit id="Yxl-YI-zYp.normalTitle">
+        <source>On</source>
+        <target>On</target>
+        <note>Class = "UIButton"; normalTitle = "On"; ObjectID = "Yxl-YI-zYp";</note>
+      </trans-unit>
+      <trans-unit id="Z9C-j9-idd.text">
+        <source>Invite friends</source>
+        <target>Invite friends</target>
+        <note>Class = "UILabel"; text = "Invite friends"; ObjectID = "Z9C-j9-idd";</note>
+      </trans-unit>
+      <trans-unit id="ZAA-CH-szr.text">
+        <source>App updates</source>
+        <target>App updates</target>
+        <note>Class = "UILabel"; text = "App updates"; ObjectID = "ZAA-CH-szr";</note>
+      </trans-unit>
+      <trans-unit id="ZWJ-eg-pKK.text">
+        <source>Feeds From Superstar</source>
+        <target>Feeds From Superstar</target>
+        <note>Class = "UILabel"; text = "Feeds From Superstar"; ObjectID = "ZWJ-eg-pKK";</note>
+      </trans-unit>
+      <trans-unit id="Zro-cb-MRp.text">
+        <source>Get notification you may have missed</source>
+        <target>Get notification you may have missed</target>
+        <note>Class = "UILabel"; text = "Get notification you may have missed"; ObjectID = "Zro-cb-MRp";</note>
+      </trans-unit>
+      <trans-unit id="ZvI-eB-JuQ.text">
+        <source>Show All Notifications</source>
+        <target>Show All Notifications</target>
+        <note>Class = "UILabel"; text = "Show All Notifications"; ObjectID = "ZvI-eB-JuQ";</note>
+      </trans-unit>
+      <trans-unit id="aA2-Ga-KrP.text">
+        <source>From Instafeed</source>
+        <target>From Instafeed</target>
+        <note>Class = "UILabel"; text = "From Instafeed"; ObjectID = "aA2-Ga-KrP";</note>
+      </trans-unit>
+      <trans-unit id="aLS-9f-5tq.text">
+        <source>Be notified when updated the app</source>
+        <target>Be notified when updated the app</target>
+        <note>Class = "UILabel"; text = "Be notified when updated the app"; ObjectID = "aLS-9f-5tq";</note>
+      </trans-unit>
+      <trans-unit id="aRu-PQ-JBP.text">
+        <source>Push Notifications</source>
+        <target>Push Notifications</target>
+        <note>Class = "UILabel"; text = "Push Notifications"; ObjectID = "aRu-PQ-JBP";</note>
+      </trans-unit>
+      <trans-unit id="acN-fZ-bGk.text">
+        <source>Get notifications by text message</source>
+        <target>Get notifications by text message</target>
+        <note>Class = "UILabel"; text = "Get notifications by text message"; ObjectID = "acN-fZ-bGk";</note>
+      </trans-unit>
+      <trans-unit id="aeb-Fo-Iv1.text">
+        <source>Available Balance</source>
+        <target>Available Balance</target>
+        <note>Class = "UILabel"; text = "Available Balance"; ObjectID = "aeb-Fo-Iv1";</note>
+      </trans-unit>
+      <trans-unit id="axA-ah-d31.normalTitle">
+        <source>Button</source>
+        <target>Button</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "axA-ah-d31";</note>
+      </trans-unit>
+      <trans-unit id="bFM-1A-3Ct.text">
+        <source>Preferred Currency</source>
+        <target>Preferred Currency</target>
+        <note>Class = "UILabel"; text = "Preferred Currency"; ObjectID = "bFM-1A-3Ct";</note>
+      </trans-unit>
+      <trans-unit id="bcr-sr-yAr.text">
+        <source>Available Balance</source>
+        <target>Available Balance</target>
+        <note>Class = "UILabel"; text = "Available Balance"; ObjectID = "bcr-sr-yAr";</note>
+      </trans-unit>
+      <trans-unit id="bf9-jw-UOF.text">
+        <source>My Profile</source>
+        <target>My Profile</target>
+        <note>Class = "UILabel"; text = "My Profile"; ObjectID = "bf9-jw-UOF";</note>
+      </trans-unit>
+      <trans-unit id="bw3-gg-pTz.text">
+        <source>Invite contacts</source>
+        <target>Invite contacts</target>
+        <note>Class = "UILabel"; text = "Invite contacts"; ObjectID = "bw3-gg-pTz";</note>
+      </trans-unit>
+      <trans-unit id="cR2-Uf-E91.normalTitle">
+        <source>EDIT</source>
+        <target>EDIT</target>
+        <note>Class = "UIButton"; normalTitle = "EDIT"; ObjectID = "cR2-Uf-E91";</note>
+      </trans-unit>
+      <trans-unit id="cWm-i5-vnT.normalTitle">
+        <source>Saving</source>
+        <target>Saving</target>
+        <note>Class = "UIButton"; normalTitle = "Saving"; ObjectID = "cWm-i5-vnT";</note>
+      </trans-unit>
+      <trans-unit id="cgl-mS-wv2.normalTitle">
+        <source>Button</source>
+        <target>Button</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "cgl-mS-wv2";</note>
+      </trans-unit>
+      <trans-unit id="cma-ye-Hqg.text">
+        <source>Oops.. No Offers Available</source>
+        <target>Oops.. No Offers Available</target>
+        <note>Class = "UILabel"; text = "Oops.. No Offers Available"; ObjectID = "cma-ye-Hqg";</note>
+      </trans-unit>
+      <trans-unit id="cqV-wM-nxB.text">
+        <source>100 of your contacts on Instafeed</source>
+        <target>100 of your contacts on Instafeed</target>
+        <note>Class = "UILabel"; text = "100 of your contacts on Instafeed"; ObjectID = "cqV-wM-nxB";</note>
+      </trans-unit>
+      <trans-unit id="dN9-Jx-EEe.text">
+        <source>Deals and Offers</source>
+        <target>Deals and Offers</target>
+        <note>Class = "UILabel"; text = "Deals and Offers"; ObjectID = "dN9-Jx-EEe";</note>
+      </trans-unit>
+      <trans-unit id="dVj-sB-y4q.text">
+        <source>Data Policy</source>
+        <target>Data Policy</target>
+        <note>Class = "UILabel"; text = "Data Policy"; ObjectID = "dVj-sB-y4q";</note>
+      </trans-unit>
+      <trans-unit id="dWd-V9-pbT.text">
+        <source>username</source>
+        <target>username</target>
+        <note>Class = "UILabel"; text = "username"; ObjectID = "dWd-V9-pbT";</note>
+      </trans-unit>
+      <trans-unit id="dh1-HO-WTT.text">
+        <source>Notifications</source>
+        <target>Notifications</target>
+        <note>Class = "UILabel"; text = "Notifications"; ObjectID = "dh1-HO-WTT";</note>
+      </trans-unit>
+      <trans-unit id="e5e-YR-x1h.text">
+        <source>Account Info</source>
+        <target>Account Info</target>
+        <note>Class = "UILabel"; text = "Account Info"; ObjectID = "e5e-YR-x1h";</note>
+      </trans-unit>
+      <trans-unit id="eBt-AN-CFZ.text">
+        <source>     EARN POINTS WITH INSTAFEED APP</source>
+        <target>     EARN POINTS WITH INSTAFEED APP</target>
+        <note>Class = "UILabel"; text = "     EARN POINTS WITH INSTAFEED APP"; ObjectID = "eBt-AN-CFZ";</note>
+      </trans-unit>
+      <trans-unit id="ebU-Kq-H9C.text">
+        <source>Currently No offers available in your location, when your offer comes in, we will notify you</source>
+        <target>Currently No offers available in your location, when your offer comes in, we will notify you</target>
+        <note>Class = "UILabel"; text = "Currently No offers available in your location, when your offer comes in, we will notify you"; ObjectID = "ebU-Kq-H9C";</note>
+      </trans-unit>
+      <trans-unit id="ekI-6P-BA8.text">
+        <source>Text(SMS) Messages</source>
+        <target>Text(SMS) Messages</target>
+        <note>Class = "UILabel"; text = "Text(SMS) Messages"; ObjectID = "ekI-6P-BA8";</note>
+      </trans-unit>
+      <trans-unit id="faP-0R-SLs.normalTitle">
+        <source>Off</source>
+        <target>Off</target>
+        <note>Class = "UIButton"; normalTitle = "Off"; ObjectID = "faP-0R-SLs";</note>
+      </trans-unit>
+      <trans-unit id="foo-5a-ehM.text">
+        <source>Follow</source>
+        <target>Follow</target>
+        <note>Class = "UILabel"; text = "Follow"; ObjectID = "foo-5a-ehM";</note>
+      </trans-unit>
+      <trans-unit id="g3A-QK-6r6.text">
+        <source>Advertising</source>
+        <target>Advertising</target>
+        <note>Class = "UILabel"; text = "Advertising"; ObjectID = "g3A-QK-6r6";</note>
+      </trans-unit>
+      <trans-unit id="g8j-M2-eHB.text">
+        <source>Connect contacts</source>
+        <target>Connect contacts</target>
+        <note>Class = "UILabel"; text = "Connect contacts"; ObjectID = "g8j-M2-eHB";</note>
+      </trans-unit>
+      <trans-unit id="giz-8x-L28.normalTitle">
+        <source>Button</source>
+        <target>Button</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "giz-8x-L28";</note>
+      </trans-unit>
+      <trans-unit id="go4-pn-sg0.text">
+        <source>Preferred Currency</source>
+        <target>Preferred Currency</target>
+        <note>Class = "UILabel"; text = "Preferred Currency"; ObjectID = "go4-pn-sg0";</note>
+      </trans-unit>
+      <trans-unit id="hIC-J5-GHK.normalTitle">
+        <source>Follow</source>
+        <target>Follow</target>
+        <note>Class = "UIButton"; normalTitle = "Follow"; ObjectID = "hIC-J5-GHK";</note>
+      </trans-unit>
+      <trans-unit id="hIX-2f-VLw.text">
+        <source>Text(SMS) Messages</source>
+        <target>Text(SMS) Messages</target>
+        <note>Class = "UILabel"; text = "Text(SMS) Messages"; ObjectID = "hIX-2f-VLw";</note>
+      </trans-unit>
+      <trans-unit id="hNH-rr-aFe.text">
+        <source>Deals and Offers</source>
+        <target>Deals and Offers</target>
+        <note>Class = "UILabel"; text = "Deals and Offers"; ObjectID = "hNH-rr-aFe";</note>
+      </trans-unit>
+      <trans-unit id="hYY-Kt-k6Z.text">
+        <source>Get tips about instafeed's tool</source>
+        <target>Get tips about instafeed's tool</target>
+        <note>Class = "UILabel"; text = "Get tips about instafeed's tool"; ObjectID = "hYY-Kt-k6Z";</note>
+      </trans-unit>
+      <trans-unit id="haP-vb-qvf.text">
+        <source>Follow and invite friends</source>
+        <target>Follow and invite friends</target>
+        <note>Class = "UILabel"; text = "Follow and invite friends"; ObjectID = "haP-vb-qvf";</note>
+      </trans-unit>
+      <trans-unit id="hdT-7c-eWd.text">
+        <source>These settings affect instafeed account logged into</source>
+        <target>These settings affect instafeed account logged into</target>
+        <note>Class = "UILabel"; text = "These settings affect instafeed account logged into"; ObjectID = "hdT-7c-eWd";</note>
+      </trans-unit>
+      <trans-unit id="i8f-qY-zcy.text">
+        <source>App updates</source>
+        <target>App updates</target>
+        <note>Class = "UILabel"; text = "App updates"; ObjectID = "i8f-qY-zcy";</note>
+      </trans-unit>
+      <trans-unit id="j4e-D3-CBu.normalTitle">
+        <source>Redeem With 100 Pts</source>
+        <target>Redeem With 100 Pts</target>
+        <note>Class = "UIButton"; normalTitle = "Redeem With 100 Pts"; ObjectID = "j4e-D3-CBu";</note>
+      </trans-unit>
+      <trans-unit id="j5F-IS-rot.text">
+        <source>My Favorites</source>
+        <target>My Favorites</target>
+        <note>Class = "UILabel"; text = "My Favorites"; ObjectID = "j5F-IS-rot";</note>
+      </trans-unit>
+      <trans-unit id="jHR-Ei-piu.normalTitle">
+        <source>button</source>
+        <target>button</target>
+        <note>Class = "UIButton"; normalTitle = "button"; ObjectID = "jHR-Ei-piu";</note>
+      </trans-unit>
+      <trans-unit id="jhX-dG-UcN.text">
+        <source>Privacy and Security</source>
+        <target>Privacy and Security</target>
+        <note>Class = "UILabel"; text = "Privacy and Security"; ObjectID = "jhX-dG-UcN";</note>
+      </trans-unit>
+      <trans-unit id="jqb-Zg-NjB.text">
+        <source>Contacts syncing</source>
+        <target>Contacts syncing</target>
+        <note>Class = "UILabel"; text = "Contacts syncing"; ObjectID = "jqb-Zg-NjB";</note>
+      </trans-unit>
+      <trans-unit id="jxl-14-q97.text">
+        <source>You have unseen notifications, and other notifications</source>
+        <target>You have unseen notifications, and other notifications</target>
+        <note>Class = "UILabel"; text = "You have unseen notifications, and other notifications"; ObjectID = "jxl-14-q97";</note>
+      </trans-unit>
+      <trans-unit id="kJL-ib-CKS.text">
+        <source>Reminder Emails</source>
+        <target>Reminder Emails</target>
+        <note>Class = "UILabel"; text = "Reminder Emails"; ObjectID = "kJL-ib-CKS";</note>
+      </trans-unit>
+      <trans-unit id="kZk-WC-bFS.text">
+        <source>username</source>
+        <target>username</target>
+        <note>Class = "UILabel"; text = "username"; ObjectID = "kZk-WC-bFS";</note>
+      </trans-unit>
+      <trans-unit id="kpa-LH-yAV.text">
+        <source>Help</source>
+        <target>Help</target>
+        <note>Class = "UILabel"; text = "Help"; ObjectID = "kpa-LH-yAV";</note>
+      </trans-unit>
+      <trans-unit id="kwv-LZ-srR.text">
+        <source>Product Emails</source>
+        <target>Product Emails</target>
+        <note>Class = "UILabel"; text = "Product Emails"; ObjectID = "kwv-LZ-srR";</note>
+      </trans-unit>
+      <trans-unit id="lHs-lU-HeG.text">
+        <source>My Referrals</source>
+        <target>My Referrals</target>
+        <note>Class = "UILabel"; text = "My Referrals"; ObjectID = "lHs-lU-HeG";</note>
+      </trans-unit>
+      <trans-unit id="lOX-Za-TNs.text">
+        <source>     EARN POINTS WITH INSTAFEED APP</source>
+        <target>     EARN POINTS WITH INSTAFEED APP</target>
+        <note>Class = "UILabel"; text = "     EARN POINTS WITH INSTAFEED APP"; ObjectID = "lOX-Za-TNs";</note>
+      </trans-unit>
+      <trans-unit id="lZ8-sO-2TO.text">
+        <source>About</source>
+        <target>About</target>
+        <note>Class = "UILabel"; text = "About"; ObjectID = "lZ8-sO-2TO";</note>
+      </trans-unit>
+      <trans-unit id="m6t-Dv-ZPu.text">
+        <source>Report a problem</source>
+        <target>Report a problem</target>
+        <note>Class = "UILabel"; text = "Report a problem"; ObjectID = "m6t-Dv-ZPu";</note>
+      </trans-unit>
+      <trans-unit id="mI4-bz-3XA.text">
+        <source>Reminders</source>
+        <target>Reminders</target>
+        <note>Class = "UILabel"; text = "Reminders"; ObjectID = "mI4-bz-3XA";</note>
+      </trans-unit>
+      <trans-unit id="maS-Vy-hJX.normalTitle">
+        <source>From Every Superstar</source>
+        <target>From Every Superstar</target>
+        <note>Class = "UIButton"; normalTitle = "From Every Superstar"; ObjectID = "maS-Vy-hJX";</note>
+      </trans-unit>
+      <trans-unit id="mcj-Av-ku9.text">
+        <source>These settings affect instafeed account logged into</source>
+        <target>These settings affect instafeed account logged into</target>
+        <note>Class = "UILabel"; text = "These settings affect instafeed account logged into"; ObjectID = "mcj-Av-ku9";</note>
+      </trans-unit>
+      <trans-unit id="n1r-ML-53V.text">
+        <source>Currently No offers available in your location, when your offer comes in, we will notify you</source>
+        <target>Currently No offers available in your location, when your offer comes in, we will notify you</target>
+        <note>Class = "UILabel"; text = "Currently No offers available in your location, when your offer comes in, we will notify you"; ObjectID = "n1r-ML-53V";</note>
+      </trans-unit>
+      <trans-unit id="niz-0i-HhL.normalTitle">
+        <source>FAQ's</source>
+        <target>FAQ's</target>
+        <note>Class = "UIButton"; normalTitle = "FAQ's"; ObjectID = "niz-0i-HhL";</note>
+      </trans-unit>
+      <trans-unit id="oXR-nX-QrT.text">
+        <source>Email and SMS</source>
+        <target>Email and SMS</target>
+        <note>Class = "UILabel"; text = "Email and SMS"; ObjectID = "oXR-nX-QrT";</note>
+      </trans-unit>
+      <trans-unit id="pYP-2a-CAV.text">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "pYP-2a-CAV";</note>
+      </trans-unit>
+      <trans-unit id="pt7-ip-PR3.normalTitle">
+        <source>button</source>
+        <target>button</target>
+        <note>Class = "UIButton"; normalTitle = "button"; ObjectID = "pt7-ip-PR3";</note>
+      </trans-unit>
+      <trans-unit id="qev-XV-cvH.normalTitle">
+        <source>button</source>
+        <target>button</target>
+        <note>Class = "UIButton"; normalTitle = "button"; ObjectID = "qev-XV-cvH";</note>
+      </trans-unit>
+      <trans-unit id="qkY-Ms-tlE.text">
+        <source>Citizen Feeds</source>
+        <target>Citizen Feeds</target>
+        <note>Class = "UILabel"; text = "Citizen Feeds"; ObjectID = "qkY-Ms-tlE";</note>
+      </trans-unit>
+      <trans-unit id="rLJ-Kr-MTw.text">
+        <source>Notifications</source>
+        <target>Notifications</target>
+        <note>Class = "UILabel"; text = "Notifications"; ObjectID = "rLJ-Kr-MTw";</note>
+      </trans-unit>
+      <trans-unit id="rME-q4-7rN.text">
+        <source>Account</source>
+        <target>Account</target>
+        <note>Class = "UILabel"; text = "Account"; ObjectID = "rME-q4-7rN";</note>
+      </trans-unit>
+      <trans-unit id="sMk-N3-sSl.normalTitle">
+        <source>Follow All</source>
+        <target>Follow All</target>
+        <note>Class = "UIButton"; normalTitle = "Follow All"; ObjectID = "sMk-N3-sSl";</note>
+      </trans-unit>
+      <trans-unit id="shk-wG-OsJ.text">
+        <source>Rewards and Offers</source>
+        <target>Rewards and Offers</target>
+        <note>Class = "UILabel"; text = "Rewards and Offers"; ObjectID = "shk-wG-OsJ";</note>
+      </trans-unit>
+      <trans-unit id="sho-lI-HU4.text">
+        <source>Payments</source>
+        <target>Payments</target>
+        <note>Class = "UILabel"; text = "Payments"; ObjectID = "sho-lI-HU4";</note>
+      </trans-unit>
+      <trans-unit id="tJ0-c0-jYE.text">
+        <source>Send Feedback</source>
+        <target>Send Feedback</target>
+        <note>Class = "UILabel"; text = "Send Feedback"; ObjectID = "tJ0-c0-jYE";</note>
+      </trans-unit>
+      <trans-unit id="tNT-t0-ySM.text">
+        <source>Subtitle</source>
+        <target>Subtitle</target>
+        <note>Class = "UILabel"; text = "Subtitle"; ObjectID = "tNT-t0-ySM";</note>
+      </trans-unit>
+      <trans-unit id="tm8-SH-gQk.normalTitle">
+        <source>On</source>
+        <target>On</target>
+        <note>Class = "UIButton"; normalTitle = "On"; ObjectID = "tm8-SH-gQk";</note>
+      </trans-unit>
+      <trans-unit id="tqD-QK-dgI.text">
+        <source>Feeds you've liked</source>
+        <target>Feeds you've liked</target>
+        <note>Class = "UILabel"; text = "Feeds you've liked"; ObjectID = "tqD-QK-dgI";</note>
+      </trans-unit>
+      <trans-unit id="u4z-r1-5ER.text">
+        <source>50 Amazon Gift Card</source>
+        <target>50 Amazon Gift Card</target>
+        <note>Class = "UILabel"; text = "50 Amazon Gift Card"; ObjectID = "u4z-r1-5ER";</note>
+      </trans-unit>
+      <trans-unit id="up7-pq-Spk.text">
+        <source>Reminder Emails</source>
+        <target>Reminder Emails</target>
+        <note>Class = "UILabel"; text = "Reminder Emails"; ObjectID = "up7-pq-Spk";</note>
+      </trans-unit>
+      <trans-unit id="uvF-zS-Hai.text">
+        <source>Full Name</source>
+        <target>Full Name</target>
+        <note>Class = "UILabel"; text = "Full Name"; ObjectID = "uvF-zS-Hai";</note>
+      </trans-unit>
+      <trans-unit id="v27-7X-HiZ.text">
+        <source>Give Feedback on Instafeed</source>
+        <target>Give Feedback on Instafeed</target>
+        <note>Class = "UILabel"; text = "Give Feedback on Instafeed"; ObjectID = "v27-7X-HiZ";</note>
+      </trans-unit>
+      <trans-unit id="vEO-d9-VAL.text">
+        <source>50 Amazon Gift Card</source>
+        <target>50 Amazon Gift Card</target>
+        <note>Class = "UILabel"; text = "50 Amazon Gift Card"; ObjectID = "vEO-d9-VAL";</note>
+      </trans-unit>
+      <trans-unit id="vRd-26-dsn.normalTitle">
+        <source>Button</source>
+        <target>Button</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "vRd-26-dsn";</note>
+      </trans-unit>
+      <trans-unit id="vaw-PW-BPF.text">
+        <source>Help</source>
+        <target>Help</target>
+        <note>Class = "UILabel"; text = "Help"; ObjectID = "vaw-PW-BPF";</note>
+      </trans-unit>
+      <trans-unit id="vfm-HK-ios.text">
+        <source>BBC World</source>
+        <target>BBC World</target>
+        <note>Class = "UILabel"; text = "BBC World"; ObjectID = "vfm-HK-ios";</note>
+      </trans-unit>
+      <trans-unit id="vqi-Xo-kgk.text">
+        <source>Report a problem</source>
+        <target>Report a problem</target>
+        <note>Class = "UILabel"; text = "Report a problem"; ObjectID = "vqi-Xo-kgk";</note>
+      </trans-unit>
+      <trans-unit id="vsS-xw-ETd.text">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "vsS-xw-ETd";</note>
+      </trans-unit>
+      <trans-unit id="w7S-YK-Nbt.normalTitle">
+        <source>Redeem With 100 Pts</source>
+        <target>Redeem With 100 Pts</target>
+        <note>Class = "UIButton"; normalTitle = "Redeem With 100 Pts"; ObjectID = "w7S-YK-Nbt";</note>
+      </trans-unit>
+      <trans-unit id="wXZ-CI-cP7.normalTitle">
+        <source>From Every Superstar</source>
+        <target>From Every Superstar</target>
+        <note>Class = "UIButton"; normalTitle = "From Every Superstar"; ObjectID = "wXZ-CI-cP7";</note>
+      </trans-unit>
+      <trans-unit id="wXe-wb-a32.text">
+        <source>5 min</source>
+        <target>5 min</target>
+        <note>Class = "UILabel"; text = "5 min"; ObjectID = "wXe-wb-a32";</note>
+      </trans-unit>
+      <trans-unit id="weR-qG-5Tv.text">
+        <source>INR</source>
+        <target>INR</target>
+        <note>Class = "UILabel"; text = "INR"; ObjectID = "weR-qG-5Tv";</note>
+      </trans-unit>
+      <trans-unit id="xe8-mn-24J.text">
+        <source>Follower Requests</source>
+        <target>Follower Requests</target>
+        <note>Class = "UILabel"; text = "Follower Requests"; ObjectID = "xe8-mn-24J";</note>
+      </trans-unit>
+      <trans-unit id="xsD-wS-xuJ.text">
+        <source>Get notification you may have missed</source>
+        <target>Get notification you may have missed</target>
+        <note>Class = "UILabel"; text = "Get notification you may have missed"; ObjectID = "xsD-wS-xuJ";</note>
+      </trans-unit>
+      <trans-unit id="ymD-2c-hPg.text">
+        <source>Learn about new instafeed features</source>
+        <target>Learn about new instafeed features</target>
+        <note>Class = "UILabel"; text = "Learn about new instafeed features"; ObjectID = "ymD-2c-hPg";</note>
+      </trans-unit>
+      <trans-unit id="ytI-L3-GAA.text">
+        <source>From Superstar | Follow</source>
+        <target>From Superstar | Follow</target>
+        <note>Class = "UILabel"; text = "From Superstar | Follow"; ObjectID = "ytI-L3-GAA";</note>
+      </trans-unit>
+      <trans-unit id="zDR-rN-m22.text">
+        <source>New Emails</source>
+        <target>New Emails</target>
+        <note>Class = "UILabel"; text = "New Emails"; ObjectID = "zDR-rN-m22";</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

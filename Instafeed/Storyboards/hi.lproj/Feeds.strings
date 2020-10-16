@@ -1,0 +1,107 @@
+
+/* Class = "UIButton"; normalTitle = "Feed Privacy"; ObjectID = "0R3-Yn-FR4"; */
+"0R3-Yn-FR4.normalTitle" = "फ़ीड गोपनीयता";
+
+/* Class = "UILabel"; text = "Recording"; ObjectID = "1qY-Jm-zSR"; */
+"1qY-Jm-zSR.text" = "रिकॉर्डिंग";
+
+/* Class = "UILabel"; text = "NOW SELL YOUR NEWS INSTANTLY!"; ObjectID = "49E-O8-Pki"; */
+"49E-O8-Pki.text" = "अब अपने समाचारों को पूरी तरह से पढ़ लें!";
+
+/* Class = "UILabel"; text = "Followers"; ObjectID = "8Iy-iK-RGL"; */
+"8Iy-iK-RGL.text" = "फॉलोवर्स";
+
+/* Class = "UILabel"; text = "REC"; ObjectID = "8TP-ku-epx"; */
+"8TP-ku-epx.text" = "रिकॉर्डिंग";
+
+/* Class = "UILabel"; text = "Joseph Mourino"; ObjectID = "8n9-lB-fmT"; */
+"8n9-lB-fmT.text" = "जोसेफ मौरिनो";
+
+/* Class = "UIButton"; normalTitle = "SELL NOW!"; ObjectID = "BoJ-zM-wE7"; */
+"BoJ-zM-wE7.normalTitle" = "अब खरीदें!";
+
+/* Class = "UILabel"; text = "Select Privacy"; ObjectID = "DR1-Qz-rmg"; */
+"DR1-Qz-rmg.text" = "गोपनीयता का चयन करें";
+
+/* Class = "UILabel"; text = "NOW SELL YOUR NEWS INSTANTLY!"; ObjectID = "DmQ-5d-gHY"; */
+"DmQ-5d-gHY.text" = "अब अपने समाचारों को पूरी तरह से पढ़ लें!";
+
+/* Class = "UILabel"; text = "NOW SELL YOUR NEWS INSTANTLY!"; ObjectID = "EMk-SQ-Ihj"; */
+"EMk-SQ-Ihj.text" = "अब अपने समाचारों को पूरी तरह से पढ़ लें!";
+
+/* Class = "UILabel"; text = "Only you can see the feed"; ObjectID = "Esg-uS-Dpp"; */
+"Esg-uS-Dpp.text" = "केवल आप फ़ीड देख सकते हैं";
+
+/* Class = "UILabel"; text = "Learn more about"; ObjectID = "GrB-8f-V6x"; */
+"GrB-8f-V6x.text" = "के बारे में अधिक जानने";
+
+/* Class = "UILabel"; text = "Post as Anonymus"; ObjectID = "Gtq-uF-qYw"; */
+"Gtq-uF-qYw.text" = "अनाम के रूप में पोस्ट करें";
+
+/* Class = "UITextField"; placeholder = "Find a location..."; ObjectID = "HKH-Ht-J09"; */
+"HKH-Ht-J09.placeholder" = "कोई स्थान ढूंढें ...";
+
+/* Class = "UILabel"; text = "I AGREE WITH THE"; ObjectID = "I9w-YS-T0f"; */
+"I9w-YS-T0f.text" = "मैं उनके साथ सहमत हूं";
+
+/* Class = "UIButton"; normalTitle = "Feed"; ObjectID = "KDi-KP-R7A"; */
+"KDi-KP-R7A.normalTitle" = "फ़ीड";
+
+/* Class = "UILabel"; text = "Your feed will appear on your profile and in search results"; ObjectID = "Nj8-ct-tUR"; */
+"Nj8-ct-tUR.text" = "आपकी फ़ीड आपके प्रोफ़ाइल पर और खोज परिणामों में दिखाई देगी";
+
+/* Class = "UILabel"; text = "Who can see your post?"; ObjectID = "PjT-AR-dH5"; */
+"PjT-AR-dH5.text" = "आपके पोस्ट को कौन देख सकता है?";
+
+/* Class = "UILabel"; text = "TERMS & CONDITIONS"; ObjectID = "RnA-x9-S6H"; */
+"RnA-x9-S6H.text" = "नियमों और शर्तों";
+
+/* Class = "UIButton"; normalTitle = "UNLOCK FREE SUBSCRIPTION"; ObjectID = "SRe-GI-t2f"; */
+"SRe-GI-t2f.normalTitle" = "अनलॉक मुक्त सदस्यता";
+
+/* Class = "UIButton"; normalTitle = "UNLOCK FREE SUBSCRIPTION"; ObjectID = "VPk-km-Iyw"; */
+"VPk-km-Iyw.normalTitle" = "अनलॉक मुक्त सदस्यता";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "Vij-YV-jNb"; */
+"Vij-YV-jNb.text" = "स्थान";
+
+/* Class = "UILabel"; text = "Public"; ObjectID = "WlN-GH-Zzb"; */
+"WlN-GH-Zzb.text" = "सार्वजनिक";
+
+/* Class = "UILabel"; text = "Anyone on or off instafeed"; ObjectID = "aBT-Gf-zVH"; */
+"aBT-Gf-zVH.text" = "किसी को भी या बंद करना";
+
+/* Class = "UILabel"; text = "Choose a background"; ObjectID = "d8F-Ze-84M"; */
+"d8F-Ze-84M.text" = "एक पृष्ठभूमि चुनें";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "dMx-7n-vYk"; */
+"dMx-7n-vYk.text" = "00:00:00";
+
+/* Class = "UILabel"; text = "SET YOUR PRICE BID"; ObjectID = "dcK-wV-LqS"; */
+"dcK-wV-LqS.text" = "अपना मूल्य निर्धारित करें";
+
+/* Class = "UILabel"; text = "Your followers on instafeed"; ObjectID = "fOX-Nb-bFm"; */
+"fOX-Nb-bFm.text" = "अपने अनुयायियों को इंसाफ पर";
+
+/* Class = "UILabel"; text = "Select a location"; ObjectID = "gXU-F6-Reg"; */
+"gXU-F6-Reg.text" = "किसी स्थान का चयन करें";
+
+/* Class = "UILabel"; text = "Sell My News"; ObjectID = "jSt-xt-dd7"; */
+"jSt-xt-dd7.text" = "मेरा समाचार बेचो";
+
+/* Class = "UILabel"; text = "NEWS MANDI SUBSCRIPTION"; ObjectID = "mJp-9E-0JU"; */
+"mJp-9E-0JU.text" = "समाचार सदस्यता लें";
+
+/* Class = "UIButton"; normalTitle = "Drafts"; ObjectID = "maC-1L-FFA"; */
+"maC-1L-FFA.normalTitle" = "ड्राफ्ट";
+
+/* Class = "UILabel"; text = "Only me"; ObjectID = "o0G-RK-oLf"; */
+"o0G-RK-oLf.text" = "केवल मैं";
+
+/* Class = "UILabel"; text = "NEWS MANDI SUBSCRIPTION"; ObjectID = "rXL-s4-kft"; */
+"rXL-s4-kft.text" = "समाचार सदस्यता लें";
+
+/* Class = "UILabel"; text = "Public"; ObjectID = "taG-4C-b9S"; */
+"taG-4C-b9S.text" = "सार्वजनिक";
+
+"API_CANCEL_TITLE" = "Cancel";

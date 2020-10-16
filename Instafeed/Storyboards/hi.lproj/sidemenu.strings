@@ -1,0 +1,593 @@
+
+/* Class = "UILabel"; text = "Account Type"; ObjectID = "0gc-HJ-CiH"; */
+"0gc-HJ-CiH.text" = "खाते का प्रकार";
+
+/* Class = "UIButton"; normalTitle = "FAQ's"; ObjectID = "1CX-Lc-tDZ"; */
+"1CX-Lc-tDZ.normalTitle" = "पूछे जाने वाले प्रश्न के जवाब ";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "1iY-fi-2Ch"; */
+"1iY-fi-2Ch.text" = "सेटिंग्स ";
+
+/* Class = "UILabel"; text = "Full Name"; ObjectID = "1ur-Ze-Zfx"; */
+"1ur-Ze-Zfx.text" = "पूरा नाम";
+
+/* Class = "UILabel"; text = "Get tips about instafeed's tool"; ObjectID = "37y-Qj-d5z"; */
+"37y-Qj-d5z.text" = "इंस्टाफ़ेड के उपकरण के बारे में सुझाव प्राप्त करें";
+
+/* Class = "UILabel"; text = "New Delhi,India"; ObjectID = "3LU-2r-TqL"; */
+"3LU-2r-TqL.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Deals & Offers"; ObjectID = "3eS-ya-HPd"; */
+"3eS-ya-HPd.normalTitle" = "सौदे और प्रस्ताव (डील्स और ऑफर्स)";
+
+/* Class = "UILabel"; text = "Feedback Emails"; ObjectID = "3yG-Fh-fns"; */
+"3yG-Fh-fns.text" = "प्रतिक्रिया ईमेल";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "4Ww-7X-SVI"; */
+"4Ww-7X-SVI.text" = "के बारे में";
+
+/* Class = "UIButton"; normalTitle = "Collect Rewards & Points"; ObjectID = "4iM-m2-HMj"; */
+"4iM-m2-HMj.normalTitle" = "पुरस्कार और अंक ले लीजिए";
+
+/* Class = "UIButton"; normalTitle = "Additional option in system settings"; ObjectID = "4xe-gQ-QgG"; */
+"4xe-gQ-QgG.normalTitle" = "सिस्टम सेटिंग्स में अतिरिक्त विकल्प";
+
+/* Class = "UILabel"; text = "Total Points Earned"; ObjectID = "4zH-aL-OVw"; */
+"4zH-aL-OVw.text" = "कुल अंक अर्जित";
+
+/* Class = "UILabel"; text = "Valid upto 31st Aug"; ObjectID = "5yx-YT-9Qi"; */
+"5yx-YT-9Qi.text" = "31 अगस्त तक वैध";
+
+/* Class = "UILabel"; text = "Full Name"; ObjectID = "6Cu-Jc-Hss"; */
+"6Cu-Jc-Hss.text" = "पूरा नाम";
+
+/* Class = "UILabel"; text = "When Data Server is terned on, videos won't losed in advanced to help you use less data"; ObjectID = "6Tb-Ru-Ai2"; */
+"6Tb-Ru-Ai2.text" = "जब डेटा सर्वर चालू होता है, तो कम डेटा का उपयोग करने में मदद करने के लिए वीडियो उन्नत में लोड नहीं होंगे";
+
+/* Class = "UIButton"; normalTitle = "Additional options in system settings"; ObjectID = "71x-fx-apm"; */
+"71x-fx-apm.normalTitle" = "सिस्टम सेटिंग्स में अतिरिक्त विकल्प";
+
+/* Class = "UILabel"; text = "Following and Followers"; ObjectID = "77u-Wa-PLE"; */
+"77u-Wa-PLE.text" = "फॉलोइंग  एंड  फॉलोवरस ";
+
+/* Class = "UILabel"; text = "Contacts Syncing"; ObjectID = "7BK-QX-q1s"; */
+"7BK-QX-q1s.text" = "संपर्क सिंक कर रहा है";
+
+/* Class = "UILabel"; text = "Deals and Offers"; ObjectID = "7Un-tr-uwm"; */
+"7Un-tr-uwm.text" = "सौदे और प्रस्ताव";
+
+/* Class = "UILabel"; text = "Use less data"; ObjectID = "88m-eM-fj1"; */
+"88m-eM-fj1.text" = "कम डेटा का उपयोग करें";
+
+/* Class = "UILabel"; text = "Lorem Ipsum is simply dummy text of the printing and typesetting industry."; ObjectID = "8vu-Kr-iQw"; */
+"8vu-Kr-iQw.text" = "लोरम इप्सम केवल मुद्रण और टंकण उद्योग का डमी पाठ है।";
+
+/* Class = "UILabel"; text = "FOLLOWING"; ObjectID = "8yP-yc-fwV"; */
+"8yP-yc-fwV.text" = "फॉलोइंग";
+
+/* Class = "UILabel"; text = "INR"; ObjectID = "96S-8e-pI7"; */
+"96S-8e-pI7.text" = "INR";
+
+/* Class = "UIButton"; normalTitle = "Additional option in system settings"; ObjectID = "9Bb-5d-WWV"; */
+"9Bb-5d-WWV.normalTitle" = "सिस्टम सेटिंग्स में अतिरिक्त विकल्प";
+
+/* Class = "UIButton"; normalTitle = "On"; ObjectID = "9Mq-OU-eaP"; */
+"9Mq-OU-eaP.normalTitle" = "शुरू";
+
+/* Class = "UILabel"; text = "Valid upto 31st Aug"; ObjectID = "9eB-wr-Tz7"; */
+"9eB-wr-Tz7.text" = "31 अगस्त तक वैध";
+
+/* Class = "UILabel"; text = "Feedback Emails"; ObjectID = "9f2-PJ-4IN"; */
+"9f2-PJ-4IN.text" = "प्रतिक्रिया ईमेल";
+
+/* Class = "UILabel"; text = "Oops.. No Offers Available"; ObjectID = "A1t-HY-Gcn"; */
+"A1t-HY-Gcn.text" = "ओह .. कोई ऑफ़र उपलब्ध नहीं है";
+
+/* Class = "UILabel"; text = "Feeds From Superstar"; ObjectID = "A4r-X8-LMQ"; */
+"A4r-X8-LMQ.text" = "सुपरस्टार से फीड";
+
+/* Class = "UILabel"; text = "username"; ObjectID = "A7z-sv-txQ"; */
+"A7z-sv-txQ.text" = "उपयोगकर्ता नाम";
+
+/* Class = "UILabel"; text = "Your activity"; ObjectID = "AdM-iC-pre"; */
+"AdM-iC-pre.text" = "आपकी गतिविधि";
+
+/* Class = "UILabel"; text = "You have unseen notifications, and other notifications"; ObjectID = "AuQ-gg-7l7"; */
+"AuQ-gg-7l7.text" = "आपके पास अनदेखी सूचनाएं और अन्य सूचनाएं हैं";
+
+/* Class = "UIButton"; normalTitle = "Log out as Klaus Mikelson"; ObjectID = "AzA-SV-7M6"; */
+"AzA-SV-7M6.normalTitle" = "क्लाउस मिकेल्सन के रूप में लॉग आउट करें";
+
+/* Class = "UILabel"; text = "Find People"; ObjectID = "BAN-ke-X47"; */
+"BAN-ke-X47.text" = "लोगों को खोजें";
+
+/* Class = "UILabel"; text = "Report a problem"; ObjectID = "BLW-Rg-vfk"; */
+"BLW-Rg-vfk.text" = "Rसमस्या के बारे में बताएं";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "BX7-69-kPS"; */
+"BX7-69-kPS.text" = "उपशीर्षक";
+
+/* Class = "UILabel"; text = "From Superstar | Follow"; ObjectID = "BaS-bw-y1o"; */
+"BaS-bw-y1o.text" = "सुपरस्टार से | का पालन करें";
+
+/* Class = "UILabel"; text = "Reminders"; ObjectID = "CPJ-To-qmy"; */
+"CPJ-To-qmy.text" = "अनुस्मारक";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "CSg-sC-NuB"; */
+"CSg-sC-NuB.text" = "सूचनाएं";
+
+/* Class = "UILabel"; text = "Terms of Use"; ObjectID = "CxH-Zz-yxd"; */
+"CxH-Zz-yxd.text" = "उपयोग की शर्तें";
+
+/* Class = "UILabel"; text = "500"; ObjectID = "DP2-mX-IfP"; */
+"DP2-mX-IfP.text" = "500";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "DYf-Pl-WCK"; */
+"DYf-Pl-WCK.text" = "सेटिंग्स ";
+
+/* Class = "UILabel"; text = "My Rewards"; ObjectID = "Da1-W4-2px"; */
+"Da1-W4-2px.text" = "मेरे पुरस्कार";
+
+/* Class = "UIButton"; normalTitle = "On"; ObjectID = "DhE-La-ucK"; */
+"DhE-La-ucK.normalTitle" = "शुरू";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "FLW-uT-mNI"; */
+"FLW-uT-mNI.text" = "लिंग";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "FkC-7U-3pg"; */
+"FkC-7U-3pg.text" = "होम";
+
+/* Class = "UILabel"; text = "Following and Followers"; ObjectID = "Fs9-0u-md4"; */
+"Fs9-0u-md4.text" = "फॉलोइंग  एंड  फॉलोवरस ";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "G7i-uR-SfT"; */
+"G7i-uR-SfT.normalTitle" = "फॉलो";
+
+/* Class = "UILabel"; text = "Open-source libraries"; ObjectID = "Gvw-Ef-ACp"; */
+"Gvw-Ef-ACp.text" = "ओपन-सोर्स लाइब्रेरी";
+
+/* Class = "UILabel"; text = "Follow them to see their feeds,Photos & viddeos"; ObjectID = "Gxv-6L-7OF"; */
+"Gxv-6L-7OF.text" = "उनका फ़ीड, फ़ोटो और वीडियो देखने के लिए उनका अनुसरण करें";
+
+/* Class = "UILabel"; text = "Off"; ObjectID = "H1g-Fs-j7t"; */
+"H1g-Fs-j7t.text" = "बंद";
+
+/* Class = "UILabel"; text = "Total Points Earned"; ObjectID = "H4x-OD-cnZ"; */
+"H4x-OD-cnZ.text" = "कुल अंक अर्जित";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "HGa-Dm-N91"; */
+"HGa-Dm-N91.text" = "भाषा";
+
+/* Class = "UIButton"; normalTitle = "Collect Rewards & Points"; ObjectID = "HX4-3q-p1V"; */
+"HX4-3q-p1V.normalTitle" = "पुरस्कार और अंक ले लीजिए";
+
+/* Class = "UILabel"; text = "Rewards and Offers"; ObjectID = "IFw-QP-xZk"; */
+"IFw-QP-xZk.text" = "पुरस्कार और प्रस्ताव";
+
+/* Class = "UILabel"; text = "5000pts"; ObjectID = "ILb-5K-fCS"; */
+"ILb-5K-fCS.text" = "";
+
+/* Class = "UILabel"; text = "These settings affects instaffed account logged into this device"; ObjectID = "IS9-sK-mvC"; */
+"IS9-sK-mvC.text" = "ये सेटिंग्स इस उपकरण में लॉग इन किए गए अप्रभावित खाते को प्रभावित करती हैं";
+
+/* Class = "UILabel"; text = "Klaus Mikelson"; ObjectID = "JBm-rL-PVW"; */
+"JBm-rL-PVW.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Current"; ObjectID = "K1o-Xn-ghv"; */
+"K1o-Xn-ghv.normalTitle" = "चालू";
+
+/* Class = "UIButton"; normalTitle = "button"; ObjectID = "K3S-dt-3yy"; */
+"K3S-dt-3yy.normalTitle" = "बटन";
+
+/* Class = "UILabel"; text = "Data Saver"; ObjectID = "KE8-7N-xeR"; */
+"KE8-7N-xeR.text" = "डेटा सेवर";
+
+/* Class = "UILabel"; text = "Learn about new instafeed features"; ObjectID = "Lxg-st-tvk"; */
+"Lxg-st-tvk.text" = "नई इंस्टाफाइड सुविधाओं के बारे में जानें";
+
+/* Class = "UILabel"; text = "New Emails"; ObjectID = "MJ3-pF-pEL"; */
+"MJ3-pF-pEL.text" = "नई ईमेल";
+
+/* Class = "UILabel"; text = "Superstar and Brand Feeds"; ObjectID = "MWm-KC-DWz"; */
+"MWm-KC-DWz.text" = "सुपरस्टार और ब्रांड फीड";
+
+/* Class = "UILabel"; text = "Give Feedback on Instafeed"; ObjectID = "Mh7-kD-2Pc"; */
+"Mh7-kD-2Pc.text" = "इंस्टाफाइड पर प्रतिक्रिया दें";
+
+/* Class = "UILabel"; text = "FOLLOWERS"; ObjectID = "N9r-11-hXb"; */
+"N9r-11-hXb.text" = "फॉलोवर्स";
+
+/* Class = "UILabel"; text = "Follow contacts"; ObjectID = "NCQ-fc-BU8"; */
+"NCQ-fc-BU8.text" = "जानकारों को फॉलो करे";
+
+/* Class = "UILabel"; text = "Get notifications by text message"; ObjectID = "Nfm-m4-nlU"; */
+"Nfm-m4-nlU.text" = "पाठ संदेश द्वारा सूचनाएं प्राप्त करें";
+
+/* Class = "UILabel"; text = "Yesterday at 23:00"; ObjectID = "O41-B9-D15"; */
+"O41-B9-D15.text" = "कल 23:00 बजे";
+
+/* Class = "UILabel"; text = "Bookmarks"; ObjectID = "OQd-pv-agh"; */
+"OQd-pv-agh.text" = "बुकमार्क";
+
+/* Class = "UIButton"; normalTitle = "Deals & Offers"; ObjectID = "OVT-64-cnt"; */
+"OVT-64-cnt.normalTitle" = "सौदे और प्रस्ताव (डील्स और ऑफर्स)";
+
+/* Class = "UILabel"; text = "Europe Has Six of the 10 Healthiest Nations on Earth"; ObjectID = "Oud-Ep-UqC"; */
+"Oud-Ep-UqC.text" = "";
+
+/* Class = "UILabel"; text = "Follow and Invite friends"; ObjectID = "PAR-SL-kYu"; */
+"PAR-SL-kYu.text" = "दोस्तों को फॉलो करें और आमंत्रित करें";
+
+/* Class = "UILabel"; text = "Off"; ObjectID = "PHO-eG-0Oq"; */
+"PHO-eG-0Oq.text" = "बंद";
+
+/* Class = "UILabel"; text = "5000pts"; ObjectID = "PP3-HN-asw"; */
+"PP3-HN-asw.text" = "";
+
+/* Class = "UILabel"; text = "Accounts You Follow"; ObjectID = "PQ4-9r-dxw"; */
+"PQ4-9r-dxw.text" = "आपके द्वारा अनुसरण (फॉलो )  किए जाने वाले खाते (एकाउंट्स )";
+
+/* Class = "UILabel"; text = "Privacy and security help"; ObjectID = "Prs-2j-fWR"; */
+"Prs-2j-fWR.text" = "गोपनीयता और सुरक्षा सहायता";
+
+/* Class = "UITextField"; placeholder = "Search following"; ObjectID = "RWC-oW-zJx"; */
+"RWC-oW-zJx.placeholder" = "फॉलोइंग खोजे";
+
+/* Class = "UILabel"; text = "Deals and Offers"; ObjectID = "S5H-7z-W1R"; */
+"S5H-7z-W1R.text" = "सौदे और प्रस्ताव";
+
+/* Class = "UILabel"; text = "#instafeed"; ObjectID = "T2d-Ob-KrJ"; */
+"T2d-Ob-KrJ.text" = "";
+
+/* Class = "UILabel"; text = "Help Centre"; ObjectID = "Tmf-c7-oSq"; */
+"Tmf-c7-oSq.text" = "सहायता केंद्र";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "UAv-WI-jYE"; */
+"UAv-WI-jYE.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "From Instafeed"; ObjectID = "UBN-Fa-rIk"; */
+"UBN-Fa-rIk.text" = "इन्स्टाफ़ेड से";
+
+/* Class = "UIButton"; normalTitle = "On"; ObjectID = "UNv-6P-SFJ"; */
+"UNv-6P-SFJ.normalTitle" = "चालू";
+
+/* Class = "UILabel"; text = "Email and SMS"; ObjectID = "UdQ-eT-xqh"; */
+"UdQ-eT-xqh.text" = "ईमेल और एसएमएस";
+
+/* Class = "UILabel"; text = "Account"; ObjectID = "Usd-hf-9SJ"; */
+"Usd-hf-9SJ.text" = "लेखा";
+
+/* Class = "UILabel"; text = "500"; ObjectID = "UzY-px-hU2"; */
+"UzY-px-hU2.text" = "500";
+
+/* Class = "UIButton"; normalTitle = "Male"; ObjectID = "VEH-Yx-JNF"; */
+"VEH-Yx-JNF.normalTitle" = "पुरुष";
+
+/* Class = "UILabel"; text = "Joseph Murinoh"; ObjectID = "Vpr-ga-tFS"; */
+"Vpr-ga-tFS.text" = "जोसेफ मुरीनो";
+
+/* Class = "UILabel"; text = "Mobile data use"; ObjectID = "Vwz-TX-bmy"; */
+"Vwz-TX-bmy.text" = "मोबाइल डेटा का उपयोग";
+
+/* Class = "UILabel"; text = "Report Spam or Abuse"; ObjectID = "WMV-rp-SMl"; */
+"WMV-rp-SMl.text" = "अप्रासंगिक अथवा दुष्प्रयोग सन्देश के लिए प्रतिवेदन करें";
+
+/* Class = "UILabel"; text = "Mobile Data Settings"; ObjectID = "WRA-Zd-MOk"; */
+"WRA-Zd-MOk.text" = "मोबाइल डेटा सेटिंग्स";
+
+/* Class = "UILabel"; text = "To help people connect on instafeed, your contacts are synced and stored on our servers. You can choose which ones to follow"; ObjectID = "WUb-eb-0sF"; */
+"WUb-eb-0sF.text" = "To help people connect on instafeed, your contacts are synced and stored on our servers. You can choose which ones to follow";
+
+/* Class = "UILabel"; text = "Product Emails"; ObjectID = "X2c-XL-zdy"; */
+"X2c-XL-zdy.text" = "Product Emails";लोगों को इंस्टाफ़ेड पर कनेक्ट करने में मदद करने के लिए, आपके संपर्क सिंक किए गए हैं और हमारे सर्वर पर संग्रहीत हैं। आप चुन सकते हैं कि किनका अनुसरण करना है
+
+/* Class = "UILabel"; text = "Saved Feeds"; ObjectID = "XjP-Pb-Ce6"; */
+"XjP-Pb-Ce6.text" = "फ़ीड्स को बचाया";
+
+/* Class = "UILabel"; text = "Instafeed update available"; ObjectID = "Xqh-Xq-qCx"; */
+"Xqh-Xq-qCx.text" = "Instafeed अपडेट उपलब्ध है";
+
+/* Class = "UILabel"; text = "Other Notification Types"; ObjectID = "Xqm-Ov-S2u"; */
+"Xqm-Ov-S2u.text" = "अन्य अधिसूचना प्रकार";
+
+/* Class = "UILabel"; text = "Superstar and Brand Feeds"; ObjectID = "YCx-7j-hBJ"; */
+"YCx-7j-hBJ.text" = "सुपरस्टार और ब्रांड फीड";
+
+/* Class = "UIButton"; normalTitle = "Female"; ObjectID = "YDb-0w-GkD"; */
+"YDb-0w-GkD.normalTitle" = "महिला";
+
+/* Class = "UILabel"; text = "Personal info"; ObjectID = "Ycb-aa-FoH"; */
+"Ycb-aa-FoH.text" = "व्यक्तिगत जानकारी";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YdF-wf-QyD"; */
+"YdF-wf-QyD.normalTitle" = "बटन";
+
+/* Class = "UILabel"; text = "Enter your bank account details"; ObjectID = "YmQ-dZ-Mt0"; */
+"YmQ-dZ-Mt0.text" = "अपने बैंक खाते का विवरण दर्ज करें";
+
+/* Class = "UIButton"; normalTitle = "On"; ObjectID = "Yxl-YI-zYp"; */
+"Yxl-YI-zYp.normalTitle" = "चालू";
+
+/* Class = "UILabel"; text = "Invite friends"; ObjectID = "Z9C-j9-idd"; */
+"Z9C-j9-idd.text" = "दोस्तों को आमंत्रित करें";
+
+/* Class = "UILabel"; text = "App updates"; ObjectID = "ZAA-CH-szr"; */
+"ZAA-CH-szr.text" = "ऐप अपडेट";
+
+/* Class = "UILabel"; text = "Feeds From Superstar"; ObjectID = "ZWJ-eg-pKK"; */
+"ZWJ-eg-pKK.text" = "सुपरस्टार से फीड";
+
+/* Class = "UILabel"; text = "Get notification you may have missed"; ObjectID = "Zro-cb-MRp"; */
+"Zro-cb-MRp.text" = "अधिसूचना प्राप्त करें जो आप याद कर सकते हैं";
+
+/* Class = "UILabel"; text = "Show All Notifications"; ObjectID = "ZvI-eB-JuQ"; */
+"ZvI-eB-JuQ.text" = "सभी सूचनाएं दिखाएं";
+
+/* Class = "UILabel"; text = "From Instafeed"; ObjectID = "aA2-Ga-KrP"; */
+"aA2-Ga-KrP.text" = "इंस्टाफ़ीड से";
+
+/* Class = "UILabel"; text = "Be notified when updated the app"; ObjectID = "aLS-9f-5tq"; */
+"aLS-9f-5tq.text" = "ऐप को अपडेट करने पर सूचित करें";
+
+/* Class = "UILabel"; text = "Push Notifications"; ObjectID = "aRu-PQ-JBP"; */
+"aRu-PQ-JBP.text" = "सूचनाएं भेजना";
+
+/* Class = "UILabel"; text = "Get notifications by text message"; ObjectID = "acN-fZ-bGk"; */
+"acN-fZ-bGk.text" = "पाठ संदेश द्वारा सूचनाएं प्राप्त करें";
+
+/* Class = "UILabel"; text = "Available Balance"; ObjectID = "aeb-Fo-Iv1"; */
+"aeb-Fo-Iv1.text" = "उपलब्ध शेष राशि";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "axA-ah-d31"; */
+"axA-ah-d31.normalTitle" = "बटन";
+
+/* Class = "UILabel"; text = "Preferred Currency"; ObjectID = "bFM-1A-3Ct"; */
+"bFM-1A-3Ct.text" = "पसंदीदा मुद्रा";
+
+/* Class = "UILabel"; text = "Available Balance"; ObjectID = "bcr-sr-yAr"; */
+"bcr-sr-yAr.text" = "उपलब्ध शेष राशि";
+
+/* Class = "UILabel"; text = "My Profile"; ObjectID = "bf9-jw-UOF"; */
+"bf9-jw-UOF.text" = "मेरी प्रोफाइल";
+
+/* Class = "UILabel"; text = "Invite contacts"; ObjectID = "bw3-gg-pTz"; */
+"bw3-gg-pTz.text" = "जानकारों को आमंत्रित करे ";
+
+/* Class = "UIButton"; normalTitle = "EDIT"; ObjectID = "cR2-Uf-E91"; */
+"cR2-Uf-E91.normalTitle" = "संपादित करें";
+
+/* Class = "UIButton"; normalTitle = "Saving"; ObjectID = "cWm-i5-vnT"; */
+"cWm-i5-vnT.normalTitle" = "सेव करे";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cgl-mS-wv2"; */
+"cgl-mS-wv2.normalTitle" = "बटन";
+
+/* Class = "UILabel"; text = "Oops.. No Offers Available"; ObjectID = "cma-ye-Hqg"; */
+"cma-ye-Hqg.text" = "ओह .. कोई ऑफ़र उपलब्ध नहीं है";
+
+/* Class = "UILabel"; text = "100 of your contacts on Instafeed"; ObjectID = "cqV-wM-nxB"; */
+"cqV-wM-nxB.text" = "इंस्टाफ़ीड पर आपके 100 संपर्क";
+
+/* Class = "UILabel"; text = "Deals and Offers"; ObjectID = "dN9-Jx-EEe"; */
+"dN9-Jx-EEe.text" = "सौदे और प्रस्ताव";
+
+/* Class = "UILabel"; text = "Data Policy"; ObjectID = "dVj-sB-y4q"; */
+"dVj-sB-y4q.text" = "डेटा नीति";
+
+/* Class = "UILabel"; text = "username"; ObjectID = "dWd-V9-pbT"; */
+"dWd-V9-pbT.text" = "उपयोगकर्ता नाम";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "dh1-HO-WTT"; */
+"dh1-HO-WTT.text" = "सूचनाएं";
+
+/* Class = "UILabel"; text = "Account Info"; ObjectID = "e5e-YR-x1h"; */
+"e5e-YR-x1h.text" = "खाता (अकाउंट) जानकारी";
+
+/* Class = "UILabel"; text = "     EARN POINTS WITH INSTAFEED APP"; ObjectID = "eBt-AN-CFZ"; */
+"eBt-AN-CFZ.text" = "     निःशुल्क स्थापित अनुप्रयोग के साथ अर्जित अंक";
+
+/* Class = "UILabel"; text = "Currently No offers available in your location, when your offer comes in, we will notify you"; ObjectID = "ebU-Kq-H9C"; */
+"ebU-Kq-H9C.text" = "वर्तमान में आपके स्थान पर कोई ऑफ़र उपलब्ध नहीं है, जब आपका ऑफ़र आता है, तो हम आपको सूचित करेंगे";
+
+/* Class = "UILabel"; text = "Text(SMS) Messages"; ObjectID = "ekI-6P-BA8"; */
+"ekI-6P-BA8.text" = "पाठ (एसएमएस) संदेश";
+
+/* Class = "UIButton"; normalTitle = "Off"; ObjectID = "faP-0R-SLs"; */
+"faP-0R-SLs.normalTitle" = "बंद";
+
+/* Class = "UILabel"; text = "Follow"; ObjectID = "foo-5a-ehM"; */
+"foo-5a-ehM.text" = "फॉलो";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GxL-WT-uBL"; */
+"GxL-WT-uBL.text" = "फॉलो";
+
+/* Class = "UILabel"; text = "Advertising"; ObjectID = "g3A-QK-6r6"; */
+"g3A-QK-6r6.text" = "विज्ञापन";
+
+/* Class = "UILabel"; text = "Connect contacts"; ObjectID = "g8j-M2-eHB"; */
+"g8j-M2-eHB.text" = "संपर्क कनेक्ट करें";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "giz-8x-L28"; */
+"giz-8x-L28.normalTitle" = "बटन";
+
+/* Class = "UILabel"; text = "Preferred Currency"; ObjectID = "go4-pn-sg0"; */
+"go4-pn-sg0.text" = "पसंदीदा मुद्रा";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "hIC-J5-GHK"; */
+"hIC-J5-GHK.normalTitle" = "फॉलो";
+
+/* Class = "UILabel"; text = "Text(SMS) Messages"; ObjectID = "hIX-2f-VLw"; */
+"hIX-2f-VLw.text" = "पाठ (एसएमएस) संदेश";
+
+/* Class = "UILabel"; text = "Deals and Offers"; ObjectID = "hNH-rr-aFe"; */
+"hNH-rr-aFe.text" = "सौदे और प्रस्ताव";
+
+/* Class = "UILabel"; text = "Get tips about instafeed's tool"; ObjectID = "hYY-Kt-k6Z"; */
+"hYY-Kt-k6Z.text" = "इंस्टाफ़ेड के उपकरण के बारे में सुझाव प्राप्त करें";
+
+/* Class = "UILabel"; text = "Follow and invite friends"; ObjectID = "haP-vb-qvf"; */
+"haP-vb-qvf.text" = "दोस्तों को फॉलो करें और आमंत्रित करें";
+
+/* Class = "UILabel"; text = "These settings affect instafeed account logged into"; ObjectID = "hdT-7c-eWd"; */
+"hdT-7c-eWd.text" = "ये सेटिंग्स लॉग इन किए गए इंस्टाफ़ीड खाते को प्रभावित करती हैं";
+
+/* Class = "UILabel"; text = "App updates"; ObjectID = "i8f-qY-zcy"; */
+"i8f-qY-zcy.text" = "ऐप अपडेट";
+
+/* Class = "UIButton"; normalTitle = "Redeem With 100 Pts"; ObjectID = "j4e-D3-CBu"; */
+"j4e-D3-CBu.normalTitle" = "100 pts के साथ रिडीम करें";
+
+/* Class = "UILabel"; text = "My Favorites"; ObjectID = "j5F-IS-rot"; */
+"j5F-IS-rot.text" = "मेरे पसंदीदा";
+
+/* Class = "UIButton"; normalTitle = "button"; ObjectID = "jHR-Ei-piu"; */
+"jHR-Ei-piu.normalTitle" = "बटन";
+
+/* Class = "UILabel"; text = "Privacy and Security"; ObjectID = "jhX-dG-UcN"; */
+"jhX-dG-UcN.text" = "Privacy and Security";
+
+/* Class = "UILabel"; text = "Contacts syncing"; ObjectID = "jqb-Zg-NjB"; */
+"jqb-Zg-NjB.text" = "संपर्क सिंक कर रहा है";
+
+/* Class = "UILabel"; text = "You have unseen notifications, and other notifications"; ObjectID = "jxl-14-q97"; */
+"jxl-14-q97.text" = "आपके पास अनदेखी सूचनाएं और अन्य सूचनाएं हैं";
+
+/* Class = "UILabel"; text = "Reminder Emails"; ObjectID = "kJL-ib-CKS"; */
+"kJL-ib-CKS.text" = "अनुस्मारक ईमेल करें";
+
+/* Class = "UILabel"; text = "username"; ObjectID = "kZk-WC-bFS"; */
+"kZk-WC-bFS.text" = "उपयोगकर्ता नाम";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "kpa-LH-yAV"; */
+"kpa-LH-yAV.text" = "मदद";
+
+/* Class = "UILabel"; text = "Product Emails"; ObjectID = "kwv-LZ-srR"; */
+"kwv-LZ-srR.text" = "उत्पाद ईमेल";
+
+/* Class = "UILabel"; text = "My Referrals"; ObjectID = "lHs-lU-HeG"; */
+"lHs-lU-HeG.text" = "मेरा सिफ़ारिशें";
+
+/* Class = "UILabel"; text = "     EARN POINTS WITH INSTAFEED APP"; ObjectID = "lOX-Za-TNs"; */
+"lOX-Za-TNs.text" = "     निःशुल्क स्थापित अनुप्रयोग के साथ अर्जित अंक";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "lZ8-sO-2TO"; */
+"lZ8-sO-2TO.text" = "के बारे में";
+
+/* Class = "UILabel"; text = "Report a problem"; ObjectID = "m6t-Dv-ZPu"; */
+"m6t-Dv-ZPu.text" = "समस्या के बारे में बताएं";
+
+/* Class = "UILabel"; text = "Reminders"; ObjectID = "mI4-bz-3XA"; */
+"mI4-bz-3XA.text" = "अनुस्मारक";
+
+/* Class = "UIButton"; normalTitle = "From Every Superstar"; ObjectID = "maS-Vy-hJX"; */
+"maS-Vy-hJX.normalTitle" = "हर सुपरस्टार से";
+
+/* Class = "UILabel"; text = "These settings affect instafeed account logged into"; ObjectID = "mcj-Av-ku9"; */
+"mcj-Av-ku9.text" = "ये सेटिंग्स लॉग इन किए गए इंस्टाफ़ीड खाते को प्रभावित करती हैं";
+
+/* Class = "UILabel"; text = "Currently No offers available in your location, when your offer comes in, we will notify you"; ObjectID = "n1r-ML-53V"; */
+"n1r-ML-53V.text" = "वर्तमान में आपके स्थान पर कोई ऑफ़र उपलब्ध नहीं है, जब आपका ऑफ़र आता है, तो हम आपको सूचित करेंगे";
+
+/* Class = "UIButton"; normalTitle = "FAQ's"; ObjectID = "niz-0i-HhL"; */
+"niz-0i-HhL.normalTitle" = "पूछे जाने वाले प्रश्न के जवाब";
+
+/* Class = "UILabel"; text = "Email and SMS"; ObjectID = "oXR-nX-QrT"; */
+"oXR-nX-QrT.text" = "ईमेल और एसएमएस";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "pYP-2a-CAV"; */
+"pYP-2a-CAV.text" = "शीर्षक";
+
+/* Class = "UIButton"; normalTitle = "button"; ObjectID = "pt7-ip-PR3"; */
+"pt7-ip-PR3.normalTitle" = "बटन";
+
+/* Class = "UIButton"; normalTitle = "button"; ObjectID = "qev-XV-cvH"; */
+"qev-XV-cvH.normalTitle" = "बटन";
+
+/* Class = "UILabel"; text = "Citizen Feeds"; ObjectID = "qkY-Ms-tlE"; */
+"qkY-Ms-tlE.text" = "नागरिक फीड ";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "rLJ-Kr-MTw"; */
+"rLJ-Kr-MTw.text" = "सूचनाएं";
+
+/* Class = "UILabel"; text = "Account"; ObjectID = "rME-q4-7rN"; */
+"rME-q4-7rN.text" = "खता";
+
+/* Class = "UIButton"; normalTitle = "Follow All"; ObjectID = "sMk-N3-sSl"; */
+"sMk-N3-sSl.normalTitle" = "सभी का अनुसरण करें";
+
+/* Class = "UILabel"; text = "Rewards and Offers"; ObjectID = "shk-wG-OsJ"; */
+"shk-wG-OsJ.text" = "पुरस्कार और प्रस्ताव";
+
+/* Class = "UILabel"; text = "Payments"; ObjectID = "sho-lI-HU4"; */
+"sho-lI-HU4.text" = "भुगतान";
+
+/* Class = "UILabel"; text = "Send Feedback"; ObjectID = "tJ0-c0-jYE"; */
+"tJ0-c0-jYE.text" = "प्रतिक्रिया भेजें";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "tNT-t0-ySM"; */
+"tNT-t0-ySM.text" = "उपशीर्षक";
+
+/* Class = "UIButton"; normalTitle = "On"; ObjectID = "tm8-SH-gQk"; */
+"tm8-SH-gQk.normalTitle" = "पर";
+
+/* Class = "UILabel"; text = "Feeds you've liked"; ObjectID = "tqD-QK-dgI"; */
+"tqD-QK-dgI.text" = "आपको पसंद आया फ़ीड";
+
+/* Class = "UILabel"; text = "50 Amazon Gift Card"; ObjectID = "u4z-r1-5ER"; */
+"u4z-r1-5ER.text" = "50 अमेज़न उपहार कार्ड";
+
+/* Class = "UILabel"; text = "Reminder Emails"; ObjectID = "up7-pq-Spk"; */
+"up7-pq-Spk.text" = "अनुस्मारक ईमेल करें";
+
+/* Class = "UILabel"; text = "Full Name"; ObjectID = "uvF-zS-Hai"; */
+"uvF-zS-Hai.text" = "पूरा नाम";
+
+/* Class = "UILabel"; text = "Give Feedback on Instafeed"; ObjectID = "v27-7X-HiZ"; */
+"v27-7X-HiZ.text" = "इंस्टाफ़ीड पर प्रतिक्रिया दें";
+
+/* Class = "UILabel"; text = "50 Amazon Gift Card"; ObjectID = "vEO-d9-VAL"; */
+"vEO-d9-VAL.text" = "50 अमेज़न उपहार कार्ड";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vRd-26-dsn"; */
+"vRd-26-dsn.normalTitle" = "बटन";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "vaw-PW-BPF"; */
+"vaw-PW-BPF.text" = "मदद";
+
+/* Class = "UILabel"; text = "BBC World"; ObjectID = "vfm-HK-ios"; */
+"vfm-HK-ios.text" = "बीबीसी वर्ल्ड";
+
+/* Class = "UILabel"; text = "Report a problem"; ObjectID = "vqi-Xo-kgk"; */
+"vqi-Xo-kgk.text" = "समस्या के बारे में बताएं";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "vsS-xw-ETd"; */
+"vsS-xw-ETd.text" = "शीर्षक";
+
+/* Class = "UIButton"; normalTitle = "Redeem With 100 Pts"; ObjectID = "w7S-YK-Nbt"; */
+"w7S-YK-Nbt.normalTitle" = "100 pts के साथ रिडीम करें";
+
+/* Class = "UIButton"; normalTitle = "From Ev100 पीटी के साथ रिडीम करेंery Superstar"; ObjectID = "wXZ-CI-cP7"; */
+"wXZ-CI-cP7.normalTitle" = "हर सुपरस्टार से";
+
+/* Class = "UILabel"; text = "5 min"; ObjectID = "wXe-wb-a32"; */
+"wXe-wb-a32.text" = "5 min";
+
+/* Class = "UILabel"; text = "INR"; ObjectID = "weR-qG-5Tv"; */
+"weR-qG-5Tv.text" = "INR";
+
+/* Class = "UILabel"; text = "Follower Requests"; ObjectID = "xe8-mn-24J"; */
+"xe8-mn-24J.text" = "अनुयायी अनुरोध";
+
+/* Class = "UILabel"; text = "Get notification you may have missed"; ObjectID = "xsD-wS-xuJ"; */
+"xsD-wS-xuJ.text" = "अधिसूचना प्राप्त करें जो आप याद कर सकते हैं";
+
+/* Class = "UILabel"; text = "Learn about new instafeed features"; ObjectID = "ymD-2c-hPg"; */
+"ymD-2c-hPg.text" = "नई इंस्टाफीड सुविधाओं के बारे में जानें";
+
+/* Class = "UILabel"; text = "From Superstar | Follow"; ObjectID = "ytI-L3-GAA"; */
+"ytI-L3-GAA.text" = "सुपरस्टार से | अनुसरण";
+
+/* Class = "UILabel"; text = "New Emails"; ObjectID = "zDR-rN-m22"; */
+"zDR-rN-m22.text" = "नई ईमेल";
+
+"API_CANCEL_TITLE" = "Cancel";

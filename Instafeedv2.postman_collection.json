@@ -1,0 +1,4409 @@
+{
+	"info": {
+		"_postman_id": "85775dbc-1e8b-4767-ae83-4ff052c31691",
+		"name": "Instafeedv2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Citizen",
+			"item": [
+				{
+					"name": "/api/citizen/recents",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/citizen/recents",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"citizen",
+								"recents"
+							]
+						},
+						"description": "Recents"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/citizen/news",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/citizen/news?",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"citizen",
+								"news"
+							],
+							"query": [
+								{
+									"key": "token",
+									"value": "1b4f20c58b8d331a6398e2d22d01301fd7ef55505491b6e53cc48c066baf924d959229ac66b2f908d716e6b1e96465b5a895d39004a52e8b23962100b80096cf",
+									"disabled": true
+								},
+								{
+									"key": "lang_id",
+									"value": "2",
+									"disabled": true
+								},
+								{
+									"key": "start",
+									"value": "",
+									"disabled": true
+								}
+							]
+						},
+						"description": "News Listing"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/citizen/comments",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/citizen/comments?id=18",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"citizen",
+								"comments"
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "18",
+									"description": "post id"
+								}
+							]
+						},
+						"description": "Comments List"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/citizen/comments -thread",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/citizen/comments-thread?id=817",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"citizen",
+								"comments-thread"
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "817",
+									"description": "post id"
+								}
+							]
+						},
+						"description": "Comments List"
+					},
+					"response": []
+				},
+				{
+					"name": "api/citizen/posts",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/citizen/posts?id=975",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"citizen",
+								"posts"
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "975"
+								}
+							]
+						},
+						"description": "Complete post detail, this will open when the post is clicked from listing page.\n\nparameter id = post id"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/citizen/post",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "user",
+									"value": "4",
+									"type": "text",
+									"disabled": true
+								},
+								{
+									"key": "token",
+									"value": "26ab6a812ee6888ba1eb56dcc4fe8855622e6b1534d0ff340adfcf1d1867af4fae7cf4b999b670be770d77af2538f3878118343fd84cbed16a264f8cb24dc06e",
+									"type": "text"
+								},
+								{
+									"key": "title",
+									"value": "Beijing issues red alert as twin typhoons Lekima and Krosa barrel through Asia",
+									"type": "text"
+								},
+								{
+									"key": "description",
+									"value": "Twin typhoons hurtling across the Western Pacific Ocean are expected to lash eastern China, Japan and Taiwan with ferocious tropical storms.",
+									"type": "text"
+								},
+								{
+									"key": "location_id",
+									"value": "1",
+									"type": "text"
+								},
+								{
+									"key": "category_id",
+									"value": "2",
+									"type": "text"
+								},
+								{
+									"key": "lat",
+									"value": "28",
+									"type": "text"
+								},
+								{
+									"key": "long",
+									"value": "77",
+									"type": "text"
+								},
+								{
+									"key": "mod",
+									"value": "n",
+									"type": "text"
+								},
+								{
+									"key": "image",
+									"type": "file",
+									"src": "/C:/Users/jatin/Desktop/11400444-16x9-700x394.jpg"
+								},
+								{
+									"key": "video",
+									"type": "file",
+									"src": [],
+									"disabled": true
+								},
+								{
+									"key": "lang_id",
+									"value": "1",
+									"type": "text"
+								},
+								{
+									"key": "is_an",
+									"value": "n",
+									"type": "text"
+								},
+								{
+									"key": "deviceId",
+									"value": "334343",
+									"type": "text",
+									"disabled": true
+								},
+								{
+									"key": "price",
+									"value": "100",
+									"type": "text",
+									"disabled": true
+								},
+								{
+									"key": "type",
+									"value": "1",
+									"type": "text",
+									"disabled": true
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/citizen/post",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"citizen",
+								"post"
+							]
+						},
+						"description": "To post citizen data to the server."
+					},
+					"response": []
+				},
+				{
+					"name": "/api/citizen/editTitle",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/citizen/editTitle",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"citizen",
+								"editTitle"
+							]
+						},
+						"description": "Edit Post"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/citizen/fav",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "90ffb48924e4ae5a29def9bbdda1355d960126dbb0b2687e2b2d94a5fa1066ade37c071462f5cb56267362bf62e392e436cc3776ce9edc02688a530eb4bfc2f6",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "18",
+									"type": "text"
+								},
+								{
+									"key": "",
+									"value": "",
+									"type": "text",
+									"disabled": true
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/citizen/fav",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"citizen",
+								"fav"
+							]
+						},
+						"description": "Mark post as favorite"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/citizen/isfav",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "90ffb48924e4ae5a29def9bbdda1355d960126dbb0b2687e2b2d94a5fa1066ade37c071462f5cb56267362bf62e392e436cc3776ce9edc02688a530eb4bfc2f6",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "18",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/citizen/isfav",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"citizen",
+								"isfav"
+							]
+						},
+						"description": "Check whether the post is already marked as favorite"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/citizen/vote",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "90ffb48924e4ae5a29def9bbdda1355d960126dbb0b2687e2b2d94a5fa1066ade37c071462f5cb56267362bf62e392e436cc3776ce9edc02688a530eb4bfc2f6",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "18",
+									"type": "text"
+								},
+								{
+									"key": "vote",
+									"value": "u",
+									"type": "text"
+								},
+								{
+									"key": "type",
+									"value": "1",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/citizen/vote",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"citizen",
+								"vote"
+							]
+						},
+						"description": "Like or Unlike a post"
+					},
+					"response": []
+				},
+				{
+					"name": "/citizen/userLikeNews",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "id",
+									"value": "18",
+									"description": "post id",
+									"type": "text"
+								},
+								{
+									"key": "token",
+									"value": "90ffb48924e4ae5a29def9bbdda1355d960126dbb0b2687e2b2d94a5fa1066ade37c071462f5cb56267362bf62e392e436cc3776ce9edc02688a530eb4bfc2f6",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/citizen/userLikeNews",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"citizen",
+								"userLikeNews"
+							]
+						},
+						"description": "Get the list of all users who has liked the post. "
+					},
+					"response": []
+				},
+				{
+					"name": "/api/citizen/isvote",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "e9533d6475be4ca7c1fc2d9200d8599d6b4941ac64b902fc655c6b8d59ed839a85c78292878402b38fc5cb9cec0007febb002a6c51979c13dcf84c12193611b2",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "8368",
+									"description": "post id",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/citizen/isvote",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"citizen",
+								"isvote"
+							]
+						},
+						"description": "Check whether the user has already liked the post.\n\nvote_status = u = liked"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/citizen/editTitle",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "90ffb48924e4ae5a29def9bbdda1355d960126dbb0b2687e2b2d94a5fa1066ade37c071462f5cb56267362bf62e392e436cc3776ce9edc02688a530eb4bfc2f6",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "18",
+									"description": "post id",
+									"type": "text"
+								},
+								{
+									"key": "title",
+									"value": "testing news post",
+									"description": "post description",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/citizen/editTitle",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"citizen",
+								"editTitle"
+							]
+						},
+						"description": "To edit the citzen news post"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/citizen/comment",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "2f58eef0fa6dcab4deb4818742e0cbedc75c61579463002d95a6b64fc50d42ce3e2fb8b1a40994500bbd14c5342b1e9bbfada002b0535721323faeaff6204e59",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "70784",
+									"type": "text"
+								},
+								{
+									"key": "comment",
+									"value": "ok its another thread",
+									"type": "text"
+								},
+								{
+									"key": "reply_id",
+									"value": "176",
+									"description": "optional for threaded comment",
+									"type": "text",
+									"disabled": true
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/citizen/comment",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"citizen",
+								"comment"
+							]
+						},
+						"description": "Post Comment"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/citizen/comment/delete",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "57661f4c97752704e715bb0ddc618940d24d657f1f685e6ae4b6c1643c1d141ac6ad5bc6c1231e80306521a3df4707cf6a6c1a4203d186983b411da85e119470",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "32",
+									"type": "text"
+								},
+								{
+									"key": "comment",
+									"value": "",
+									"type": "text",
+									"disabled": true
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/star/comment/delete",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"star",
+								"comment",
+								"delete"
+							]
+						},
+						"description": "Delete Comment"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/citizen/post/delete",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "",
+									"description": "Post ID",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/citizen/post/delete",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"citizen",
+								"post",
+								"delete"
+							]
+						},
+						"description": "User Post Delete"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/citizen/hashtags",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "tag",
+									"value": "#gaurav",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/citizen/hashtags",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"citizen",
+								"hashtags"
+							],
+							"query": [
+								{
+									"key": "tag",
+									"value": "#tech",
+									"disabled": true
+								}
+							]
+						},
+						"description": "Citizen Hash Tags Listing"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/citizen/news-slider",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/citizen/news-slider",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"citizen",
+								"news-slider"
+							]
+						},
+						"description": "News Slider for Web Home Page"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/citizen/posts-slug",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/citizen/posts-slug?slug=fouyr-956462972",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"citizen",
+								"posts-slug"
+							],
+							"query": [
+								{
+									"key": "slug",
+									"value": "fouyr-956462972"
+								}
+							]
+						},
+						"description": "Get Post by slug"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Bookmark",
+			"item": [
+				{
+					"name": "/api/bookmark",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "322923ee041f3b623e0866f410efddd58dc162f5630ad550f305e45216922a55a810437a9170fe733dd6c9a09010a8ea2d1fb772b208474c6b8a17461a6fa18c",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "18",
+									"description": "post id",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/bookmark",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"bookmark"
+							]
+						},
+						"description": "Book Mark a citizen news post"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/isbookmark",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "559081aa2bdf33eb18d98b0e66e07ccbbb411907bf0bf9f2e55515b4a615ca6acc268d061138ce49b8e71e32ec70d074ccfba8474b3dc2fdea8430f606ba26be",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "495",
+									"description": "post id",
+									"type": "text"
+								},
+								{
+									"key": "module_id",
+									"value": "3",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/isbookmark",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"isbookmark"
+							]
+						},
+						"description": "Check whether post is already bookmarked or not"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/getbookmarks",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "5539be6629e013d32dbeb2b41281aa402a839569cd31e73c1c840df7d2c7fe5c546b3797c51a9174abb29e9150e198cc42511fb06097adee852cf6895645895a",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/getbookmarks",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"getbookmarks"
+							]
+						},
+						"description": "Get list of saved Citizen News bookmarks"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/unbookmark",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "id",
+									"value": "18",
+									"description": "post id",
+									"type": "text"
+								},
+								{
+									"key": "token",
+									"value": "322923ee041f3b623e0866f410efddd58dc162f5630ad550f305e45216922a55a810437a9170fe733dd6c9a09010a8ea2d1fb772b208474c6b8a17461a6fa18c",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/unbookmark",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"unbookmark"
+							]
+						},
+						"description": "Remove bookmark"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Brands",
+			"item": [
+				{
+					"name": "Brands-Landing",
+					"item": [
+						{
+							"name": "/api/brands/info",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://13.234.116.90/api/brands/info?id=4",
+									"protocol": "http",
+									"host": [
+										"13",
+										"234",
+										"116",
+										"90"
+									],
+									"path": [
+										"api",
+										"brands",
+										"info"
+									],
+									"query": [
+										{
+											"key": "id",
+											"value": "4"
+										}
+									]
+								},
+								"description": "Brand Profile Block"
+							},
+							"response": []
+						},
+						{
+							"name": "/api/brands/posts-all",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://13.234.116.90/api/brands/posts-all?",
+									"protocol": "http",
+									"host": [
+										"13",
+										"234",
+										"116",
+										"90"
+									],
+									"path": [
+										"api",
+										"brands",
+										"posts-all"
+									],
+									"query": [
+										{
+											"key": "lang_id",
+											"value": "1",
+											"description": "language id",
+											"disabled": true
+										},
+										{
+											"key": "start",
+											"value": "5",
+											"disabled": true
+										},
+										{
+											"key": "cat_id",
+											"value": "2",
+											"description": "category id",
+											"disabled": true
+										},
+										{
+											"key": "id",
+											"value": "4",
+											"disabled": true
+										}
+									]
+								},
+								"description": "Get All Category Posts"
+							},
+							"response": []
+						},
+						{
+							"name": "/api/brands/posts-slider",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://13.234.116.90/api/brands/posts-all?",
+									"protocol": "http",
+									"host": [
+										"13",
+										"234",
+										"116",
+										"90"
+									],
+									"path": [
+										"api",
+										"brands",
+										"posts-all"
+									],
+									"query": [
+										{
+											"key": "lang_id",
+											"value": "1",
+											"description": "language id",
+											"disabled": true
+										},
+										{
+											"key": "start",
+											"value": "5",
+											"disabled": true
+										},
+										{
+											"key": "cat_id",
+											"value": "2",
+											"description": "category id",
+											"disabled": true
+										},
+										{
+											"key": "id",
+											"value": "4",
+											"disabled": true
+										}
+									]
+								},
+								"description": "Get All Category Posts"
+							},
+							"response": []
+						},
+						{
+							"name": "/api/brands/categories",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://13.234.116.90/api/brands/categories?",
+									"protocol": "http",
+									"host": [
+										"13",
+										"234",
+										"116",
+										"90"
+									],
+									"path": [
+										"api",
+										"brands",
+										"categories"
+									],
+									"query": [
+										{
+											"key": "id",
+											"value": "4",
+											"disabled": true
+										}
+									]
+								},
+								"description": "Brand Categories"
+							},
+							"response": []
+						}
+					],
+					"_postman_isSubFolder": true
+				},
+				{
+					"name": "/api/brands/news",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/brands/news",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"brands",
+								"news"
+							]
+						},
+						"description": "Brand Listing"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/brands/hashtags",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "tag",
+									"value": "#gaurav",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/brands/hashtags",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"brands",
+								"hashtags"
+							],
+							"query": [
+								{
+									"key": "tag",
+									"value": "#tech",
+									"disabled": true
+								}
+							]
+						},
+						"description": "Citizen Hash Tags Listing"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/brands/comments -thread",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/citizen/comments-thread?id=817",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"citizen",
+								"comments-thread"
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "817",
+									"description": "post id"
+								}
+							]
+						},
+						"description": "Comments List"
+					},
+					"response": []
+				},
+				{
+					"name": "api/brands/posts",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/brands/posts?id=269",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"brands",
+								"posts"
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "269"
+								},
+								{
+									"key": "slug",
+									"value": "combination-testing-774370280",
+									"disabled": true
+								}
+							]
+						},
+						"description": "Complete post detail, this will open when the post is clicked from listing page.\n\nparameter id = post id"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/brands/comment/delete",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "comment",
+									"value": "",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/brands/comment/delete",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"brands",
+								"comment",
+								"delete"
+							]
+						},
+						"description": "Delete Comment"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/brands/comment",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "57661f4c97752704e715bb0ddc618940d24d657f1f685e6ae4b6c1643c1d141ac6ad5bc6c1231e80306521a3df4707cf6a6c1a4203d186983b411da85e119470",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "495",
+									"type": "text"
+								},
+								{
+									"key": "comment",
+									"value": "testing comment another",
+									"type": "text"
+								},
+								{
+									"key": "reply_id",
+									"value": "",
+									"description": "optional for threaded comment",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/brands/comment",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"brands",
+								"comment"
+							]
+						},
+						"description": "Post Comment"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/brands/comments",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/brands/comments?id=18",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"brands",
+								"comments"
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "18",
+									"description": "post id"
+								}
+							]
+						},
+						"description": "Comments List"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/brands/editTitle",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "title",
+									"value": "",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/brands/editTitle",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"brands",
+								"editTitle"
+							]
+						},
+						"description": "Edit Post"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/brands/post",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "user",
+									"value": "4",
+									"type": "text",
+									"disabled": true
+								},
+								{
+									"key": "token",
+									"value": "90ffb48924e4ae5a29def9bbdda1355d960126dbb0b2687e2b2d94a5fa1066ade37c071462f5cb56267362bf62e392e436cc3776ce9edc02688a530eb4bfc2f6",
+									"type": "text"
+								},
+								{
+									"key": "title",
+									"value": "North Korea fires multiple ballistic missiles, South Korea says",
+									"type": "text"
+								},
+								{
+									"key": "description",
+									"value": "North Korea fired multiple ballistic missiles early Wednesday in Asia, according to South Korean authorities",
+									"type": "text"
+								},
+								{
+									"key": "location_id",
+									"value": "1",
+									"type": "text"
+								},
+								{
+									"key": "category_id",
+									"value": "2",
+									"type": "text"
+								},
+								{
+									"key": "lat",
+									"value": "28",
+									"type": "text"
+								},
+								{
+									"key": "long",
+									"value": "77",
+									"type": "text"
+								},
+								{
+									"key": "mod",
+									"value": "n",
+									"type": "text"
+								},
+								{
+									"key": "image",
+									"type": "file",
+									"src": "/C:/Users/jatin/Desktop/New folder (2)/104701208-GettyImages-679197024.jpg"
+								},
+								{
+									"key": "video",
+									"type": "file",
+									"src": [],
+									"disabled": true
+								},
+								{
+									"key": "lang_id",
+									"value": "1",
+									"type": "text"
+								},
+								{
+									"key": "is_an",
+									"value": "n",
+									"type": "text"
+								},
+								{
+									"key": "deviceId",
+									"value": "334343",
+									"type": "text",
+									"disabled": true
+								},
+								{
+									"key": "price",
+									"value": "100",
+									"type": "text"
+								},
+								{
+									"key": "type",
+									"value": "1",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/brands/post",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"brands",
+								"post"
+							]
+						},
+						"description": "To post citizen data to the server."
+					},
+					"response": []
+				},
+				{
+					"name": "/api/brands/vote",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "90ffb48924e4ae5a29def9bbdda1355d960126dbb0b2687e2b2d94a5fa1066ade37c071462f5cb56267362bf62e392e436cc3776ce9edc02688a530eb4bfc2f6",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "18",
+									"type": "text"
+								},
+								{
+									"key": "vote",
+									"value": "u",
+									"type": "text"
+								},
+								{
+									"key": "type",
+									"value": "1",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/brands/vote",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"brands",
+								"vote"
+							]
+						},
+						"description": "Like or Unlike a post"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/brands/isvote",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "90ffb48924e4ae5a29def9bbdda1355d960126dbb0b2687e2b2d94a5fa1066ade37c071462f5cb56267362bf62e392e436cc3776ce9edc02688a530eb4bfc2f6",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "18",
+									"description": "post id",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/brands/isvote",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"brands",
+								"isvote"
+							]
+						},
+						"description": "Check whether the user has already liked the post.\n\nvote_status = u = liked"
+					},
+					"response": []
+				},
+				{
+					"name": "/brands/userLikeNews",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "id",
+									"value": "30",
+									"description": "post id",
+									"type": "text"
+								},
+								{
+									"key": "token",
+									"value": "5539be6629e013d32dbeb2b41281aa402a839569cd31e73c1c840df7d2c7fe5c546b3797c51a9174abb29e9150e198cc42511fb06097adee852cf6895645895a",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/brands/userLikeNews",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"brands",
+								"userLikeNews"
+							]
+						},
+						"description": "Get the list of all users who has liked the post. "
+					},
+					"response": []
+				},
+				{
+					"name": "/api/brand/post/delete",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "",
+									"description": "Post ID",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/brands/post/delete",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"brands",
+								"post",
+								"delete"
+							]
+						},
+						"description": "User Post Delete"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/brands/posts-slug",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/brands/posts-slug?slug=fouyr-956462972",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"brands",
+								"posts-slug"
+							],
+							"query": [
+								{
+									"key": "slug",
+									"value": "fouyr-956462972"
+								}
+							]
+						},
+						"description": "Get Post by slug"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Star",
+			"item": [
+				{
+					"name": "/api/star/news",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/star/news",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"star",
+								"news"
+							]
+						},
+						"description": "Brand Listing"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/star/comments -thread",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/star/comments-thread?id=817",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"star",
+								"comments-thread"
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "817",
+									"description": "post id"
+								}
+							]
+						},
+						"description": "Comments List"
+					},
+					"response": []
+				},
+				{
+					"name": "api/star/posts",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/star/posts?id=28",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"star",
+								"posts"
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "28"
+								}
+							]
+						},
+						"description": "Complete post detail, this will open when the post is clicked from listing page.\n\nparameter id = post id"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/star/comment/delete",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "comment",
+									"value": "",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/star/comment/delete",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"star",
+								"comment",
+								"delete"
+							]
+						},
+						"description": "Delete Comment"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/star/comments",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/star/comments?id=33",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"star",
+								"comments"
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "33",
+									"description": "post id"
+								}
+							]
+						},
+						"description": "Comments List"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/star/editTitle",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "title",
+									"value": "",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/star/editTitle",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"star",
+								"editTitle"
+							]
+						},
+						"description": "Edit Post"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/star/post",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "user",
+									"value": "4",
+									"type": "text",
+									"disabled": true
+								},
+								{
+									"key": "token",
+									"value": "90ffb48924e4ae5a29def9bbdda1355d960126dbb0b2687e2b2d94a5fa1066ade37c071462f5cb56267362bf62e392e436cc3776ce9edc02688a530eb4bfc2f6",
+									"type": "text"
+								},
+								{
+									"key": "title",
+									"value": "North Korea fires multiple ballistic missiles, South Korea says",
+									"type": "text"
+								},
+								{
+									"key": "description",
+									"value": "North Korea fired multiple ballistic missiles early Wednesday in Asia, according to South Korean authorities",
+									"type": "text"
+								},
+								{
+									"key": "location_id",
+									"value": "1",
+									"type": "text"
+								},
+								{
+									"key": "category_id",
+									"value": "2",
+									"type": "text"
+								},
+								{
+									"key": "lat",
+									"value": "28",
+									"type": "text"
+								},
+								{
+									"key": "long",
+									"value": "77",
+									"type": "text"
+								},
+								{
+									"key": "mod",
+									"value": "n",
+									"type": "text"
+								},
+								{
+									"key": "image",
+									"type": "file",
+									"src": "/C:/Users/jatin/Desktop/New folder (2)/104701208-GettyImages-679197024.jpg"
+								},
+								{
+									"key": "video",
+									"type": "file",
+									"src": [],
+									"disabled": true
+								},
+								{
+									"key": "lang_id",
+									"value": "1",
+									"type": "text"
+								},
+								{
+									"key": "is_an",
+									"value": "n",
+									"type": "text"
+								},
+								{
+									"key": "deviceId",
+									"value": "334343",
+									"type": "text",
+									"disabled": true
+								},
+								{
+									"key": "price",
+									"value": "100",
+									"type": "text"
+								},
+								{
+									"key": "type",
+									"value": "1",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/star/post",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"star",
+								"post"
+							]
+						},
+						"description": "To post citizen data to the server."
+					},
+					"response": []
+				},
+				{
+					"name": "/api/star/vote",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "5539be6629e013d32dbeb2b41281aa402a839569cd31e73c1c840df7d2c7fe5c546b3797c51a9174abb29e9150e198cc42511fb06097adee852cf6895645895a",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "29",
+									"type": "text"
+								},
+								{
+									"key": "vote",
+									"value": "u",
+									"type": "text"
+								},
+								{
+									"key": "type",
+									"value": "1",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/star/vote",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"star",
+								"vote"
+							]
+						},
+						"description": "Like or Unlike a post"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/star/isvote",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "90ffb48924e4ae5a29def9bbdda1355d960126dbb0b2687e2b2d94a5fa1066ade37c071462f5cb56267362bf62e392e436cc3776ce9edc02688a530eb4bfc2f6",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "18",
+									"description": "post id",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/star/isvote",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"star",
+								"isvote"
+							]
+						},
+						"description": "Check whether the user has already liked the post.\n\nvote_status = u = liked"
+					},
+					"response": []
+				},
+				{
+					"name": "/star/userLikeNews",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "id",
+									"value": "18",
+									"description": "post id",
+									"type": "text"
+								},
+								{
+									"key": "token",
+									"value": "90ffb48924e4ae5a29def9bbdda1355d960126dbb0b2687e2b2d94a5fa1066ade37c071462f5cb56267362bf62e392e436cc3776ce9edc02688a530eb4bfc2f6",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/star/userLikeNews",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"star",
+								"userLikeNews"
+							]
+						},
+						"description": "Get the list of all users who has liked the post. "
+					},
+					"response": []
+				},
+				{
+					"name": "/api/star/comment",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "comment",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "reply_id",
+									"value": "",
+									"description": "optional for threaded comment",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/star/comment",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"star",
+								"comment"
+							]
+						},
+						"description": "Post Comment"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/star/post/delete",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "id",
+									"value": "",
+									"description": "Post ID",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/star/post/delete",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"star",
+								"post",
+								"delete"
+							]
+						},
+						"description": "User Post Delete"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/star/hashtags",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "tag",
+									"value": "#gaurav",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/star/hashtags",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"star",
+								"hashtags"
+							],
+							"query": [
+								{
+									"key": "tag",
+									"value": "#tech",
+									"disabled": true
+								}
+							]
+						},
+						"description": "Citizen Hash Tags Listing"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/star/posts-slug",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/star/posts-slug?slug=fouyr-956462972",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"star",
+								"posts-slug"
+							],
+							"query": [
+								{
+									"key": "slug",
+									"value": "fouyr-956462972"
+								}
+							]
+						},
+						"description": "Get Post by slug"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Profile",
+			"item": [
+				{
+					"name": "Follow",
+					"item": [
+						{
+							"name": "/api/profile/public/follow",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "formdata",
+									"formdata": [
+										{
+											"key": "token",
+											"value": "c7b1b97b8b818109cb177f097782cf23e461fd246fadce516314bf1e44823e4963339d50a6ae554299786a02b4cb321bcefff810eed963c645594f0e2f6fb950",
+											"type": "text"
+										},
+										{
+											"key": "username",
+											"value": "gauravpandey9818",
+											"type": "text"
+										}
+									]
+								},
+								"url": {
+									"raw": "http://13.234.116.90/api/profile/public/follow?",
+									"protocol": "http",
+									"host": [
+										"13",
+										"234",
+										"116",
+										"90"
+									],
+									"path": [
+										"api",
+										"profile",
+										"public",
+										"follow"
+									],
+									"query": [
+										{
+											"key": "token",
+											"value": "",
+											"disabled": true
+										},
+										{
+											"key": "username",
+											"value": "",
+											"disabled": true
+										}
+									]
+								},
+								"description": "Follow user, this end point will be used to follow users"
+							},
+							"response": []
+						},
+						{
+							"name": "/api/profile/public/isfollow",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "formdata",
+									"formdata": [
+										{
+											"key": "token",
+											"value": "c7b1b97b8b818109cb177f097782cf23e461fd246fadce516314bf1e44823e4963339d50a6ae554299786a02b4cb321bcefff810eed963c645594f0e2f6fb950",
+											"type": "text"
+										},
+										{
+											"key": "username",
+											"value": "gauravpanedy9818",
+											"type": "text"
+										}
+									]
+								},
+								"url": {
+									"raw": "http://13.234.116.90/api/profile/public/isfollow",
+									"protocol": "http",
+									"host": [
+										"13",
+										"234",
+										"116",
+										"90"
+									],
+									"path": [
+										"api",
+										"profile",
+										"public",
+										"isfollow"
+									]
+								},
+								"description": "Check whether the user is being followed or not"
+							},
+							"response": []
+						},
+						{
+							"name": "/api/profile/public/unfollow Copy",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "formdata",
+									"formdata": [
+										{
+											"key": "token",
+											"value": "c7b1b97b8b818109cb177f097782cf23e461fd246fadce516314bf1e44823e4963339d50a6ae554299786a02b4cb321bcefff810eed963c645594f0e2f6fb950",
+											"type": "text"
+										},
+										{
+											"key": "username",
+											"value": "gauravpanedy9818",
+											"type": "text"
+										}
+									]
+								},
+								"url": {
+									"raw": "http://13.234.116.90/api/profile/public/isfollow",
+									"protocol": "http",
+									"host": [
+										"13",
+										"234",
+										"116",
+										"90"
+									],
+									"path": [
+										"api",
+										"profile",
+										"public",
+										"isfollow"
+									]
+								},
+								"description": "Unfollow the user"
+							},
+							"response": []
+						},
+						{
+							"name": "/api/profile/public/following",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "formdata",
+									"formdata": [
+										{
+											"key": "token",
+											"value": "c7b1b97b8b818109cb177f097782cf23e461fd246fadce516314bf1e44823e4963339d50a6ae554299786a02b4cb321bcefff810eed963c645594f0e2f6fb950",
+											"type": "text",
+											"disabled": true
+										},
+										{
+											"key": "username",
+											"value": "hassantest39",
+											"type": "text"
+										}
+									]
+								},
+								"url": {
+									"raw": "http://13.234.116.90/api/profile/public/following",
+									"protocol": "http",
+									"host": [
+										"13",
+										"234",
+										"116",
+										"90"
+									],
+									"path": [
+										"api",
+										"profile",
+										"public",
+										"following"
+									],
+									"query": [
+										{
+											"key": "username",
+											"value": "bhootnath",
+											"disabled": true
+										}
+									]
+								},
+								"description": "List of Users followed by User"
+							},
+							"response": []
+						},
+						{
+							"name": "/api/profile/public/followers",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "formdata",
+									"formdata": [
+										{
+											"key": "token",
+											"value": "c7b1b97b8b818109cb177f097782cf23e461fd246fadce516314bf1e44823e4963339d50a6ae554299786a02b4cb321bcefff810eed963c645594f0e2f6fb950",
+											"type": "text",
+											"disabled": true
+										},
+										{
+											"key": "username",
+											"value": "hassantest39",
+											"type": "text"
+										}
+									]
+								},
+								"url": {
+									"raw": "http://13.234.116.90/api/profile/public/followers",
+									"protocol": "http",
+									"host": [
+										"13",
+										"234",
+										"116",
+										"90"
+									],
+									"path": [
+										"api",
+										"profile",
+										"public",
+										"followers"
+									],
+									"query": [
+										{
+											"key": "username",
+											"value": "bhootnath",
+											"disabled": true
+										}
+									]
+								},
+								"description": "List of Users following User"
+							},
+							"response": []
+						}
+					],
+					"_postman_isSubFolder": true
+				},
+				{
+					"name": "/api/profile/public/news",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/profile/public/news?username=4",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"profile",
+								"public",
+								"news"
+							],
+							"query": [
+								{
+									"key": "username",
+									"value": "4"
+								}
+							]
+						},
+						"description": "User News Posts For User Profile "
+					},
+					"response": []
+				},
+				{
+					"name": "/api/profile/public/star",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/profile/public/star?username=sagar",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"profile",
+								"public",
+								"star"
+							],
+							"query": [
+								{
+									"key": "username",
+									"value": "sagar"
+								}
+							]
+						},
+						"description": "User Star Posts For User Profile"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/profile/public/brands",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/profile/public/brands?username=techradar",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"profile",
+								"public",
+								"brands"
+							],
+							"query": [
+								{
+									"key": "username",
+									"value": "techradar"
+								}
+							]
+						},
+						"description": "User Brands Posts For User Profile"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/profile/public",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/profile/public?username=hassantest39",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"profile",
+								"public"
+							],
+							"query": [
+								{
+									"key": "username",
+									"value": "hassantest39"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "/api/profile",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/profile?token=fc845398945eef87f4e5254638273e43284f37b963944e9aca6e645fe1c81d20a3c2803c759e3e3ce12f149a292c25c3132273b14475a004893f9699c2108dab",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"profile"
+							],
+							"query": [
+								{
+									"key": "token",
+									"value": "fc845398945eef87f4e5254638273e43284f37b963944e9aca6e645fe1c81d20a3c2803c759e3e3ce12f149a292c25c3132273b14475a004893f9699c2108dab"
+								}
+							]
+						},
+						"description": "Get User Profile"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/profile/update",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "cf7bd9b890d0324a0e94907b9ddbd597157208268ddde568f046f0b2c01b6d4732e7e59e657ac4cba6b32738404cd219d7bbd88934af668baf2cbd62d790d070",
+									"type": "text"
+								},
+								{
+									"key": "first_name",
+									"value": "grastfff",
+									"type": "text"
+								},
+								{
+									"key": "middle_name",
+									"value": "test",
+									"type": "text",
+									"disabled": true
+								},
+								{
+									"key": "last_name",
+									"value": " gold",
+									"type": "text"
+								},
+								{
+									"key": "username",
+									"value": "bhootnath",
+									"type": "text"
+								},
+								{
+									"key": "birth_date",
+									"value": "1979-25-05",
+									"description": "(YYYY-MM-DD)",
+									"type": "text"
+								},
+								{
+									"key": "sex",
+									"value": "",
+									"description": "{M,F}",
+									"type": "text"
+								},
+								{
+									"key": "location_id",
+									"value": "434",
+									"type": "text",
+									"disabled": true
+								},
+								{
+									"key": "bio",
+									"value": "rrtyrt",
+									"type": "text"
+								},
+								{
+									"key": "website",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "phone",
+									"value": "9643946087",
+									"type": "text",
+									"disabled": true
+								},
+								{
+									"key": "bank_name",
+									"value": "rtyr",
+									"type": "text"
+								},
+								{
+									"key": "bank_ifsc_code",
+									"value": "rtyr",
+									"type": "text"
+								},
+								{
+									"key": "bank_acc_type",
+									"value": "rty",
+									"type": "text"
+								},
+								{
+									"key": "bank_acc_no",
+									"value": "rtytr",
+									"type": "text"
+								},
+								{
+									"key": "pincode",
+									"value": "3453",
+									"type": "text"
+								},
+								{
+									"key": "address",
+									"value": "dgdgd",
+									"type": "text"
+								},
+								{
+									"key": "city",
+									"value": "dgdfg",
+									"type": "text"
+								},
+								{
+									"key": "lat",
+									"value": "10",
+									"type": "text"
+								},
+								{
+									"key": "long",
+									"value": "20",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/profile/update",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"profile",
+								"update"
+							]
+						},
+						"description": "Update User Profile"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/profile/update_pic",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "7a3edc99a8fb207925e23715a50a4567d8828a7ab8064e9b8bd0b737393ef31c08efe5aa5843dc98eb01c470cb864accf3d660de0d03c7c8df7fca31c78e4cb4",
+									"type": "text"
+								},
+								{
+									"key": "image",
+									"type": "file",
+									"src": "/C:/Users/jatin/Desktop/radar.jpg"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/profile/update_pic",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"profile",
+								"update_pic"
+							]
+						},
+						"description": "Update Profile Pic"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/profile/delete_pic",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token ",
+									"value": "",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/profile/delete_pic",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"profile",
+								"delete_pic"
+							]
+						},
+						"description": "Remove Profile Pic"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/profile/followers",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "435ff5d4138ecd5242ad14953c7cba608d4ce000b562cd413a7268176e714d8e011a675898c293702a13e6a23fbc0979e9ed65ac393bc36bf7d3276ea03b551b",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/profile/followers",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"profile",
+								"followers"
+							],
+							"query": [
+								{
+									"key": "token",
+									"value": "435ff5d4138ecd5242ad14953c7cba608d4ce000b562cd413a7268176e714d8e011a675898c293702a13e6a23fbc0979e9ed65ac393bc36bf7d3276ea03b551b",
+									"disabled": true
+								}
+							]
+						},
+						"description": "Get Followers of user"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/profile/following",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "435ff5d4138ecd5242ad14953c7cba608d4ce000b562cd413a7268176e714d8e011a675898c293702a13e6a23fbc0979e9ed65ac393bc36bf7d3276ea03b551b",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/profile/following?token=435ff5d4138ecd5242ad14953c7cba608d4ce000b562cd413a7268176e714d8e011a675898c293702a13e6a23fbc0979e9ed65ac393bc36bf7d3276ea03b551b",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"profile",
+								"following"
+							],
+							"query": [
+								{
+									"key": "token",
+									"value": "435ff5d4138ecd5242ad14953c7cba608d4ce000b562cd413a7268176e714d8e011a675898c293702a13e6a23fbc0979e9ed65ac393bc36bf7d3276ea03b551b"
+								}
+							]
+						},
+						"description": "Get following of user"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/profile/public/liked",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/profile/public/liked?",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"profile",
+								"public",
+								"liked"
+							],
+							"query": [
+								{
+									"key": "username",
+									"value": "4",
+									"disabled": true
+								}
+							]
+						},
+						"description": "Posts liked by user. This section will appear as a tab in public profile."
+					},
+					"response": []
+				},
+				{
+					"name": "/api/profile/news",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "81c15e91de68c9794ab4ddc25b88eec706270a2f58e2638a65344cf2e83b6cd362dd17a876c71d14c4e20ecc348cc734ba61094ea87777663ba7bb38afd41f86",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/profile/news",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"profile",
+								"news"
+							]
+						},
+						"description": "Get Citizen Posts of User for Edit"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/profile/brands",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "81c15e91de68c9794ab4ddc25b88eec706270a2f58e2638a65344cf2e83b6cd362dd17a876c71d14c4e20ecc348cc734ba61094ea87777663ba7bb38afd41f86",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/profile/brands",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"profile",
+								"brands"
+							]
+						},
+						"description": "Get Citizen Posts of User for Edit"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/profile/star",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "81c15e91de68c9794ab4ddc25b88eec706270a2f58e2638a65344cf2e83b6cd362dd17a876c71d14c4e20ecc348cc734ba61094ea87777663ba7bb38afd41f86",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/profile/star",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"profile",
+								"star"
+							]
+						},
+						"description": "Get Citizen Posts of User for Edit"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Reward-Points",
+			"item": [
+				{
+					"name": "/api/reward/rewardgift",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "c7b1b97b8b818109cb177f097782cf23e461fd246fadce516314bf1e44823e4963339d50a6ae554299786a02b4cb321bcefff810eed963c645594f0e2f6fb950",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/reward/rewardgift?",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"reward",
+								"rewardgift"
+							],
+							"query": [
+								{
+									"key": "token",
+									"value": "c7b1b97b8b818109cb177f097782cf23e461fd246fadce516314bf1e44823e4963339d50a6ae554299786a02b4cb321bcefff810eed963c645594f0e2f6fb950",
+									"disabled": true
+								}
+							]
+						},
+						"description": "Get Reward Point Gifts, Reward Points Earned by User, Wallet Balance of User"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/reward/rewardgifthistroy",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "c7b1b97b8b818109cb177f097782cf23e461fd246fadce516314bf1e44823e4963339d50a6ae554299786a02b4cb321bcefff810eed963c645594f0e2f6fb950",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/reward/rewardgifthistroy?",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"reward",
+								"rewardgifthistroy"
+							],
+							"query": [
+								{
+									"key": "token",
+									"value": "c7b1b97b8b818109cb177f097782cf23e461fd246fadce516314bf1e44823e4963339d50a6ae554299786a02b4cb321bcefff810eed963c645594f0e2f6fb950",
+									"disabled": true
+								}
+							]
+						},
+						"description": "History of reward points, gifts claimed by the user"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/reward/claimreward",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "c7b1b97b8b818109cb177f097782cf23e461fd246fadce516314bf1e44823e4963339d50a6ae554299786a02b4cb321bcefff810eed963c645594f0e2f6fb950",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/reward/rewardgifthistroy?",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"reward",
+								"rewardgifthistroy"
+							],
+							"query": [
+								{
+									"key": "token",
+									"value": "c7b1b97b8b818109cb177f097782cf23e461fd246fadce516314bf1e44823e4963339d50a6ae554299786a02b4cb321bcefff810eed963c645594f0e2f6fb950",
+									"disabled": true
+								}
+							]
+						},
+						"description": "Claim gift with reward points"
+					},
+					"response": []
+				},
+				{
+					"name": "/apiv2/reward/points-info",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/reward/points-info",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"reward",
+								"points-info"
+							]
+						},
+						"description": "Reward Points Info Table"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Subscriptions",
+			"item": [
+				{
+					"name": "/api/get-sub",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "fc845398945eef87f4e5254638273e43284f37b963944e9aca6e645fe1c81d20a3c2803c759e3e3ce12f149a292c25c3132273b14475a004893f9699c2108dab",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/get-sub",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"get-sub"
+							]
+						},
+						"description": "Get User Subscription Status"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/set-sub",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "fc845398945eef87f4e5254638273e43284f37b963944e9aca6e645fe1c81d20a3c2803c759e3e3ce12f149a292c25c3132273b14475a004893f9699c2108dab",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/set-sub",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"set-sub"
+							]
+						},
+						"description": "Set Subscription of User."
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Mandi",
+			"item": [
+				{
+					"name": "/api/mandi/news",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/mandi/news",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"mandi",
+								"news"
+							]
+						},
+						"description": "Get News Mandi News"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Settings",
+			"item": [
+				{
+					"name": "/api/settings/block-user",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "74bcaf9ee9ff1bf298ad3e4a51c4f8bfb99287cfaec0a01116691a8db1b8046cc06df93139c6e6aaf8b5486654e6cf04ad3aaafa24a8962f6648588093d2eaeb",
+									"type": "text"
+								},
+								{
+									"key": "username",
+									"value": "instafeed",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/settings/block-user",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"settings",
+								"block-user"
+							]
+						},
+						"description": "Block User"
+					},
+					"response": []
+				},
+				{
+					"name": "/apiv2/settings/activity",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "http://instafeed.org/apiv2/settings/activity",
+							"protocol": "http",
+							"host": [
+								"instafeed",
+								"org"
+							],
+							"path": [
+								"apiv2",
+								"settings",
+								"activity"
+							]
+						},
+						"description": "User Activity Log"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/settings/blocked-users",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://13.234.116.90/api/settings/blocked-users?token",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"settings",
+								"blocked-users"
+							],
+							"query": [
+								{
+									"key": "token",
+									"value": null
+								}
+							]
+						},
+						"description": "Blocked Users List"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/settings/unblock-user",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "username",
+									"value": "",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/settings/unblock-user",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"settings",
+								"unblock-user"
+							]
+						},
+						"description": "unblock blocked User"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/settings/login-type",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "type",
+									"value": "",
+									"description": "(p=password,t=two factor authentication)",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/settings/login-type",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"settings",
+								"login-type"
+							]
+						},
+						"description": "Check wheter login type is password or two factor authentication"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/settings/clear-history",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/settings/clear-history",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"settings",
+								"clear-history"
+							]
+						},
+						"description": "Clear User history"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/settings/feed-type",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "brand_type",
+									"value": "",
+									"description": "0=off,1=brand follower,2=all",
+									"type": "text"
+								},
+								{
+									"key": "star_type",
+									"value": "",
+									"description": "0=off,1=brand follower,2=all",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/settings/feed-type",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"settings",
+								"feed-type"
+							],
+							"query": [
+								{
+									"key": "token",
+									"value": "",
+									"disabled": true
+								},
+								{
+									"key": "brand_type",
+									"value": "",
+									"description": "0=off,1=brand follower,2=all",
+									"disabled": true
+								},
+								{
+									"key": "star_type",
+									"value": "",
+									"description": "0=off,1=brand follower,2=all",
+									"disabled": true
+								}
+							]
+						},
+						"description": "Set type of feeds to see from super star , brands"
+					},
+					"response": []
+				},
+				{
+					"name": "/api/settings/push-not",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "token",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "type",
+									"value": "",
+									"description": "0=off,1=on",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://13.234.116.90/api/settings/push-not",
+							"protocol": "http",
+							"host": [
+								"13",
+								"234",
+								"116",
+								"90"
+							],
+							"path": [
+								"api",
+								"settings",
+								"push-not"
+							]
+						},
+						"description": "Set type of feeds to see from super star , brands "
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "/api/login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "email",
+							"value": "gautam.rampal@gmail.com",
+							"type": "text"
+						},
+						{
+							"key": "password",
+							"value": "gautam123",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://13.234.116.90/api/login",
+					"protocol": "http",
+					"host": [
+						"13",
+						"234",
+						"116",
+						"90"
+					],
+					"path": [
+						"api",
+						"login"
+					]
+				},
+				"description": "Instafeed login"
+			},
+			"response": []
+		},
+		{
+			"name": "/api/signup",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "first_name",
+							"value": "Raja Hindustani",
+							"type": "text"
+						},
+						{
+							"key": "email",
+							"value": "gr@instafeed.orggd",
+							"type": "text"
+						},
+						{
+							"key": "mobile",
+							"value": "1234567890",
+							"type": "text"
+						},
+						{
+							"key": "password",
+							"value": "gautam",
+							"type": "text"
+						},
+						{
+							"key": "device_id",
+							"value": "1234567890",
+							"type": "text"
+						},
+						{
+							"key": "refer_code",
+							"value": "",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://13.234.116.90/api/signup",
+					"protocol": "http",
+					"host": [
+						"13",
+						"234",
+						"116",
+						"90"
+					],
+					"path": [
+						"api",
+						"signup"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "/api/news/category",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://13.234.116.90/api/news/category",
+					"protocol": "http",
+					"host": [
+						"13",
+						"234",
+						"116",
+						"90"
+					],
+					"path": [
+						"api",
+						"news",
+						"category"
+					]
+				},
+				"description": "Category Listing"
+			},
+			"response": []
+		},
+		{
+			"name": "/api/feed/post",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "user",
+							"value": "4",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "token",
+							"value": "2f58eef0fa6dcab4deb4818742e0cbedc75c61579463002d95a6b64fc50d42ce3e2fb8b1a40994500bbd14c5342b1e9bbfada002b0535721323faeaff6204e59",
+							"type": "text"
+						},
+						{
+							"key": "title",
+							"value": "Sample Time Scaling",
+							"type": "text"
+						},
+						{
+							"key": "description",
+							"value": "Sample Time Scaling",
+							"type": "text"
+						},
+						{
+							"key": "location_id",
+							"value": "1",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "category_id",
+							"value": "2",
+							"type": "text"
+						},
+						{
+							"key": "lat",
+							"value": "28",
+							"type": "text"
+						},
+						{
+							"key": "long",
+							"value": "77",
+							"type": "text"
+						},
+						{
+							"key": "mod",
+							"value": "n",
+							"type": "text"
+						},
+						{
+							"key": "image",
+							"type": "file",
+							"src": []
+						},
+						{
+							"key": "video",
+							"type": "file",
+							"src": "/C:/Users/jatin/Downloads/SaMple_time_scaling_x1.mp4"
+						},
+						{
+							"key": "lang_id",
+							"value": "1",
+							"type": "text"
+						},
+						{
+							"key": "is_an",
+							"value": "n",
+							"type": "text"
+						},
+						{
+							"key": "deviceId",
+							"value": "334343",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "price",
+							"value": "100",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "type",
+							"value": "1",
+							"type": "text",
+							"disabled": true
+						}
+					]
+				},
+				"url": {
+					"raw": "http://13.234.116.90/api/feed/post",
+					"protocol": "http",
+					"host": [
+						"13",
+						"234",
+						"116",
+						"90"
+					],
+					"path": [
+						"api",
+						"feed",
+						"post"
+					]
+				},
+				"description": "To post citizen data to the server."
+			},
+			"response": []
+		},
+		{
+			"name": "/api/news/languages",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://13.234.116.90/api/news/languages",
+					"protocol": "http",
+					"host": [
+						"13",
+						"234",
+						"116",
+						"90"
+					],
+					"path": [
+						"api",
+						"news",
+						"languages"
+					]
+				},
+				"description": "Languages list"
+			},
+			"response": []
+		},
+		{
+			"name": "/api/locations/set-geo",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://13.234.116.90/api/locations/set-geo",
+					"protocol": "http",
+					"host": [
+						"13",
+						"234",
+						"116",
+						"90"
+					],
+					"path": [
+						"api",
+						"locations",
+						"set-geo"
+					]
+				},
+				"description": "Set Location Preference of User, it will update lat, long of user."
+			},
+			"response": []
+		},
+		{
+			"name": "/api/locations/get-geo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://13.234.116.90/api/locations/get-geo?token=707e5872fcc99c256a994f77f225d7a1d85832821b496f2de73658286730ea8f5fa99516a5290ca0b79b226e69d3a61956219524f9a3b4eb7206785a56094ba7",
+					"protocol": "http",
+					"host": [
+						"13",
+						"234",
+						"116",
+						"90"
+					],
+					"path": [
+						"api",
+						"locations",
+						"get-geo"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "707e5872fcc99c256a994f77f225d7a1d85832821b496f2de73658286730ea8f5fa99516a5290ca0b79b226e69d3a61956219524f9a3b4eb7206785a56094ba7"
+						}
+					]
+				},
+				"description": "Get location geo coordinates of user, as per the location set by user."
+			},
+			"response": []
+		},
+		{
+			"name": "/api/search",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "type",
+							"value": "news",
+							"description": "#hashtag,news,users",
+							"type": "text"
+						},
+						{
+							"key": "query",
+							"value": "school ",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://13.234.116.90/api/search",
+					"protocol": "http",
+					"host": [
+						"13",
+						"234",
+						"116",
+						"90"
+					],
+					"path": [
+						"api",
+						"search"
+					]
+				},
+				"description": "Search"
+			},
+			"response": []
+		},
+		{
+			"name": "/api/notification/getnotify",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://13.234.116.90/api/notification/getnotify",
+					"protocol": "http",
+					"host": [
+						"13",
+						"234",
+						"116",
+						"90"
+					],
+					"path": [
+						"api",
+						"notification",
+						"getnotify"
+					]
+				},
+				"description": "Get User Notifications"
+			},
+			"response": []
+		},
+		{
+			"name": "/api/info",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "id",
+							"value": "1",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://13.234.116.90/api/info?id=1",
+					"protocol": "http",
+					"host": [
+						"13",
+						"234",
+						"116",
+						"90"
+					],
+					"path": [
+						"api",
+						"info"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "1"
+						}
+					]
+				},
+				"description": "Static Page Info "
+			},
+			"response": []
+		},
+		{
+			"name": "/api/flag",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "token",
+							"value": "dda2a3507656a1259c653e3c0769fcd361f2e6e3632f4d5818aea6702769c7c48ce951ac0e9456c4bbd0e80cbcd34c559b04f1808e8d69fd68cfea94fb266694",
+							"type": "text"
+						},
+						{
+							"key": "id",
+							"value": "70889",
+							"description": "post id",
+							"type": "text"
+						},
+						{
+							"key": "module_id",
+							"value": "1",
+							"description": "citizen=1, brand=2, star=3",
+							"type": "text"
+						},
+						{
+							"key": "reason_id",
+							"value": "1",
+							"description": "1= spam, 2= inappropriate, 3= racism, hate speech",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://13.234.116.90/api/flag",
+					"protocol": "http",
+					"host": [
+						"13",
+						"234",
+						"116",
+						"90"
+					],
+					"path": [
+						"api",
+						"flag"
+					]
+				},
+				"description": "Mark as spam"
+			},
+			"response": []
+		},
+		{
+			"name": "/api/locations",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://13.234.116.90/api/locations",
+					"protocol": "http",
+					"host": [
+						"13",
+						"234",
+						"116",
+						"90"
+					],
+					"path": [
+						"api",
+						"locations"
+					]
+				},
+				"description": "Get locations - States"
+			},
+			"response": []
+		},
+		{
+			"name": "/api/locations/get-city",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://13.234.116.90/api/locations/get-city?state_id=1",
+					"protocol": "http",
+					"host": [
+						"13",
+						"234",
+						"116",
+						"90"
+					],
+					"path": [
+						"api",
+						"locations",
+						"get-city"
+					],
+					"query": [
+						{
+							"key": "state_id",
+							"value": "1"
+						}
+					]
+				},
+				"description": "Get Cities Data with Geo Coordinates"
+			},
+			"response": []
+		},
+		{
+			"name": "/api/ads",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://13.234.116.90/api/ads?type=v",
+					"protocol": "http",
+					"host": [
+						"13",
+						"234",
+						"116",
+						"90"
+					],
+					"path": [
+						"api",
+						"ads"
+					],
+					"query": [
+						{
+							"key": "type",
+							"value": "v",
+							"description": "v,h"
+						}
+					]
+				},
+				"description": "Ad Banners"
+			},
+			"response": []
+		},
+		{
+			"name": "/api/locations/set-geo-all",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "token",
+							"value": "5b211671c8c5951da392e22a7f2edde396c113772c820920b9f432270bf9f0882c0ddfbbe968757a5325fa2ccd98c938963e1678f5b55c2c781baf941a978fff",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://13.234.116.90/api/locations/set-geo-all",
+					"protocol": "http",
+					"host": [
+						"13",
+						"234",
+						"116",
+						"90"
+					],
+					"path": [
+						"api",
+						"locations",
+						"set-geo-all"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "",
+							"disabled": true
+						}
+					]
+				},
+				"description": "Show All locations - set user pref to show all"
+			},
+			"response": []
+		},
+		{
+			"name": "/apiv2/change_password",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "token",
+							"value": "237e230f0ed0715c5795f1d039fad3eeadd7b93bddd53fe40704635654c90bd4d31460c4bd19c98a455deff88e294e87dba18de30a4da061dd94e3ba18e89723",
+							"type": "text"
+						},
+						{
+							"key": "password",
+							"value": "rajababu",
+							"type": "text"
+						},
+						{
+							"key": "confirm_password",
+							"value": "rajababu",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://13.234.116.90/api/change_password",
+					"protocol": "http",
+					"host": [
+						"13",
+						"234",
+						"116",
+						"90"
+					],
+					"path": [
+						"api",
+						"change_password"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "/api/news/archieve-video",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://13.234.116.90/api/news/archive-video",
+					"protocol": "http",
+					"host": [
+						"13",
+						"234",
+						"116",
+						"90"
+					],
+					"path": [
+						"api",
+						"news",
+						"archive-video"
+					],
+					"query": [
+						{
+							"key": "lang_id",
+							"value": "1",
+							"disabled": true
+						},
+						{
+							"key": "start",
+							"value": "10",
+							"disabled": true
+						}
+					]
+				},
+				"description": "Citizen Archieve Video for web"
+			},
+			"response": []
+		}
+	]
+}

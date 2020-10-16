@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Instafeed/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.3" build-num="10G8"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>instafeed</source>
+        <target>instafeed</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>Instafeed</source>
+        <target>Instafeed</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription">
+        <source>instafeed would lime to acess camera to assist you better</source>
+        <target>instafeed would lime to acess camera to assist you better</target>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationAlwaysUsageDescription">
+        <source>Instafeed need your location permission to assist you better</source>
+        <target>Instafeed need your location permission to assist you better</target>
+        <note>Privacy - Location Always Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription">
+        <source>Instafeed need your location permission to assist you better</source>
+        <target>Instafeed need your location permission to assist you better</target>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSMicrophoneUsageDescription">
+        <source>Instafeed need your microphone permission to assist you better</source>
+        <target>Instafeed need your microphone permission to assist you better</target>
+        <note>Privacy - Microphone Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription">
+        <source>Instafeed need your photo usage permission to serve you better</source>
+        <target>Instafeed need your photo usage permission to serve you better</target>
+        <note>Privacy - Photo Library Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Instafeed/Storyboards/Base.lproj/Main.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.3" build-num="10G8"/>
+    </header>
+    <body>
+      <trans-unit id="0Au-1P-Nxq.text">
+        <source>Enter your mobile number</source>
+        <target>Enter your mobile number</target>
+        <note>Class = "UILabel"; text = "Enter your mobile number"; ObjectID = "0Au-1P-Nxq";</note>
+      </trans-unit>
+      <trans-unit id="0HZ-kj-V0X.text">
+        <source>JOURNALISM</source>
+        <target>JOURNALISM</target>
+        <note>Class = "UILabel"; text = "JOURNALISM"; ObjectID = "0HZ-kj-V0X";</note>
+      </trans-unit>
+      <trans-unit id="6xW-uT-nVK.placeholder">
+        <source>Password</source>
+        <target>Password</target>
+        <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "6xW-uT-nVK";</note>
+      </trans-unit>
+      <trans-unit id="8KM-zY-Iyg.normalTitle">
+        <source>+91</source>
+        <target>+91</target>
+        <note>Class = "UIButton"; normalTitle = "+91"; ObjectID = "8KM-zY-Iyg";</note>
+      </trans-unit>
+      <trans-unit id="8KN-0p-4yG.text">
+        <source>SignIn</source>
+        <target>SignIn</target>
+        <note>Class = "UILabel"; text = "SignIn"; ObjectID = "8KN-0p-4yG";</note>
+      </trans-unit>
+      <trans-unit id="24M-gf-QRN.placeholder">
+        <source>Full name</source>
+        <target>Full name</target>
+        <note>Class = "UITextField"; placeholder = "Full name"; ObjectID = "24M-gf-QRN";</note>
+      </trans-unit>
+      <trans-unit id="AsH-CP-NSZ.placeholder">
+        <source>Password</source>
+        <target>Password</target>
+        <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "AsH-CP-NSZ";</note>
+      </trans-unit>
+      <trans-unit id="BNJ-Bs-6YC.placeholder">
+        <source>Insert the 6 digit code</source>
+        <target>Insert the 6 digit code</target>
+        <note>Class = "UITextField"; placeholder = "Insert the 6 digit code"; ObjectID = "BNJ-Bs-6YC";</note>
+      </trans-unit>
+      <trans-unit id="CyM-nK-K6C.text">
+        <source>JOURNALISM</source>
+        <target>JOURNALISM</target>
+        <note>Class = "UILabel"; text = "JOURNALISM"; ObjectID = "CyM-nK-K6C";</note>
+      </trans-unit>
+      <trans-unit id="Cz0-PP-2Vs.text">
+        <source>SignUp</source>
+        <target>SignUp</target>
+        <note>Class = "UILabel"; text = "SignUp"; ObjectID = "Cz0-PP-2Vs";</note>
+      </trans-unit>
+      <trans-unit id="Eib-Or-QRt.text">
+        <source>CITIZEN</source>
+        <target>CITIZEN</target>
+        <note>Class = "UILabel"; text = "CITIZEN"; ObjectID = "Eib-Or-QRt";</note>
+      </trans-unit>
+      <trans-unit id="F7d-me-6bH.normalTitle">
+        <source>FACEBOOK</source>
+        <target>FACEBOOK</target>
+        <note>Class = "UIButton"; normalTitle = "FACEBOOK"; ObjectID = "F7d-me-6bH";</note>
+      </trans-unit>
+      <trans-unit id="JeV-hC-CdP.normalTitle">
+        <source>FACEBOOK</source>
+        <target>FACEBOOK</target>
+        <note>Class = "UIButton"; normalTitle = "FACEBOOK"; ObjectID = "JeV-hC-CdP";</note>
+      </trans-unit>
+      <trans-unit id="Mhl-sY-AA6.text">
+        <source>BRAND</source>
+        <target>BRAND</target>
+        <note>Class = "UILabel"; text = "BRAND"; ObjectID = "Mhl-sY-AA6";</note>
+      </trans-unit>
+      <trans-unit id="Nxw-bX-4SM.normalTitle">
+        <source>Next</source>
+        <target>Next</target>
+        <note>Class = "UIButton"; normalTitle = "Next"; ObjectID = "Nxw-bX-4SM";</note>
+      </trans-unit>
+      <trans-unit id="Omp-oT-PpD.text">
+        <source>You can use any below methods to grant access to the app</source>
+        <target>You can use any below methods to grant access to the app</target>
+        <note>Class = "UILabel"; text = "You can use any below methods to grant access to the app"; ObjectID = "Omp-oT-PpD";</note>
+      </trans-unit>
+      <trans-unit id="PSQ-b1-ktu.normalTitle">
+        <source>LOGIN</source>
+        <target>LOGIN</target>
+        <note>Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "PSQ-b1-ktu";</note>
+      </trans-unit>
+      <trans-unit id="QOn-3L-i6Q.text">
+        <source>SUPERSTAR</source>
+        <target>SUPERSTAR</target>
+        <note>Class = "UILabel"; text = "SUPERSTAR"; ObjectID = "QOn-3L-i6Q";</note>
+      </trans-unit>
+      <trans-unit id="ROx-wD-uYz.normalTitle">
+        <source>Still without account? Create One</source>
+        <target>Still without account? Create One</target>
+        <note>Class = "UIButton"; normalTitle = "Still without account? Create One"; ObjectID = "ROx-wD-uYz";</note>
+      </trans-unit>
+      <trans-unit id="TKH-Em-LMr.placeholder">
+        <source>Email address</source>
+        <target>Email address</target>
+        <note>Class = "UITextField"; placeholder = "Email address"; ObjectID = "TKH-Em-LMr";</note>
+      </trans-unit>
+      <trans-unit id="TPy-B6-LpD.text">
+        <source>0.00</source>
+        <target>0.00</target>
+        <note>Class = "UILabel"; text = "0.00"; ObjectID = "TPy-B6-LpD";</note>
+      </trans-unit>
+      <trans-unit id="WbU-dl-sEs.normalTitle">
+        <source>+91</source>
+        <target>+91</target>
+        <note>Class = "UIButton"; normalTitle = "+91"; ObjectID = "WbU-dl-sEs";</note>
+      </trans-unit>
+      <trans-unit id="ZHn-bD-9oO.normalTitle">
+        <source>VERIFY NOW</source>
+        <target>VERIFY NOW</target>
+        <note>Class = "UIButton"; normalTitle = "VERIFY NOW"; ObjectID = "ZHn-bD-9oO";</note>
+      </trans-unit>
+      <trans-unit id="ZHq-bH-sYZ.placeholder">
+        <source>Email address/Username</source>
+        <target>Email address/Username</target>
+        <note>Class = "UITextField"; placeholder = "Email address/Username"; ObjectID = "ZHq-bH-sYZ";</note>
+      </trans-unit>
+      <trans-unit id="fLk-1a-eWg.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "fLk-1a-eWg";</note>
+      </trans-unit>
+      <trans-unit id="gMz-aD-Wtc.normalTitle">
+        <source>Back</source>
+        <target>Back</target>
+        <note>Class = "UIButton"; normalTitle = "Back"; ObjectID = "gMz-aD-Wtc";</note>
+      </trans-unit>
+      <trans-unit id="i7a-sP-kcI.normalTitle">
+        <source>GMAIL</source>
+        <target>GMAIL</target>
+        <note>Class = "UIButton"; normalTitle = "GMAIL"; ObjectID = "i7a-sP-kcI";</note>
+      </trans-unit>
+      <trans-unit id="iza-dB-fpy.normalTitle">
+        <source>I already have an account  LOGIN</source>
+        <target>I already have an account  LOGIN</target>
+        <note>Class = "UIButton"; normalTitle = "I already have an account  LOGIN"; ObjectID = "iza-dB-fpy";</note>
+      </trans-unit>
+      <trans-unit id="nGt-o9-Dfo.normalTitle">
+        <source>GMAIL</source>
+        <target>GMAIL</target>
+        <note>Class = "UIButton"; normalTitle = "GMAIL"; ObjectID = "nGt-o9-Dfo";</note>
+      </trans-unit>
+      <trans-unit id="oBc-3r-QPt.segmentTitles[0]">
+        <source>EMAIL</source>
+        <target>EMAIL</target>
+        <note>Class = "UISegmentedControl"; oBc-3r-QPt.segmentTitles[0] = "EMAIL"; ObjectID = "oBc-3r-QPt";</note>
+      </trans-unit>
+      <trans-unit id="oBc-3r-QPt.segmentTitles[1]">
+        <source>OTHERS</source>
+        <target>OTHERS</target>
+        <note>Class = "UISegmentedControl"; oBc-3r-QPt.segmentTitles[1] = "OTHERS"; ObjectID = "oBc-3r-QPt";</note>
+      </trans-unit>
+      <trans-unit id="pRb-sS-Y9f.placeholder">
+        <source>95604*****</source>
+        <target>95604*****</target>
+        <note>Class = "UITextField"; placeholder = "95604*****"; ObjectID = "pRb-sS-Y9f";</note>
+      </trans-unit>
+      <trans-unit id="pb0-mQ-ROV.normalTitle">
+        <source>PLEASE AGAIN</source>
+        <target>PLEASE AGAIN</target>
+        <note>Class = "UIButton"; normalTitle = "PLEASE AGAIN"; ObjectID = "pb0-mQ-ROV";</note>
+      </trans-unit>
+      <trans-unit id="s4j-DX-9m0.text">
+        <source>Select Type</source>
+        <target>Select Type</target>
+        <note>Class = "UILabel"; text = "Select Type"; ObjectID = "s4j-DX-9m0";</note>
+      </trans-unit>
+      <trans-unit id="tZh-us-L0x.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "tZh-us-L0x";</note>
+      </trans-unit>
+      <trans-unit id="u8T-s9-VRZ.placeholder">
+        <source>96504****</source>
+        <target>96504****</target>
+        <note>Class = "UITextField"; placeholder = "96504****"; ObjectID = "u8T-s9-VRZ";</note>
+      </trans-unit>
+      <trans-unit id="xdn-ov-0gJ.text">
+        <source>It ends in</source>
+        <target>It ends in</target>
+        <note>Class = "UILabel"; text = "It ends in"; ObjectID = "xdn-ov-0gJ";</note>
+      </trans-unit>
+      <trans-unit id="y7L-Hs-gab.normalTitle">
+        <source>YOUR PHONE</source>
+        <target>YOUR PHONE</target>
+        <note>Class = "UIButton"; normalTitle = "YOUR PHONE"; ObjectID = "y7L-Hs-gab";</note>
+      </trans-unit>
+      <trans-unit id="yWh-Dx-Fen.text">
+        <source>JOURNALISM</source>
+        <target>JOURNALISM</target>
+        <note>Class = "UILabel"; text = "JOURNALISM"; ObjectID = "yWh-Dx-Fen";</note>
+      </trans-unit>
+      <trans-unit id="yqc-N7-RWK.normalTitle">
+        <source>Forgot Password ?</source>
+        <target>Forgot Password ?</target>
+        <note>Class = "UIButton"; normalTitle = "Forgot Password ?"; ObjectID = "yqc-N7-RWK";</note>
+      </trans-unit>
+      <trans-unit id="zq6-ST-7Ng.segmentTitles[0]">
+        <source>EMAIL</source>
+        <target>EMAIL</target>
+        <note>Class = "UISegmentedControl"; zq6-ST-7Ng.segmentTitles[0] = "EMAIL"; ObjectID = "zq6-ST-7Ng";</note>
+      </trans-unit>
+      <trans-unit id="zq6-ST-7Ng.segmentTitles[1]">
+        <source>OTHERS</source>
+        <target>OTHERS</target>
+        <note>Class = "UISegmentedControl"; zq6-ST-7Ng.segmentTitles[1] = "OTHERS"; ObjectID = "zq6-ST-7Ng";</note>
+      </trans-unit>
+      <trans-unit id="zsQ-9P-Tyr.normalTitle">
+        <source>SignUp</source>
+        <target>SignUp</target>
+        <note>Class = "UIButton"; normalTitle = "SignUp"; ObjectID = "zsQ-9P-Tyr";</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

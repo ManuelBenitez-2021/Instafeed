@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>728240597688-qoemd5cbfduldu5rj9n28romq9mhuuvh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.728240597688-qoemd5cbfduldu5rj9n28romq9mhuuvh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB0wr0vv408G-LgneDLUAtp8v__LzTyDvw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>728240597688</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.backstage.instafeed</string>
+	<key>PROJECT_ID</key>
+	<string>instafeed-org</string>
+	<key>STORAGE_BUCKET</key>
+	<string>instafeed-org.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:728240597688:ios:460e4b765d687e9cba624d</string>
+	<key>DATABASE_URL</key>
+	<string>https://instafeed-org.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "instafeed";
+/* Bundle name */
+"CFBundleName" = "Instafeed";
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "instafeed would lime to acess camera to assist you better";
+/* Privacy - Location Always Usage Description */
+"NSLocationAlwaysUsageDescription" = "Instafeed need your location permission to assist you better";
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Instafeed need your location permission to assist you better";
+/* Privacy - Microphone Usage Description */
+"NSMicrophoneUsageDescription" = "Instafeed need your microphone permission to assist you better";
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Instafeed need your photo usage permission to serve you better";

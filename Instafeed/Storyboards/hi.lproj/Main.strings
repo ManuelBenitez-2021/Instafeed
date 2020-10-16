@@ -1,0 +1,131 @@
+
+/* Class = "UILabel"; text = "Enter your mobile number"; ObjectID = "0Au-1P-Nxq"; */
+"0Au-1P-Nxq.text" = "अपना मोबाइल नंबर डालें";
+
+/* Class = "UILabel"; text = "JOURNALISM"; ObjectID = "0HZ-kj-V0X"; */
+"0HZ-kj-V0X.text" = "पत्रकारिता";
+
+/* Class = "UITextField"; placeholder = "Full name"; ObjectID = "24M-gf-QRN"; */
+"24M-gf-QRN.placeholder" = "पूरा नाम";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "6xW-uT-nVK"; */
+"6xW-uT-nVK.placeholder" = "पासवर्ड";
+
+/* Class = "UIButton"; normalTitle = "+91"; ObjectID = "8KM-zY-Iyg"; */
+"8KM-zY-Iyg.normalTitle" = "+91";
+
+/* Class = "UILabel"; text = "SignIn"; ObjectID = "8KN-0p-4yG"; */
+"8KN-0p-4yG.text" = "साइन इन करें";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "AsH-CP-NSZ"; */
+"AsH-CP-NSZ.placeholder" = "पासवर्ड";
+
+/* Class = "UITextField"; placeholder = "Insert the 6 digit code"; ObjectID = "BNJ-Bs-6YC"; */
+"BNJ-Bs-6YC.placeholder" = "6 अंकों का कोड डालें";
+
+/* Class = "UILabel"; text = "JOURNALISM"; ObjectID = "CyM-nK-K6C"; */
+"CyM-nK-K6C.text" = "पत्रकारिता";
+
+/* Class = "UILabel"; text = "SignUp"; ObjectID = "Cz0-PP-2Vs"; */
+"Cz0-PP-2Vs.text" = "साइन अप करें";
+
+/* Class = "UILabel"; text = "CITIZEN"; ObjectID = "Eib-Or-QRt"; */
+"Eib-Or-QRt.text" = "नागरिक";
+
+/* Class = "UIButton"; normalTitle = "FACEBOOK"; ObjectID = "F7d-me-6bH"; */
+"F7d-me-6bH.normalTitle" = "फेसबुक";
+
+/* Class = "UIButton"; normalTitle = "FACEBOOK"; ObjectID = "JeV-hC-CdP"; */
+"JeV-hC-CdP.normalTitle" = "फेसबुक";
+
+/* Class = "UILabel"; text = "BRAND"; ObjectID = "Mhl-sY-AA6"; */
+"Mhl-sY-AA6.text" = "ब्रांड";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Nxw-bX-4SM"; */
+"Nxw-bX-4SM.normalTitle" = "आगे";
+
+/* Class = "UILabel"; text = "You can use any below methods to grant access to the app"; ObjectID = "Omp-oT-PpD"; */
+"Omp-oT-PpD.text" = "ऐप तक पहुंच प्रदान करने के लिए आप नीचे दिए गए किसी भी तरीके का उपयोग कर सकते हैं";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "PSQ-b1-ktu"; */
+"PSQ-b1-ktu.normalTitle" = "लॉग इन करें";
+
+/* Class = "UILabel"; text = "SUPERSTAR"; ObjectID = "QOn-3L-i6Q"; */
+"QOn-3L-i6Q.text" = "सुपरस्टार";
+
+/* Class = "UIButton"; normalTitle = "Still without account? Create One"; ObjectID = "ROx-wD-uYz"; */
+"ROx-wD-uYz.normalTitle" = "फिर भी खाते के बिना? एक बनाएँ";
+
+/* Class = "UITextField"; placeholder = "Email address"; ObjectID = "TKH-Em-LMr"; */
+"TKH-Em-LMr.placeholder" = "ई-मेल";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "TPy-B6-LpD"; */
+"TPy-B6-LpD.text" = "0.00";
+
+/* Class = "UIButton"; normalTitle = "+91"; ObjectID = "WbU-dl-sEs"; */
+"WbU-dl-sEs.normalTitle" = "+91";
+
+/* Class = "UIButton"; normalTitle = "VERIFY NOW"; ObjectID = "ZHn-bD-9oO"; */
+"ZHn-bD-9oO.normalTitle" = "अभी सत्यापित करें";
+
+/* Class = "UITextField"; placeholder = "Email address/Username"; ObjectID = "ZHq-bH-sYZ"; */
+"ZHq-bH-sYZ.placeholder" = "ईमेल / उपयोगकर्ता नाम";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fLk-1a-eWg"; */
+"fLk-1a-eWg.text" = "लेबल";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "gMz-aD-Wtc"; */
+"gMz-aD-Wtc.normalTitle" = "वापस";
+
+/* Class = "UIButton"; normalTitle = "GMAIL"; ObjectID = "i7a-sP-kcI"; */
+"i7a-sP-kcI.normalTitle" = "जीमेल";
+
+/* Class = "UIButton"; normalTitle = "I already have an account  LOGIN"; ObjectID = "iza-dB-fpy"; */
+"iza-dB-fpy.normalTitle" = "मेरा पहले से ही एक खाता है  LOGIN";
+
+/* Class = "UIButton"; normalTitle = "GMAIL"; ObjectID = "nGt-o9-Dfo"; */
+"nGt-o9-Dfo.normalTitle" = "जीमेल";
+
+/* Class = "UISegmentedControl"; oBc-3r-QPt.segmentTitles[0] = "EMAIL"; ObjectID = "oBc-3r-QPt"; */
+"oBc-3r-QPt.segmentTitles[0]" = "ईमेल";
+
+/* Class = "UISegmentedControl"; oBc-3r-QPt.segmentTitles[1] = "OTHERS"; ObjectID = "oBc-3r-QPt"; */
+"oBc-3r-QPt.segmentTitles[1]" = "अन्य";
+
+/* Class = "UITextField"; placeholder = "95604*****"; ObjectID = "pRb-sS-Y9f"; */
+"pRb-sS-Y9f.placeholder" = "95604*****";
+
+/* Class = "UIButton"; normalTitle = "PLEASE AGAIN"; ObjectID = "pb0-mQ-ROV"; */
+"pb0-mQ-ROV.normalTitle" = "कृपया फिर से";
+
+/* Class = "UILabel"; text = "Select Type"; ObjectID = "s4j-DX-9m0"; */
+"s4j-DX-9m0.text" = "वर्ग चुनिए";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tZh-us-L0x"; */
+"tZh-us-L0x.text" = "लेबल";
+
+/* Class = "UITextField"; placeholder = "96504****"; ObjectID = "u8T-s9-VRZ"; */
+"u8T-s9-VRZ.placeholder" = "96504****";
+
+/* Class = "UILabel"; text = "It ends in"; ObjectID = "xdn-ov-0gJ"; */
+"xdn-ov-0gJ.text" = "यह में समाप्त होता है";
+
+/* Class = "UIButton"; normalTitle = "YOUR PHONE"; ObjectID = "y7L-Hs-gab"; */
+"y7L-Hs-gab.normalTitle" = "आपका फोन";
+
+/* Class = "UILabel"; text = "JOURNALISM"; ObjectID = "yWh-Dx-Fen"; */
+"yWh-Dx-Fen.text" = "पत्रकारिता";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password ?"; ObjectID = "yqc-N7-RWK"; */
+"yqc-N7-RWK.normalTitle" = "पासवर्ड भूल गए ?";
+
+/* Class = "UISegmentedControl"; zq6-ST-7Ng.segmentTitles[0] = "EMAIL"; ObjectID = "zq6-ST-7Ng"; */
+"zq6-ST-7Ng.segmentTitles[0]" = "ईमेल";
+
+/* Class = "UISegmentedControl"; zq6-ST-7Ng.segmentTitles[1] = "OTHERS"; ObjectID = "zq6-ST-7Ng"; */
+"zq6-ST-7Ng.segmentTitles[1]" = "अन्य";
+
+/* Class = "UIButton"; normalTitle = "SignUp"; ObjectID = "zsQ-9P-Tyr"; */
+"zsQ-9P-Tyr.normalTitle" = "साइन अप करें";
+
+"API_CANCEL_TITLE" = "रद्द करें";

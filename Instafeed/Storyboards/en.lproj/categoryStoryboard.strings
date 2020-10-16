@@ -1,0 +1,279 @@
+
+/* Class = "UIButton"; normalTitle = "New"; ObjectID = "1Hu-KZ-vrJ"; */
+"1Hu-KZ-vrJ.normalTitle" = "New";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "1Il-1g-cdw"; */
+"1Il-1g-cdw.normalTitle" = "See all";
+
+/* Class = "UILabel"; text = "comment comment comment comment commentcomment comment commentcomment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment "; ObjectID = "1bu-vo-Cpf"; */
+"1bu-vo-Cpf.text" = "comment comment comment comment commentcomment comment commentcomment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment ";
+
+/* Class = "UILabel"; text = "Date Label"; ObjectID = "1cY-1d-nlM"; */
+"1cY-1d-nlM.text" = "Date Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "2zE-4h-efK"; */
+"2zE-4h-efK.text" = "Title";
+
+/* Class = "UILabel"; text = "23"; ObjectID = "3A5-ZE-hv4"; */
+"3A5-ZE-hv4.text" = "23";
+
+/* Class = "UIButton"; normalTitle = "Liked"; ObjectID = "3Fp-1v-bTe"; */
+"3Fp-1v-bTe.normalTitle" = "Liked";
+
+/* Class = "UILabel"; text = "Superstar"; ObjectID = "5to-5Y-QNH"; */
+"5to-5Y-QNH.text" = "Superstar";
+
+/* Class = "UILabel"; text = "Post Name"; ObjectID = "6Gl-tP-0kG"; */
+"6Gl-tP-0kG.text" = "Post Name";
+
+/* Class = "UILabel"; text = "Times of India"; ObjectID = "6va-i2-wQe"; */
+"6va-i2-wQe.text" = "Times of India";
+
+/* Class = "UIButton"; normalTitle = "Posts"; ObjectID = "7XK-tk-DNL"; */
+"7XK-tk-DNL.normalTitle" = "Posts";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "9G0-mM-zhO"; */
+"9G0-mM-zhO.text" = "0";
+
+/* Class = "UILabel"; text = "Klaus Mikelson"; ObjectID = "9Hh-wb-Dkf"; */
+"9Hh-wb-Dkf.text" = "Klaus Mikelson";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "9qP-jS-xcU"; */
+"9qP-jS-xcU.normalTitle" = "Follow";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "A1i-G1-xDU"; */
+"A1i-G1-xDU.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Post"; ObjectID = "Dgs-UB-Unz"; */
+"Dgs-UB-Unz.normalTitle" = "Post";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FQR-SC-all"; */
+"FQR-SC-all.text" = "Label";
+
+/* Class = "UILabel"; text = "Citizen"; ObjectID = "FcQ-Xd-J8V"; */
+"FcQ-Xd-J8V.text" = "Citizen";
+
+/* Class = "UILabel"; text = "32"; ObjectID = "Fed-b9-XiI"; */
+"Fed-b9-XiI.text" = "32";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FiI-eZ-n5c"; */
+"FiI-eZ-n5c.text" = "Label";
+
+/* Class = "UILabel"; text = "Followers"; ObjectID = "GFm-iW-E5v"; */
+"GFm-iW-E5v.text" = "Followers";
+
+/* Class = "UILabel"; text = "Recommended Sources"; ObjectID = "J2d-rJ-An7"; */
+"J2d-rJ-An7.text" = "Recommended Sources";
+
+/* Class = "UITextField"; placeholder = "Search sources/channel/superstars"; ObjectID = "J9u-Yg-Q7g"; */
+"J9u-Yg-Q7g.placeholder" = "Search sources/channel/superstars";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KfV-sL-CZN"; */
+"KfV-sL-CZN.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "L3p-X7-CdA"; */
+"L3p-X7-CdA.title" = "Home";
+
+/* Class = "UIButton"; normalTitle = "STAR"; ObjectID = "L8b-oN-Gc1"; */
+"L8b-oN-Gc1.normalTitle" = "STAR";
+
+/* Class = "UILabel"; text = "Notification Detail"; ObjectID = "MPA-lE-gXI"; */
+"MPA-lE-gXI.text" = "Notification Detail";
+
+/* Class = "UILabel"; text = "2.5K"; ObjectID = "NHN-fY-9xa"; */
+"NHN-fY-9xa.text" = "2.5K";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "NoD-lI-jTb"; */
+"NoD-lI-jTb.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "15june,2019 11:05"; ObjectID = "Nsw-Ht-VjW"; */
+"Nsw-Ht-VjW.text" = "15june,2019 11:05";
+
+/* Class = "UILabel"; text = "comment comment comment comment commentcomment comment commentcomment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment "; ObjectID = "OE8-NU-NVg"; */
+"OE8-NU-NVg.text" = "comment comment comment comment commentcomment comment commentcomment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment comment ";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "OUP-kr-26i"; */
+"OUP-kr-26i.text" = "0";
+
+/* Class = "UILabel"; text = "Mason Moreno"; ObjectID = "Ob3-92-le8"; */
+"Ob3-92-le8.text" = "Mason Moreno";
+
+/* Class = "UILabel"; text = "Feeds"; ObjectID = "ObU-J5-nBU"; */
+"ObU-J5-nBU.text" = "Feeds";
+
+/* Class = "UILabel"; text = "Comments"; ObjectID = "PjB-AK-Ubb"; */
+"PjB-AK-Ubb.text" = "Comments";
+
+/* Class = "UILabel"; text = "10K Followers"; ObjectID = "S0J-pE-17k"; */
+"S0J-pE-17k.text" = "10K Followers";
+
+/* Class = "UILabel"; text = "Brand"; ObjectID = "SAS-sN-tHn"; */
+"SAS-sN-tHn.text" = "Brand";
+
+/* Class = "UILabel"; text = "34K"; ObjectID = "Ses-ud-Xpp"; */
+"Ses-ud-Xpp.text" = "34K";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TnL-bX-2VI"; */
+"TnL-bX-2VI.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "U4l-Er-lfZ"; */
+"U4l-Er-lfZ.text" = "Label";
+
+/* Class = "UILabel"; text = "32"; ObjectID = "UU5-NM-DMP"; */
+"UU5-NM-DMP.text" = "32";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "WK6-U5-aOH"; */
+"WK6-U5-aOH.text" = "0";
+
+/* Class = "UILabel"; text = "Likes"; ObjectID = "WjV-aY-0q7"; */
+"WjV-aY-0q7.text" = "Likes";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Wup-gP-Pqe"; */
+"Wup-gP-Pqe.text" = "Title";
+
+/* Class = "UILabel"; text = "1/1"; ObjectID = "XER-ql-9gf"; */
+"XER-ql-9gf.text" = "1/1";
+
+/* Class = "UILabel"; text = "Donald trump has won the US election,Meanwhile Obama congratulated him"; ObjectID = "Xvi-Lp-RCw"; */
+"Xvi-Lp-RCw.text" = "Donald trump has won the US election,Meanwhile Obama congratulated him";
+
+/* Class = "UIButton"; normalTitle = "BRAND"; ObjectID = "YD8-cY-uoQ"; */
+"YD8-cY-uoQ.normalTitle" = "BRAND";
+
+/* Class = "UILabel"; text = "Title Label"; ObjectID = "aed-re-3Vf"; */
+"aed-re-3Vf.text" = "Title Label";
+
+/* Class = "UILabel"; text = "567"; ObjectID = "alV-Dy-41s"; */
+"alV-Dy-41s.text" = "567";
+
+/* Class = "UIButton"; normalTitle = "CITIZEN"; ObjectID = "awx-hZ-GMp"; */
+"awx-hZ-GMp.normalTitle" = "CITIZEN";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bQ9-qY-Bsg"; */
+"bQ9-qY-Bsg.text" = "Label";
+
+/* Class = "UILabel"; text = "534 Stories"; ObjectID = "cEa-1k-11h"; */
+"cEa-1k-11h.text" = "534 Stories";
+
+/* Class = "UILabel"; text = "Bookmarks"; ObjectID = "cPJ-LW-Fp7"; */
+"cPJ-LW-Fp7.text" = "Bookmarks";
+
+/* Class = "UIButton"; normalTitle = "Add a comment"; ObjectID = "eGS-Sw-bBV"; */
+"eGS-Sw-bBV.normalTitle" = "Add a comment";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fS2-Or-g6B"; */
+"fS2-Or-g6B.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Add a comment"; ObjectID = "fhh-Ap-ArE"; */
+"fhh-Ap-ArE.normalTitle" = "Add a comment";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "fhi-NJ-GFv"; */
+"fhi-NJ-GFv.text" = "Description";
+
+/* Class = "UILabel"; text = "New Delhi,India"; ObjectID = "g0D-sH-kqd"; */
+"g0D-sH-kqd.text" = "New Delhi,India";
+
+/* Class = "UIButton"; normalTitle = "PEOPLE"; ObjectID = "gvN-sJ-3cj"; */
+"gvN-sJ-3cj.normalTitle" = "PEOPLE";
+
+/* Class = "UITextField"; placeholder = "Search for your local language"; ObjectID = "hCU-37-KSm"; */
+"hCU-37-KSm.placeholder" = "Search for your local language";
+
+/* Class = "UILabel"; text = "981"; ObjectID = "hnX-tI-vcu"; */
+"hnX-tI-vcu.text" = "981";
+
+/* Class = "UIButton"; normalTitle = "Buy $10"; ObjectID = "iBI-15-agh"; */
+"iBI-15-agh.normalTitle" = "Buy $10";
+
+/* Class = "UIButton"; normalTitle = "En"; ObjectID = "jTp-Vp-r1o"; */
+"jTp-Vp-r1o.normalTitle" = "En";
+
+/* Class = "UILabel"; text = "Recents"; ObjectID = "jZI-Tb-GGB"; */
+"jZI-Tb-GGB.text" = "Recents";
+
+/* Class = "UILabel"; text = "2.5K"; ObjectID = "kh5-kL-VvE"; */
+"kh5-kL-VvE.text" = "2.5K";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "mpm-MM-Yvw"; */
+"mpm-MM-Yvw.text" = "0";
+
+/* Class = "UILabel"; text = "Following"; ObjectID = "n5C-8V-q7H"; */
+"n5C-8V-q7H.text" = "Following";
+
+/* Class = "UILabel"; text = "Sports"; ObjectID = "nXH-6C-28c"; */
+"nXH-6C-28c.text" = "Sports";
+
+/* Class = "UILabel"; text = "text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text "; ObjectID = "njc-pQ-vsx"; */
+"njc-pQ-vsx.text" = "text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oWN-k5-3Pd"; */
+"oWN-k5-3Pd.text" = "Label";
+
+/* Class = "UILabel"; text = "Follow your intrest below to have a personalised experience"; ObjectID = "omz-L8-ufI"; */
+"omz-L8-ufI.text" = "Follow your intrest below to have a personalised experience";
+
+/* Class = "UILabel"; text = "Europe has six of the ten healthiest nation on earth Europe has six of the ten healthiest nation on earth "; ObjectID = "pFi-Mw-aMl"; */
+"pFi-Mw-aMl.text" = "Europe has six of the ten healthiest nation on earth Europe has six of the ten healthiest nation on earth ";
+
+/* Class = "UILabel"; text = "The Times of India"; ObjectID = "prn-AB-rP2"; */
+"prn-AB-rP2.text" = "The Times of India";
+
+/* Class = "UINavigationItem"; title = "Notifications"; ObjectID = "rDI-mR-yHi"; */
+"rDI-mR-yHi.title" = "Notifications";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "riA-2F-Dgk"; */
+"riA-2F-Dgk.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Reply"; ObjectID = "s4a-Bn-oJh"; */
+"s4a-Bn-oJh.normalTitle" = "Reply";
+
+/* Class = "UILabel"; text = "5 min"; ObjectID = "sMq-cH-nop"; */
+"sMq-cH-nop.text" = "5 min";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "syX-mZ-QVH"; */
+"syX-mZ-QVH.text" = "Label";
+
+/* Class = "UILabel"; text = "No Posts Avaliable"; ObjectID = "tFm-a5-bcW"; */
+"tFm-a5-bcW.text" = "No Posts Avaliable";
+
+/* Class = "UILabel"; text = "Followers Label"; ObjectID = "tRT-oG-bte"; */
+"tRT-oG-bte.text" = "Followers Label";
+
+/* Class = "UILabel"; text = "Headline Headline Headline HeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadline"; ObjectID = "tTF-x4-Xhr"; */
+"tTF-x4-Xhr.text" = "Headline Headline Headline HeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadlineHeadline";
+
+/* Class = "UILabel"; text = "1/1"; ObjectID = "teD-Vd-dre"; */
+"teD-Vd-dre.text" = "1/1";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tnl-zi-Gwz"; */
+"tnl-zi-Gwz.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Delhi Govt bans the use of plastic bags, usage will cause a penalty"; ObjectID = "txC-7d-9w9"; */
+"txC-7d-9w9.text" = "Delhi Govt bans the use of plastic bags, usage will cause a penalty";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "uZZ-md-RPH"; */
+"uZZ-md-RPH.text" = "10";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vU5-kh-SPG"; */
+"vU5-kh-SPG.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "w08-qa-Aq3"; */
+"w08-qa-Aq3.text" = "Label";
+
+/* Class = "UILabel"; text = "Politics"; ObjectID = "w7O-Ta-Mal"; */
+"w7O-Ta-Mal.text" = "Politics";
+
+/* Class = "UITextField"; placeholder = "Search for your local language"; ObjectID = "xfZ-PN-8KE"; */
+"xfZ-PN-8KE.placeholder" = "Search for your local language";
+
+/* Class = "UILabel"; text = "82"; ObjectID = "yhU-ym-uQh"; */
+"yhU-ym-uQh.text" = "82";
+
+/* Class = "UILabel"; text = "8:30am"; ObjectID = "zNa-fA-Vc6"; */
+"zNa-fA-Vc6.text" = "8:30am";
+
+/* Class = "UINavigationItem"; title = "Categories"; ObjectID = "zUc-M3-r1x"; */
+"zUc-M3-r1x.title" = "Categories";
+
+/* Class = "UITextField"; placeholder = "Search News, Video & More..."; ObjectID = "zmt-s3-4FM"; */
+"zmt-s3-4FM.placeholder" = "Search News, Video & More...";
